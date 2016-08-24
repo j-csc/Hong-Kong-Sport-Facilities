@@ -1,0 +1,440 @@
+[
+    {
+        "Name_cn": "柴灣體育館",
+        "Address_cn": "柴灣怡順街",
+        "Phone": "2897 9144 ",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "鰂魚涌體育館",
+        "Address_cn": "鰂魚涌街38號鰂魚涌市政大廈6字樓",
+        "Phone": "2562 0374 ",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "港島東體育館",
+        "Address_cn": "西灣河鯉景道52號",
+       "Phone":  "2151 4070",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "駱克道體育館",
+        "Address_cn": "灣仔軒尼詩道225號駱克道市政大廈10樓",
+        "Phone": "2879 5521 ",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "香港公園體育館",
+        "Address_cn": "中環紅棉路29號",
+       "Phone":  "2521 5072",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "石塘咀體育館",
+        "Address_cn": "皇后大道西470號5樓",
+        "Phone": "2858 0541 ",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "上環體育館",
+        "Address_cn": "皇后大道中345號11字樓",
+        "Phone": "2853 2574 ",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "士美非路體育館",
+        "Address_cn": "香港堅尼地城士美菲路12K號士美非路市政大廈4樓",
+        "Phone": "2855 7321 ",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "中山紀念公園體育館",
+        "Address_cn": "西營盤東邊街北18號",
+       "Phone":  "2858 2493",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "香港仔體育館",
+        "Address_cn": "香港仔大道203號香港仔市政大廈5字樓",
+        "Phone": "2555 8909 ",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "香港仔網球及壁球中心",
+        "Address_cn": "香港仔海傍道1號",
+        "Phone": "2553 6130 ",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "鴨脷洲體育館",
+        "Address_cn": "鴨脷洲洪聖街8號",
+       "Phone":  "2554 0832",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "土瓜灣體育館",
+        "Address_cn": "土瓜灣下鄉道66號",
+        "Phone": "2364 9285 ",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "佛光街體育館",
+        "Address_cn": "何文田牧愛街18號",
+       "Phone":  "2712 2652",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "何文田體育館",
+        "Address_cn": "何文田忠義街1號",
+       "Phone":  "2762 7837",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "牛頭角道體育館",
+        "Address_cn": "牛頭角道183號牛頭角市政大廈4樓",
+        "Phone": "2756 3466 ",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "藍田(南)體育館",
+        "Address_cn": "藍田碧雲道170號",
+        "Phone": "2379 9254 ",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "順利邨體育館",
+        "Address_cn": "觀塘順利邨道",
+        "Phone": "2951 4136 ",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "鯉魚門體育館",
+        "Address_cn": "觀塘油塘鯉魚門徑6號鯉魚門市政大廈2字樓",
+        "Phone": "2349 3954 ",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "彩虹道體育館",
+        "Address_cn": "黃大仙彩虹道150號",
+        "Phone": "2326 2714 ",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "蒲崗村道體育館",
+        "Address_cn": "黃大仙蒲崗村道120號",
+        "Phone": "2325 3585 ",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "竹園體育館",
+        "Address_cn": "黃大仙竹園道竹園北邨",
+       "Phone":  "2324 3960",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "花園街體育館",
+        "Address_cn": "旺角花園街123號A花園街市政大廈10字樓",
+        "Phone": "2395 1501 ",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "九龍公園體育館",
+        "Address_cn": "尖沙咀柯士甸道22號",
+        "Phone": "2724 3344 ",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "官涌體育館",
+        "Address_cn": "佐敦寶靈街17號官涌市政大廈5字樓",
+        "Phone": "2302 1275 ",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "大角咀體育館",
+        "Address_cn": "九龍大角咀褔全街63號大角咀市政大廈6樓",
+       "Phone":  "2393 1084",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "北河街體育館",
+        "Address_cn": "深水埗基隆街333號北河街市政大廈5字樓",
+        "Phone": "2729 1010 ",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "保安道體育館",
+        "Address_cn": "深水埗保安道325-329號保安道市政大廈2字樓",
+        "Phone": "2729 4237 ",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "石硤尾公園體育館",
+        "Address_cn": "深水埗南昌街290號",
+        "Phone": "2784 7424 ",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "香港單車館",
+        "Address_cn": "將軍澳寶康路107號",
+       "Phone":  "2878 8622",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "寶林體育館",
+        "Address_cn": "將軍澳寶林邨",
+       "Phone":  "2701 5918",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "翠林體育館",
+        "Address_cn": "將軍澳翠林邨",
+       "Phone":  "2703 1137",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "將軍澳體育館",
+        "Address_cn": "將軍澳運隆路9號",
+       "Phone":  "2701 2317",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "坑口體育館",
+        "Address_cn": "將軍澳培成路38號西貢將軍澳政府綜合大樓1樓",
+       "Phone":  "2623 5928",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "調景嶺體育館",
+        "Address_cn": "將軍澳翠嶺路2號",
+       "Phone":  "2481 5033",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "和興體育館",
+        "Address_cn": "粉嶺和鳴里8號",
+        "Phone": "2669 7057 ",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "聯和墟體育館",
+        "Address_cn": "粉嶺和滿街9號3樓",
+       "Phone":  "2677 5149",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "龍琛路體育館",
+        "Address_cn": "上水馬會道155號",
+       "Phone":  "2673 4433",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "天平體育館",
+        "Address_cn": "上水天平邨天平商場3樓",
+        "Phone": "2673 3699 ",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "保榮路體育館",
+        "Address_cn": "上水百和路19號",
+        "Phone": "2639 2979 ",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "大埔體育館",
+        "Address_cn": "大埔汀太路13號",
+       "Phone":  "2664 7222",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "大埔墟體育館",
+        "Address_cn": "大埔鄉事會街8號大埔綜合大樓6樓",
+       "Phone":  "3183 9011",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "太和體育館",
+        "Address_cn": "大埔太和邨太和商場平台",
+        "Phone": "2656 3398 ",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "富善體育館f",
+        "Address_cn": "大埔富善邨停車場7樓",
+       "Phone":  "2661 4144",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "富亨體育館",
+        "Address_cn": "大埔富亨邨富亨商場1字樓",
+        "Phone": "2665 2753 ",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "源禾路體育館",
+        "Address_cn": "沙田源禾路8號",
+        "Phone": "2604 5987 ",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "恒安體育館",
+        "Address_cn": "沙田恆安邨恆安商場4樓",
+        "Phone": "2642 0203 ",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "顯徑體育館",
+        "Address_cn": "沙田顯徑邨顯徑商場",
+        "Phone": "2605 8407 ",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "美林體育館",
+        "Address_cn": "沙田美林邨",
+       "Phone":  "2695 9318",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "馬鞍山體育館",
+        "Address_cn": "沙田馬鞍山鞍駿街14號",
+        "Phone": "2631 1597 ",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "長洲體育館",
+        "Address_cn": "長洲南蛇塘",
+        "Phone": "2981 6285 ",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "梅窩體育館",
+        "Address_cn": "梅窩銀石街9號梅窩市政大廈",
+        "Phone": "2984 2334 ",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "坪洲體育館",
+        "Address_cn": "坪洲寶坪街6號坪洲市政大廈",
+        "Phone": "2983 1271 ",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "大窩口體育館",
+        "Address_cn": "葵涌大窩口大廈街",
+        "Phone": "2920 2011 ",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "荔景體育館",
+        "Address_cn": "葵涌荔景麗祖路",
+        "Phone": "2744 5678 ",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "北葵涌鄧肇堅體育館",
+        "Address_cn": "葵涌和宜合道292號",
+        "Phone": "2426 3269 ",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "長發體育館",
+        "Address_cn": "青衣長發邨長發廣場4樓",
+        "Phone": "2433 5886 ",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "楓樹窩體育館",
+        "Address_cn": "青衣楓樹窩路10號青衣邨第二期",
+        "Phone": "2433 6523 ",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "林士德體育館",
+        "Address_cn": "葵涌興芳路176號",
+        "Phone": "2422 5610 ",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "青衣體育館",
+        "Address_cn": "青衣青綠街38號青衣市政大廈2樓",
+        "Phone": "2495 4631 ",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "良田體育館",
+        "Address_cn": "屯門田景邨停車場4字樓",
+        "Phone": "2467 1594 ",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "大興體育館",
+        "Address_cn": "屯門青松觀路",
+        "Phone": "2463 1260 ",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "友愛體育館",
+        "Address_cn": "屯門興安里",
+        "Phone": "2450 8850 ",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "賽馬會屯門蝴蝶灣體育館",
+        "Address_cn": "屯門湖山路",
+        "Phone": "2465 7610 ",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "楊屋道體育館",
+        "Address_cn": "荃灣楊屋道45號楊屋道市政大廈4樓f",
+        "Phone": "2415 4445 ",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "蕙荃體育館",
+        "Address_cn": "荃灣廟崗街6號",
+        "Phone": "2415 2621 ",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "荃灣西約體育館",
+        "Address_cn": "荃灣海安路68號",
+        "Phone": "2412 0904 ",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "天水圍體育館",
+        "Address_cn": "天水圍天柏路1號",
+        "Phone": "2446 4778 ",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "鳳琴街體育館",
+        "Address_cn": "元朗鳳攸北街",
+        "Phone": "2475 2334 ",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "天瑞體育館",
+        "Address_cn": "元朗天水圍天瑞路7號",
+        "Phone": "2446 6609 ",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "天暉路體育館",
+        "Address_cn": "新界天水圍天瑞路63號",
+        "Phone": "2473 0229 ",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "朗屏體育館",
+        "Address_cn": "元朗朗屏邨朗屏商場2樓",
+        "Phone": "2475 2404 ",
+    	"Category_cn": "健身室"
+    },
+    {
+        "Name_cn": "東涌文東路體育館",
+        "Address_cn": "新界東涌文東路39號東涌巿政大樓2樓",
+        "Phone": "2109 2421 ",
+    	"Category_cn": "健身室"
+    }
+]

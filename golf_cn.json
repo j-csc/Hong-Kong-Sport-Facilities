@@ -1,0 +1,92 @@
+[
+	{
+		"Address_en": "54 Lung Mun Road, Tuen Mun, N.T.",
+		"Name_en": "Tuen Mun Golf Centre",
+		"Category_en": "公眾高爾夫球場",
+		"ClosedOn_en": "Thursday",
+		"OpeningHour_en": "Mon and Thur (Maintenance Day): 1 pm - 10 pm ; Tue, Wed, Fri, Sat, Sun & Public Holidays: 8 am - 10 pm",
+		"Phone": "2466 2600",
+		"URL_en": "http://www.lcsd.gov.hk/en/golf/tuen_mun.html"
+	},
+	{
+		"Address_en": "298 Wo Yi Hop Road, Kwai Chung, N.T.",
+		"Name_en": "Wo Yi Hop Road Golf Driving Range",
+		"Category_en": "公眾高爾夫球場",
+		"ClosedOn_en": "Monday, Wednesday, Thursday, Friday, Saturday",
+		"OpeningHour_en": "6pm to 10pm in every Tuesdays and Sundays",
+		"Phone": "2429 8196",
+		"URL_en": "http://www.lcsd.gov.hk/en/golf/woyihop.html"
+	},
+	{
+		"Address_en": "Shun Lee Tsuen Road, Kwun Tong ",
+		"Name_en": "Shun Lee Tsuen Sports Centre Indoor Golf Driving Range",
+		"Category_en": "公眾高爾夫球場",
+		"ClosedOn_en": "1st & 3rd Mondays of each month (Maintenance Day)",
+		"OpeningHour_en": "7 am - 11 pm Daily",
+		"Phone": "2951 4136",
+		"URL_en": "http://www.lcsd.gov.hk/en/golf/shun_lee.html"
+	},
+	{
+		"Address_en": "52 Lei King Road, Sai Wan Ho",
+		"Name_en": "Indoor Golf Driving Bays at Island East Sports Centre",
+		"Category_en": "公眾高爾夫球場",
+		"ClosedOn_en": "1st & 3rd Mondays of each month (Maintenance Day)",
+		"OpeningHour_en": "7 am - 11 pm Daily",
+		"Phone": "2151 4070",
+		"URL_en": "http://www.lcsd.gov.hk/en/golf/island_east.html"
+	},
+	{
+		"Address_en": "Kau Sai Chau, Sai Kung",
+		"Name_en": "The Jockey Club Kau Sai Chau Public Golf Course",
+		"Category_en": "公眾高爾夫球場",
+		"ClosedOn_en": "",
+		"OpeningHour_en": "Daily",
+		"Phone": "2791 3388",
+		"URL_en": "www.kscgolf.org.hk"
+	},
+	{
+		"Address_en": "139 Tai Au Mun Road",
+		"Name_en": "The Clearwater Bay Golf and Country Club Hong Kong",
+		"Category_en": "私人高爾夫球場",
+		"ClosedOn_en": "",
+		"OpeningHour_en": "Daily",
+		"Phone": "2719 1595",
+		"URL_en": "http://www.cwbgolf.org/index.aspx"
+	},
+	{
+		"Address_en": "Valley Road, Discovery Bay, Lantau Island",
+		"Name_en": "Discovery Bay Golf Club",
+		"Category_en": "私人高爾夫球場",
+		"ClosedOn_en": "",
+		"OpeningHour_en": "Daily",
+		"Phone": "2987 7273",
+		"URL_en": "http://www.dbgc.hk/"
+	},
+	{
+		"Address_en": "Fan Kam Road, Fanling",
+		"Name_en": "The Hong Kong Golf Club",
+		"Category_en": "私人高爾夫球場",
+		"ClosedOn_en": "",
+		"OpeningHour_en": "Daily",
+		"Phone": "2670 1211",
+		"URL_en": "www.hkgolfclub.org"
+	},
+	{
+		"Address_en": "19 Island Road, Deep Water Bay",
+		"Name_en": "The Hong Kong Golf Club (Deep Water Bay)",
+		"Category_en": "私人高爾夫球場",
+		"ClosedOn_en": "",
+		"OpeningHour_en": "Daily",
+		"Phone": "2812 7070 ",
+		"URL_en": "www.hkgolfclub.org"
+	},
+	{
+		"Address_en": "Shek O, Hong Kong",
+		"Name_en": "Shek O Country Club",
+		"Category_en": "私人高爾夫球場",
+		"ClosedOn_en": "",
+		"OpeningHour_en": "Daily",
+		"Phone": "2809 4458",
+		"URL_en": ""
+	}
+]

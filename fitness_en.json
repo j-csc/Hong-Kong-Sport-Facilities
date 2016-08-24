@@ -1,0 +1,440 @@
+[
+    {
+        "Name_en": "Chai Wan Sports Centre",
+        "Address_en": "Yee Shun Street, Chai Wan",
+        "Phone": "2897 9144",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Quarry Bay Sports Centre",
+        "Address_en": "6/F., Quarry Bay Complex, 38 Quarry Bay Street",
+        "Phone": "2562 0374",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Island East Sports Centre",
+        "Address_en": "52 Lei King Road, Sai Wan Ho",
+        "Phone": "2151 4070",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Lockhart Road Sports Centre",
+        "Address_en": "10/F., Lockhart Road Municipal Services Building, 225 Hennessy Road, Wan Chai",
+        "Phone": "2879 5521",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Hong Kong Park Sports Centre",
+        "Address_en": "29 Cotton Tree Drive, Central",
+        "Phone": "2521 5072",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Shek Tong Tsui Sports Centre",
+        "Address_en": "5/F., 470 Queen's Road West",
+        "Phone": "2858 0541",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Sheung Wan Sports Centre",
+        "Address_en": "11/F., 345 Queen's Road Central",
+        "Phone": "2853 2574",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Smithfield Sports Centre",
+        "Address_en": "4/F, Smithfield Municipal Services Building, 12K Smithfield, Kennedy Town, Hong Kong",
+        "Phone": "2855 7321",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Sun Yat Sen MemorialPark Sports Centre",
+        "Address_en": "18 Eastern Street North, Western",
+        "Phone": "2858 2493",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Aberdeen Sports Centre",
+        "Address_en": "5/F., Aberdeen Municipal Services Building,203 Aberdeen Main Road, Aberdeen",
+        "Phone": "2555 8909",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Aberdeen Tennis and Squash Centre",
+        "Address_en": "No. 1, Aberdeen Praya Road, Hong Kong",
+        "Phone": "2553 6130",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Ap Lei Chau Sports Centre ",
+        "Address_en": "8 Hung Shing Street, Ap Lei Chau",
+        "Phone": "2554 0832",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "To Kwa Wan Sports Centre",
+        "Address_en": "66 Ha Heung Road, To Kwa Wan",
+        "Phone": "2364 9285",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Fat Kwong Street Sports Centre",
+        "Address_en": "18 Good Shepherd Street, Ho Man Tin",
+        "Phone": "2712 2652",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Ho Man TinSports Centre",
+        "Address_en": "1 Chung Yee Street, Ho Man Tin",
+        "Phone": "2762 7837",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Ngau Tau Kok Road Sports Centre",
+        "Address_en": "4/F, Ngau Tak Kok Municipal Services Building, 183 Ngau Tau Kok Road",
+        "Phone": "2756 3466",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Lam Tin South Sports Centre",
+        "Address_en": "170 Pik Wan Road, Lam Tin",
+        "Phone": "2379 9254",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Shun Lee Tsuen Sports Centre",
+        "Address_en": "Shun Lee Tsuen Road, Kwun Tong",
+        "Phone": "2951 4136",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Lei Yue Mun Sports Centre",
+        "Address_en": "2/F., Lei Yue Mun Municipal Services Building, 6 Lei Yue Mun Path, Yau Tong, Kwun Tong",
+        "Phone": "2349 3954",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Choi Hung Road Sports Centre ",
+        "Address_en": "150 Choi Hung Road, Wong Tai Sin",
+        "Phone": "2326 2714",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Po Kong Village Road Sports Centre",
+        "Address_en": "120 Po Kong Village Road, Wong Tai Sin",
+        "Phone": "2325 3585",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Chuk Yuen Sports Centre ",
+        "Address_en": "Chuk Yuen North Estate, Chuk Yuen Road,Wong Tai Sin",
+        "Phone": "2324 3960",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Fa Yuen Street Sports Centre",
+        "Address_en": "10/F., Fa Yuen Street Municipal Services Building, 123A Fa Yuen Street, Mongkok",
+        "Phone": "2395 1501",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Kowloon Park Sports Centre",
+        "Address_en": "22 Austin Road, Tsim Sha Tsui",
+        "Phone": "2724 31202,724 3344"
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Kwun Chung Sports Centre",
+        "Address_en": "5/F., Kwun Chung Municipal Service Building,17 Bowring Street, Jordan",
+        "Phone": "2302 1275",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Tai Kok Tsui Sports Centre",
+        "Address_en": "6/F., Tai Kok Tsui Municipal Services Building,63 Fuk Tsun Street, Tai Kok Tsui, Kowloon",
+        "Phone": "2393 1084",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Pei Ho Street Sports Centre",
+        "Address_en": "5/F., Pei Ho Street Municipal Services Building,333 Ki Lung Street, Sham Shui Po",
+        "Phone": "2729 1010",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Po On Road Sports Centre ",
+        "Address_en": "2/F., Po On Road Municipal Services Building,325-329 Po On Road, Sham Shui Po",
+        "Phone": "2729 4237",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Shek Kip Mei Park Sports Centre",
+        "Address_en": "290 Nam Cheong Street, Sham Shui Po",
+        "Phone": "2784 7424",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Hong Kong Velodrome",
+        "Address_en": "107 Po Hong Road, Tseung Kwan O",
+        "Phone": "2878 8622",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Po Lam Sports Centre",
+        "Address_en": "Po Lam Estate, Tseung Kwan O",
+        "Phone": "2701 5918",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Tsui Lam Sports Centre",
+        "Address_en": "Tsui Lam Estate, Tseung Kwan O",
+        "Phone": "2703 1137",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Tseung Kwan O Sports Centre",
+        "Address_en": "9 Wan Lung Road, Tseung Kwan O",
+        "Phone": "2701 2317",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Hang Hau Sports Centre",
+        "Address_en": "1/F, Sai Kung Tseung Kwan O Government Complex, 38 Pui Shing Road, Tseung Kwan O",
+        "Phone": "2623 5928",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Tiu Keng Leng Sports Centre",
+        "Address_en": "2 Chui Ling Road, Tseung Kwan O",
+        "Phone": "2481 5033",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Wo Hing Sports Centre",
+        "Address_en": "8 Wo Ming Lane, Fanling",
+        "Phone": "2669 7057",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Luen Wo Hui Sports Centre",
+        "Address_en": "3/F., 9 Wo Mun Street, Luen Wo Hui, Fanling",
+        "Phone": "2677 5149",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Lung Sum Avenue Sports Centre",
+        "Address_en": "155 Jockey Club Road, Sheung Shui",
+        "Phone": "2673 4433",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Tin Ping Sports Centre",
+        "Address_en": "3/F., Tin Ping Estate Shopping Centre,Tin Ping Estate, Sheung Shui",
+        "Phone": "2673 3699",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Po Wing Road Sports Centre",
+        "Address_en": "19 Pak Wo Road, Sheung Shui",
+        "Phone": "2639 2979",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Tai Po Sports Centre",
+        "Address_en": "13 Ting Tai Road, Tai Po",
+        "Phone": "2664 7222",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Tai Po Hui Sports Centre",
+        "Address_en": "6/F., Tai Po Complex, 8 Heung Sze Wui Street,Tai Po",
+        "Phone": "3183 9011",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Tai Wo Sports Centre",
+        "Address_en": "Podium Level, Tai Wo Shopping Centre,Tai Wo Estate, Tai Po",
+        "Phone": "2656 3398",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Fu Shin Sports Centre",
+        "Address_en": "6/F., Multi Car-Park Building, Fu Shin Estate, Tai Po",
+        "Phone": "2661 4144",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Fu Heng Sports Centre",
+        "Address_en": "1/F., Fu Heng Shopping Centre, Fu Heng Estate, Tai Po",
+        "Phone": "2665 2753",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Yuen Wo Road Sports Centre ",
+        "Address_en": "8 Yuen Wo Road, Sha Tin",
+        "Phone": "2604 5987",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Heng On Sports Centre",
+        "Address_en": "4/F., Heng On Commercial Centre, Heng On Estate, Sha Tin",
+        "Phone": "2642 0203",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Hin Keng Sports Centre",
+        "Address_en": "Hin Keng Commercial Centre, Hin Keng Estate, Sha Tin",
+        "Phone": "2605 8407",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Mei Lam Sports Centre ",
+        "Address_en": "Mei Lam Estate, Sha Tin",
+        "Phone": "2695 9318",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Ma On ShanSports Centre",
+        "Address_en": "14 On Chun Street, Ma On Shan, N.T.",
+        "Phone": "2631 1597",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Cheung Chau Sports Centre ",
+        "Address_en": "Nam She Tong, Cheung Chau",
+        "Phone": "2981 6285",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Mui Wo Sports Centre ",
+        "Address_en": "Mui Wo Municipal Services Building, 9 Ngan Shek Street, Mui Wo",
+        "Phone": "2984 2334",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Peng Chau Sports Centre",
+        "Address_en": "Peng Chau Municipal Services Building,6 Po Ping Street, Peng Chau",
+        "Phone": "2983 1271",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Tai Wo Hau Sports Centre",
+        "Address_en": "Tai Ha Street, Tai Wo Hau Estate, Kwai Chung",
+        "Phone": "2920 2011",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Lai King Sports Centre",
+        "Address_en": "Lai Cho Road, Lai King, Kwai Chung",
+        "Phone": "2744 5678",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "North Kwai Chung Tang Shiu Kin Sports Centre",
+        "Address_en": "292 Wo Yi Hop Road, Kwai Chung",
+        "Phone": "2426 3269",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Cheung FatSports Centre ",
+        "Address_en": "4/F., Cheung Fat Plaza,Cheung Fat Estate, Tsing Yi",
+        "Phone": "2433 5886",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Fung Shue Wo Sports Centre",
+        "Address_en": "Phase II, Tsing Yi Estate, 10 Fung Shue Wo Road, Tsing Yif",
+        "Phone": "2433 6523",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Osman Ramju Sadick Memorial Sports Centre",
+        "Address_en": "176 Hing Fong Road, Kwai Chung",
+        "Phone": "2422 5610",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Tsing Yi Sports Centre",
+        "Address_en": "2/F., Tsing Yi Municipal Services Building,38 Tsing Luk Street, Tsing Yi",
+        "Phone": "2495 4631",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Leung Tin Sports Centre",
+        "Address_en": "4/F., Carpark Building, Tin King Estate, Tuen Mun",
+        "Phone": "2467 1594",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Tai Hing Sports Centre",
+        "Address_en": "Tsing Chung Koon Road, Tuen Mun",
+        "Phone": "2463 1260",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Yau Oi Sports Centre ",
+        "Address_en": "Hing On Lane, Tuen Mun",
+        "Phone": "2450 8850",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "The Jockey Club Tuen Mun Butterfly Beach Sports Centre",
+        "Address_en": "Wu Shan Road, Tuen Mun",
+        "Phone": "2465 7610",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Yeung Uk Road Sports Centre",
+        "Address_en": "4/F., Yeung Uk Road Municipal Services Building,45 Yeung Uk Road, Tsuen Wan",
+        "Phone": "2415 4445",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Wai Tsuen Sports Centre",
+        "Address_en": "6 Miu Kong Street, Tsuen Wan",
+        "Phone": "2415 2621",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Tsuen Wan West Sports Centre",
+        "Address_en": "68 Hoi On Street, Tsuen Wan",
+        "Phone": "2412 0904",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Tin Shui Wai Sports Centre ",
+        "Address_en": "1 Tin Pak Road, Tin Shui Wai",
+        "Phone": "2446 4778",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Fung Kam Street Sports Centre",
+        "Address_en": "Fung Yau Street North, Yuen Long",
+        "Phone": "2475 2334",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Tin Shui Sports Centre",
+        "Address_en": "7 Tin Shui Road, Tin Shui Wai,Yuen Long",
+        "Phone": "2446 6609",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Tin Fai Road Sports Centre",
+        "Address_en": "63 Tin Shui Road, Tin Shui Wai, NT",
+        "Phone": "2473 0229",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "Long Ping Sports Centre",
+        "Address_en": "2/F., Long Ping Commercial Centre,Long Ping Estate, Yuen Long",
+        "Phone": "2475 2404",
+    	"Category_en": "Fitness Rooms"
+    },
+    {
+        "Name_en": "TuPhoneng Chung Man Tung Road Sports Centre",
+        "Address_en": "2/F Tung Chung Municipal Services Building, 39 Man Tung Road, Tung Chung, N.T.",
+        "Phone": "2109 2421",
+    	"Category_en": "Fitness Rooms"
+    }
+]
