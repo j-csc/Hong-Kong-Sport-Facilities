@@ -1,0 +1,38 @@
+[   
+    {
+        "Category_en": "Netball Courts",
+        "District": "Kowloon City",
+        "Name_en": "Tai Wan Shan Park",
+        "Address_en": "Wan Hoi Street, Hung Hom, Kowloon.",
+        "Ancillary facilities_en": "․This court is a multi-purpose court which can be used for playing soccer or netball.\n․Toilets and changing rooms are provided in the Park. ․Other facilities include 2 basketball courts and 1 children's playground. ․Spectator stands are provided in this pitch. ",
+        "OpeningHour_en": "7 am to 11 pm daily",
+        "Phone": "2330 1708 / 2762 2083"
+    },
+    {
+        "Category_en": "Netball Courts",
+        "District": "Sham Shui Po",
+        "Name_en": "Fa Hui Park",
+        "Address_en": "101 Boundary Street, Kowloon",
+        "Ancillary facilities_en": "Toilet and changing facilities",
+        "OpeningHour_en": "7 am to 11 pm daily",
+        "Phone": "2741 4044"
+    },
+    {
+        "Category_en": "Netball Courts",
+        "District": "Sham Shui Po",
+        "Name_en": "Sham Shui Po Sports Ground",
+        "Address_en": "3 Hing Wah Street, Cheung Sha Wan, Kowloon",
+        "Ancillary facilities_en": "Toilet facilities",
+        "OpeningHour_en": "7 am to 11 pm daily",
+        "Phone": "2741 4044"
+    },
+    {
+        "Category_en": "Netball Courts",
+        "District": "Southern",
+        "Name_en": "Wong Chuk Hang Recreation Ground",
+        "Address_en": "No. 108 Wong Chuk Hang Road, Aberdeen, Hong Kong",
+        "Ancillary facilities_en": "․The 8 courts can be converted into 2 5-a-side soccer pitches or 2 7-a-side soccer pitches.\n․Toilets, changing rooms and 8 spectator stands are provided in the Recreation Ground. ",
+        "OpeningHour_en": "7 am to 11 pm daily",
+        "Phone": "2555 0103"
+    }
+]

@@ -1,0 +1,65 @@
+[   
+    {
+        "Category_en": "Tape-ball Cricket Ground",
+        "District": "Islands",
+        "Name_en": "Tung Chung North Park",
+        "Address_en": "29 Man Tung Road, Tung Chung, Lantau Island",
+        "Ancillary facilities_en": "․A spectator stand (approx. 200 seats)\n․Toilet, shower rooms and changing rooms",
+        "OpeningHour_en": "7 am to 11 pm daily",
+        "Phone": "2109 3423"
+    },
+    {
+        "Category_en": "Tape-ball Cricket Ground",
+        "District": "Kowloon City",
+        "Name_en": "Junction Road Park",
+        "Address_en": "195 Junction Road, Kowloon City.",
+        "Ancillary facilities_en": "․Toilets (including a toilet for persons with disabilities) and changing rooms with lockers are provided in the Park.\n․Other facilities include 6 tennis courts, 2 basketball courts, 2 sets of children's play equipment, 1 set of elderly fitness equipment and a jogging track of length 265 m with 4 fitness stations and a pebble walking trail. ․A spectator stand with around 800 seats is provided. ",
+        "OpeningHour_en": "7 am to 11 pm daily",
+        "Phone": "2336 4638"
+    },
+    {
+        "Category_en": "Tape-ball Cricket Ground",
+        "District": "Kwun Tong",
+        "Name_en": "Yau Tong Road Playground",
+        "Address_en": "Yau Tong Road, Yau Tong, Kowloon",
+        "Ancillary facilities_en": "․Toilets, changing rooms and outdoor storage cages are provided in the Playground.",
+        "OpeningHour_en": "7 am to 11 pm (1 hour per session)",
+        "Phone": "2341 4755"
+    },
+    {
+        "Category_en": "Tape-ball Cricket Ground",
+        "District": "Sham Shui Po",
+        "Name_en": "Lai Chi Kok Park (Stage III)",
+        "Address_en": "Lai Wan Road, Lai Chi Kok, Kowloon.",
+        "Ancillary facilities_en": "Spectator stand (approx. 400 seats), toilet and changing facilities",
+        "OpeningHour_en": "7 am to 11 pm daily",
+        "Phone": "2741 4044"
+    },
+    {
+        "Category_en": "Tape-ball Cricket Ground",
+        "District": "Southern",
+        "Name_en": "Tin Wan Estate Playground",
+        "Address_en": "Tin Wan Estate, Tin Wan Street, Aberdeen, Hong Kong",
+        "Ancillary facilities_en": "",
+        "OpeningHour_en": "7 am to 11 pm daily",
+        "Phone": "2555 0103"
+    },
+    {
+        "Category_en": "Tape-ball Cricket Ground",
+        "District": "Tuen Mun",
+        "Name_en": "Yeung King Playground",
+        "Address_en": "Yeung King Road, Tuen Mun",
+        "Ancillary facilities_en": "Male Toilet, Female Toilet, Toilet for Persons with a Disability, Bathroom, Spectator Stand.",
+        "OpeningHour_en": "7 am – 11 pm",
+        "Phone": "2451 3012 "
+    },
+    {
+        "Category_en": "Tape-ball Cricket Ground",
+        "District": "Yuen Long",
+        "Name_en": "Tin Sau Road Park",
+        "Address_en": "Tin Sau Road, Tin Shui Wai, Yuen Long",
+        "Ancillary facilities_en": "Spectator Stand (Capacity: 80 person)\nToilet",
+        "OpeningHour_en": "7 am to 11 pm",
+        "Phone": "2478 4342"
+    }
+]

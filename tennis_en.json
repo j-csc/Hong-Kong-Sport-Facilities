@@ -1,0 +1,65 @@
+[
+    {
+        "Category_en": "Tennis Practice Court",
+        "District": "North",
+        "Name_en": "Fanling Temporary Tennis Court",
+        "Address_en": "Area 11A, Fanling, N.T.",
+        "Ancillary facilities_en": "",
+        "OpeningHour_en": "7 am to 6 pm daily (October to April)\n7 am to 7 pm daily (May to September)",
+        "Phone": "2675 6925"
+    },
+    {
+        "Category_en": "Tennis Practice Court",
+        "District": "North",
+        "Name_en": "North District Sports Ground",
+        "Address_en": "No. 26 Tin Ping Road, Sheung Shui, N.T.",
+        "Ancillary facilities_en": "Men's and Ladies' Changing Room & Toilet \nChanging Room & Toilet for Persons with a Disability With Floodlight Light Refreshment Kiosk",
+        "OpeningHour_en": "7 am to 11 pm daily",
+        "Phone": "2679 4913"
+    },
+    {
+        "Category_en": "Tennis Practice Court",
+        "District": "Sai Kung",
+        "Name_en": "Po Tsui Park",
+        "Address_en": "Yuk Nga Lane, Tseung Kwan O",
+        "Ancillary facilities_en": "․Changing rooms, toilets and disabled toilets\n․Floodlights",
+        "OpeningHour_en": "7am – 11 pm",
+        "Phone": "2703 7231"
+    },
+    {
+        "Category_en": "Tennis Practice Court",
+        "District": "Tai Po",
+        "Name_en": "Tai Po Sports Ground – Squash and Tennis Centre",
+        "Address_en": "21, Tai Po Tau Road, Tai Po",
+        "Ancillary facilities_en": "1 nos. of Car Park",
+        "OpeningHour_en": "7 am to 11 pm",
+        "Phone": "2666 0044 / 2666 0344"
+    },
+    {
+        "Category_en": "Tennis Practice Court",
+        "District": "Tuen Mun",
+        "Name_en": "Tuen Mun Tang Shiu Kin Sports Ground (Tennis Court)",
+        "Address_en": "Tsun Wen Road, Tuen Mun, N.T.",
+        "Ancillary facilities_en": "․Male and Female Changing Room & Toilet, Toilet for Persons with Disability\n․Lockers are provided in Changing Rooml Drinking Fountain",
+        "OpeningHour_en": "7 am to 11 pm daily ",
+        "Phone": "2454 5049"
+    },
+    {
+        "Category_en": "Tennis Practice Court",
+        "District": "Yuen Long",
+        "Name_en": "Sai Ching Street Tennis Courts",
+        "Address_en": "6 Sai Ching Street, Yuen Long",
+        "Ancillary facilities_en": "Men's and ladies' changing rooms and toilets",
+        "OpeningHour_en": "7 am to 11 pm daily",
+        "Phone": "2478 3345"
+    },
+    {
+        "Category_en": "Tennis Practice Court",
+        "District": "Yuen Long",
+        "Name_en": "Shui Pin Tsuen Playground",
+        "Address_en": "Yuen Long Tai Yuk Road, Yuen Long",
+        "Ancillary facilities_en": "Toilet",
+        "OpeningHour_en": "7:00 am – 6:00 pm",
+        "Phone": "2478 4342"
+    }
+]
