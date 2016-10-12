@@ -1,7 +1,7 @@
 [
     {
         "Category_en": "5-a-side Soccer Pitches",
-        "District": "Central & Western",
+        "District_en": "Central & Western",
         "Name_en": "Li Sing Street Playground",
         "Address_en": "Opposite at No. 2 Li Sing Street",
         "Ancillary facilities_en": "Drinking fountain",
@@ -10,7 +10,7 @@
     },
     {
         "Category_en": "5-a-side Soccer Pitches",
-        "District": "Eastern",
+        "District_en": "Eastern",
         "Name_en": "Sheung On Street Playground",
         "Address_en": "Sheung On Street, Chai Wan",
         "Ancillary facilities_en": "",
@@ -19,7 +19,7 @@
     },
     {
         "Category_en": "5-a-side Soccer Pitches",
-        "District": "Eastern",
+        "District_en": "Eastern",
         "Name_en": "Tin Chiu Street Playground",
         "Address_en": "Tin Chiu Street, North Point",
         "Ancillary facilities_en": "Sitting benches",
@@ -28,7 +28,7 @@
     },
     {
         "Category_en": "5-a-side Soccer Pitches",
-        "District": "Islands",
+        "District_en": "Islands",
         "Name_en": "Tung Chung Road Soccer Pitch",
         "Address_en": "Tung Chung Road, Tung Chung, Lantau Island",
         "Ancillary facilities_en": "․1 mobile toilet\n․Floodlight system ",
@@ -37,7 +37,7 @@
     },
     {
         "Category_en": "5-a-side Soccer Pitches",
-        "District": "Kowloon City",
+        "District_en": "Kowloon City",
         "Name_en": "Ede Road Playground",
         "Address_en": "Ede Road, Kowloon.",
         "Ancillary facilities_en": "",
@@ -46,7 +46,7 @@
     },
     {
         "Category_en": "5-a-side Soccer Pitches",
-        "District": "Kowloon City",
+        "District_en": "Kowloon City",
         "Name_en": "Hoi Sham Park",
         "Address_en": "Yuk Yat Street, Tokwawan, Kowloon.",
         "Ancillary facilities_en": "․Toilets are provided in the Park.\n․Other facilities include 1 basketball court, a children's playground and elderly fitness equipment. ",
@@ -55,7 +55,7 @@
     },
     {
         "Category_en": "5-a-side Soccer Pitches",
-        "District": "Kwai Tsing",
+        "District_en": "Kwai Tsing",
         "Name_en": "Central Kwai Chung Park",
         "Address_en": "San Kwai Street, Kwai Chung",
         "Ancillary facilities_en": "․2 Basketball courts cum Volleyball courts\n․1 Roller skating rink ․Picnic area ․Children's play area ․Fitness area ․Elderly fitness area ․Walking tiles ․1 Jogging track ․6 Pavilions ․5 Rain shelters ․1 Arbour ․1 Toilet block with changing rooms ",
@@ -64,7 +64,7 @@
     },
     {
         "Category_en": "5-a-side Soccer Pitches",
-        "District": "Kwai Tsing",
+        "District_en": "Kwai Tsing",
         "Name_en": "Chung Mei Road Temporary Playground",
         "Address_en": "Chung Mei Road, Tsing Yi",
         "Ancillary facilities_en": "․Children's Play Area\n․5 Rain Shelters ․1 Arbour",
@@ -73,7 +73,7 @@
     },
     {
         "Category_en": "5-a-side Soccer Pitches",
-        "District": "Kwai Tsing",
+        "District_en": "Kwai Tsing",
         "Name_en": "Lai King Soccer Pitch",
         "Address_en": "Lai King Soccer Pitch, Kwai Chung, New Territories",
         "Ancillary facilities_en": "․1 Pavilion\n․1 Rain Shelter ",
@@ -82,7 +82,7 @@
     },
     {
         "Category_en": "5-a-side Soccer Pitches",
-        "District": "Kwai Tsing",
+        "District_en": "Kwai Tsing",
         "Name_en": "Liu To Road Playground",
         "Address_en": "Liu To Road, Tsing Yi",
         "Ancillary facilities_en": "․Elderly Fitness Area\n․Pebble Walking Trail ․5 Pavilions ․1 Toilet Block cum Toilet for Persons with Disabilities ",
@@ -91,7 +91,7 @@
     },
     {
         "Category_en": "5-a-side Soccer Pitches",
-        "District": "Kwai Tsing",
+        "District_en": "Kwai Tsing",
         "Name_en": "Tai Lin Pai Road Playground",
         "Address_en": "Tai Lin Pai Road, Kwai Chung, New Territories",
         "Ancillary facilities_en": "․1 Rain Shelter\n․l 1 Basketball Court cum 1 Volleyball Court ",
@@ -100,7 +100,7 @@
     },
     {
         "Category_en": "5-a-side Soccer Pitches",
-        "District": "Kwai Tsing",
+        "District_en": "Kwai Tsing",
         "Name_en": "Tai Wo Hau Road Playground",
         "Address_en": "Tai Wo Hau Road Playground, Kwai Chung, New Territories",
         "Ancillary facilities_en": "․1 Spectator Stand\n․1 Roller Skating Rink ․1 Pavilion ․5 Rain Shelters ․1 Toilet Block cum Toilet for Persons with Disabilities",
@@ -109,7 +109,7 @@
     },
     {
         "Category_en": "5-a-side Soccer Pitches",
-        "District": "Kwai Tsing",
+        "District_en": "Kwai Tsing",
         "Name_en": "Tai Wo Hau Road South Playground",
         "Address_en": "Tai Wo Hau Road, Kwai Chung, New Territories",
         "Ancillary facilities_en": "․Children's Play Area\n․Fitness Area ․Jogging Track ․2 Pavilions ․6 Rain Shelter ․3 Arbours ․1 Toilet Block ",
@@ -118,7 +118,7 @@
     },
     {
         "Category_en": "5-a-side Soccer Pitches",
-        "District": "Kwai Tsing",
+        "District_en": "Kwai Tsing",
         "Name_en": "Tsing Wah Playground",
         "Address_en": "Tsing Chin Street, Tsing Yi",
         "Ancillary facilities_en": "․Children's Play Area\n․Elderly Fitness Area ․1 Pavilion ․3 Arbours",
@@ -127,7 +127,7 @@
     },
     {
         "Category_en": "5-a-side Soccer Pitches",
-        "District": "Kwai Tsing",
+        "District_en": "Kwai Tsing",
         "Name_en": "Wing Kei Road 5-a-side Soccer Pitch",
         "Address_en": "Wing Kei Road, Kwai Chung, New Territories",
         "Ancillary facilities_en": "․1 Spectator Stand\n․2 Rain Shelters ",
@@ -136,7 +136,7 @@
     },
     {
         "Category_en": "5-a-side Soccer Pitches",
-        "District": "Kwun Tong",
+        "District_en": "Kwun Tong",
         "Name_en": "Hoi Bun Road Park",
         "Address_en": "Hoi Bun Street, Kwun Tong, Kowloon",
         "Ancillary facilities_en": "․Toilets are provided in the Park.",
@@ -145,7 +145,7 @@
     },
     {
         "Category_en": "5-a-side Soccer Pitches",
-        "District": "Kwun Tong",
+        "District_en": "Kwun Tong",
         "Name_en": "Lam Tin Park",
         "Address_en": "Pik Wan Road, \nLam Tin, Kowloon ",
         "Ancillary facilities_en": "․Toilets are provided in the Park.",
@@ -154,7 +154,7 @@
     },
     {
         "Category_en": "5-a-side Soccer Pitches",
-        "District": "Kwun Tong",
+        "District_en": "Kwun Tong",
         "Name_en": "Lam Wah Street Playground",
         "Address_en": "Lam Wah Street, Kowloon Bay, Kowloon",
         "Ancillary facilities_en": "․Toilets and changing rooms are provided in the Playground.",
@@ -163,7 +163,7 @@
     },
     {
         "Category_en": "5-a-side Soccer Pitches",
-        "District": "Kwun Tong",
+        "District_en": "Kwun Tong",
         "Name_en": "Sam Ka Tsuen Recreation Ground",
         "Address_en": "Junction of Cha Kwo Ling Road & \nSze Shan Street, Sam Ka Tsuen, Kowloon",
         "Ancillary facilities_en": "․Toilets and changing rooms are provided in the Recreation Ground.",
@@ -172,7 +172,7 @@
     },
     {
         "Category_en": "5-a-side Soccer Pitches",
-        "District": "Kwun Tong",
+        "District_en": "Kwun Tong",
         "Name_en": "Sau Nga Road Playground",
         "Address_en": "Junction of Hiu Kwong Street & \nSau Nga Road, Kwun Tong, Kowloon",
         "Ancillary facilities_en": "․Toilets and changing rooms are provided in the Playground.",
@@ -181,7 +181,7 @@
     },
     {
         "Category_en": "5-a-side Soccer Pitches",
-        "District": "Kwun Tong",
+        "District_en": "Kwun Tong",
         "Name_en": "Shun Lee Tsuen Playground",
         "Address_en": "Junction of Lee On Road & \nShun Lee Tsuen Road, Kwun Tong",
         "Ancillary facilities_en": "․Toilets are provided in the Playground.",
@@ -190,7 +190,7 @@
     },
     {
         "Category_en": "5-a-side Soccer Pitches",
-        "District": "North",
+        "District_en": "North",
         "Name_en": "Kwu Tung Playground",
         "Address_en": "Junction of Ho Sheung Heung Road and Castle Peak Road,Kwu Tung, Sheung, N.T.",
         "Ancillary facilities_en": "Drinking Fountain\nWith Floodlight ",
@@ -199,7 +199,7 @@
     },
     {
         "Category_en": "5-a-side Soccer Pitches",
-        "District": "North",
+        "District_en": "North",
         "Name_en": "Tai Tau Leng Playground",
         "Address_en": "Fanling Highway, near Tai Tau Leng Village,N.T.",
         "Ancillary facilities_en": "With Floodlight",
@@ -208,7 +208,7 @@
     },
     {
         "Category_en": "5-a-side Soccer Pitches",
-        "District": "Sai Kung",
+        "District_en": "Sai Kung",
         "Name_en": "Wai Man Road Playground",
         "Address_en": "Wai Man Road, Sai Kung",
         "Ancillary facilities_en": "․Toilets and disabled toilets\n․Floodlights",
@@ -217,7 +217,7 @@
     },
     {
         "Category_en": "5-a-side Soccer Pitches",
-        "District": "Sha Tin",
+        "District_en": "Sha Tin",
         "Name_en": "A Kung Kok Playground",
         "Address_en": "A Kung Kok Fishermen New Village, A Kung Kok Street, Sha Tin",
         "Ancillary facilities_en": "Equip with Floodlights",
@@ -226,7 +226,7 @@
     },
     {
         "Category_en": "5-a-side Soccer Pitches",
-        "District": "Sha Tin",
+        "District_en": "Sha Tin",
         "Name_en": "Chui Tin Street Soccer Pitch",
         "Address_en": "Chui Tin Street, Tai Wai",
         "Ancillary facilities_en": "Male & Female Toilet \nToilet for persons with disabilities Lockers(please bring along with own padlock)",
@@ -235,7 +235,7 @@
     },
     {
         "Category_en": "5-a-side Soccer Pitches",
-        "District": "Sha Tin",
+        "District_en": "Sha Tin",
         "Name_en": "Hung Mui Kuk Road Playground",
         "Address_en": "Hung Mui Kuk Road , Tai Wai",
         "Ancillary facilities_en": "Male & Female Toilet \nLockers(please bring along with own padlock) Equip with Floodlights ",
@@ -244,7 +244,7 @@
     },
     {
         "Category_en": "5-a-side Soccer Pitches",
-        "District": "Sha Tin",
+        "District_en": "Sha Tin",
         "Name_en": "San Mei Street Playground",
         "Address_en": "San Mei Street, Fo Tan, Sha Tin",
         "Ancillary facilities_en": "Equip with Floodlights",
@@ -253,7 +253,7 @@
     },
     {
         "Category_en": "5-a-side Soccer Pitches",
-        "District": "Sha Tin",
+        "District_en": "Sha Tin",
         "Name_en": "Wo Liu Hang Playground",
         "Address_en": "Wo Liu Hang Road, Fo Tan, Sha Tin",
         "Ancillary facilities_en": "",
@@ -262,7 +262,7 @@
     },
     {
         "Category_en": "5-a-side Soccer Pitches",
-        "District": "Sham Shui Po",
+        "District_en": "Sham Shui Po",
         "Name_en": "Fa Hui Park",
         "Address_en": "101 Boundary Street, Kowloon",
         "Ancillary facilities_en": "Toilet and changing facilities",
@@ -271,7 +271,7 @@
     },
     {
         "Category_en": "5-a-side Soccer Pitches",
-        "District": "Sham Shui Po",
+        "District_en": "Sham Shui Po",
         "Name_en": "Fat Tseung Street West Playground",
         "Address_en": "Junction of Fat Tseung Street West and Ying Wah Street, Sham Shui Po, Kln.",
         "Ancillary facilities_en": "Outdoor Storage Cage",
@@ -280,7 +280,7 @@
     },
     {
         "Category_en": "5-a-side Soccer Pitches",
-        "District": "Sham Shui Po",
+        "District_en": "Sham Shui Po",
         "Name_en": "Tung Chau Street Park",
         "Address_en": "Tung Chau Street, Sham Shui Po, Kowloon",
         "Ancillary facilities_en": "Spectator stands (with approx. 160 seats), toilet and changing facilities",
@@ -289,7 +289,7 @@
     },
     {
         "Category_en": "5-a-side Soccer Pitches",
-        "District": "Southern",
+        "District_en": "Southern",
         "Name_en": "Stanley Promenade",
         "Address_en": "Stanley Main Street, Stanley, Hong Kong",
         "Ancillary facilities_en": "A spectator stand is provided in the Playground.",
@@ -298,7 +298,7 @@
     },
     {
         "Category_en": "5-a-side Soccer Pitches",
-        "District": "Southern",
+        "District_en": "Southern",
         "Name_en": "Wong Chuk Hang Recreation Ground",
         "Address_en": "No. 108 Wong Chuk Hang Road, Aberdeen, Hong Kong",
         "Ancillary facilities_en": "․The 2 pitches can be converted into 8 netball courts or 2 7-a-side soccer pitches.\n․Toilets, changing rooms and 4 spectator stands are provided in the Recreation Ground. ",
@@ -307,7 +307,7 @@
     },
     {
         "Category_en": "5-a-side Soccer Pitches",
-        "District": "Tai Po",
+        "District_en": "Tai Po",
         "Name_en": "Fung Yuen Playground",
         "Address_en": "Ting Kok Road Tai Po, N.T.",
         "Ancillary facilities_en": "",
@@ -316,7 +316,7 @@
     },
     {
         "Category_en": "5-a-side Soccer Pitches",
-        "District": "Tai Po",
+        "District_en": "Tai Po",
         "Name_en": "Wan Tau Kok Playground",
         "Address_en": "Wan Tau Kok Lane, Tai Po",
         "Ancillary facilities_en": "Toilets with Changing Room for Male and Female \nToilet with Changing Room for Disable ",
@@ -325,7 +325,7 @@
     },
     {
         "Category_en": "5-a-side Soccer Pitches",
-        "District": "Tsuen Wan",
+        "District_en": "Tsuen Wan",
         "Name_en": "Kwok Shui Road Park",
         "Address_en": "Kwok Shui Road, Tsuen Wan",
         "Ancillary facilities_en": "․Men's and ladies' changing rooms and toilets (including accessible toilets)",
@@ -334,7 +334,7 @@
     },
     {
         "Category_en": "5-a-side Soccer Pitches",
-        "District": "Tsuen Wan",
+        "District_en": "Tsuen Wan",
         "Name_en": "Sha Tsui Road Playground",
         "Address_en": "171-199 Sha Tsui Road, Tsuen Wan",
         "Ancillary facilities_en": "․Covered spectator stand (about 960 seats)\n ․Movable spectator stand (about 350 seats) ․Men's and ladies' changing rooms and toilets (including accessible toilets) ․First aid room ․Drinking fountain",
@@ -343,7 +343,7 @@
     },
     {
         "Category_en": "5-a-side Soccer Pitches",
-        "District": "Tsuen Wan",
+        "District_en": "Tsuen Wan",
         "Name_en": "Shing Mun Valley Park",
         "Address_en": "21 Shing Mun Road, Tsuen Wan",
         "Ancillary facilities_en": "․Men's and ladies' Toilets and Changing Rooms",
@@ -352,7 +352,7 @@
     },
     {
         "Category_en": "5-a-side Soccer Pitches",
-        "District": "Tsuen Wan",
+        "District_en": "Tsuen Wan",
         "Name_en": "Tsuen King Circuit Recreation Ground and Rest Garden",
         "Address_en": "Tsuen King Circuit, Tsuen Wan, N.T.",
         "Ancillary facilities_en": "․Men's and ladies' changing rooms and toilets (including accessible toilets)",
@@ -361,7 +361,7 @@
     },
     {
         "Category_en": "5-a-side Soccer Pitches",
-        "District": "Tuen Mun",
+        "District_en": "Tuen Mun",
         "Name_en": "Butterfly Beach Park",
         "Address_en": "Area 45, Lung Mun Road, Tuen Mun (Near Melody Garden)",
         "Ancillary facilities_en": "Fast Food Kiosk, Toilets",
@@ -370,7 +370,7 @@
     },
     {
         "Category_en": "5-a-side Soccer Pitches",
-        "District": "Wong Tai Sin",
+        "District_en": "Wong Tai Sin",
         "Name_en": "Choi Hung Road Playground",
         "Address_en": "150 Choi Hung Road, San Po Kong",
         "Ancillary facilities_en": "Men's and ladies' changing rooms and toilets (including accessible toilets)\nDrinking Fountain",
@@ -379,7 +379,7 @@
     },
     {
         "Category_en": "5-a-side Soccer Pitches",
-        "District": "Wong Tai Sin",
+        "District_en": "Wong Tai Sin",
         "Name_en": "Shek Ku Lung Road Playground",
         "Address_en": "18 Lok Sin Road, Wong Tai Sin ",
         "Ancillary facilities_en": "Toilet\nChanging room Toilet and changing room for persons with disabilities Floodlighting system",
@@ -388,7 +388,7 @@
     },
     {
         "Category_en": "5-a-side Soccer Pitches",
-        "District": "Wong Tai Sin",
+        "District_en": "Wong Tai Sin",
         "Name_en": "Tsz Wan Shan Estate Service Reservoir Playground",
         "Address_en": "Lok Wah Street, Tsz Wan Street, Kowloon",
         "Ancillary facilities_en": "Storage Cages",
@@ -397,7 +397,7 @@
     },
     {
         "Category_en": "5-a-side Soccer Pitches",
-        "District": "Yuen Long",
+        "District_en": "Yuen Long",
         "Name_en": "Kik Yeung Road 5-a-side Football Pitch",
         "Address_en": "Kik Yeung Road, Yuen Long",
         "Ancillary facilities_en": "Spectator Stand (Capacity: 90 person)",
@@ -406,7 +406,7 @@
     },
     {
         "Category_en": "5-a-side Soccer Pitches",
-        "District": "Yuen Long",
+        "District_en": "Yuen Long",
         "Name_en": "Shui Mei Village Playground",
         "Address_en": "Shui Mei Village, Kam Tin, Yuen Long",
         "Ancillary facilities_en": "",
@@ -415,7 +415,7 @@
     },
     {
         "Category_en": "5-a-side Soccer Pitches",
-        "District": "Yuen Long",
+        "District_en": "Yuen Long",
         "Name_en": "Tin Ho Road Playground",
         "Address_en": "Tin Ho Road, Tin Shui Wai, Yuen Long",
         "Ancillary facilities_en": "Spectator Stand (Capacity: 120 person )\nToilet",
@@ -424,7 +424,7 @@
     },
     {
         "Category_en": "5-a-side Soccer Pitches",
-        "District": "Yuen Long",
+        "District_en": "Yuen Long",
         "Name_en": "Tin Shui Wai Park",
         "Address_en": "No.6, Tin Shui Road, Tin Shui Wai, N.T",
         "Ancillary facilities_en": "Toilet cum changing Room",
@@ -433,7 +433,7 @@
     },
     {
         "Category_en": "5-a-side Soccer Pitches",
-        "District": "Yuen Long",
+        "District_en": "Yuen Long",
         "Name_en": "Yuen Long Park",
         "Address_en": "Town Park Road North, Yuen Long, N.T.",
         "Ancillary facilities_en": "Toilet",
@@ -442,7 +442,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Central & Western",
+        "District_en": "Central & Western",
         "Name_en": "Blake Gardens ",
         "Address_en": "J/O Po Hing Fong & Kui In Fong",
         "Ancillary facilities_en": "Toilet facilities (Toilet facilities for the people with disabilities are provided)\nDrinking fountain ",
@@ -451,7 +451,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Central & Western",
+        "District_en": "Central & Western",
         "Name_en": "Conduit Road Service Reservoir Playground ",
         "Address_en": "Rear of No.1 Conduit Road",
         "Ancillary facilities_en": "",
@@ -460,7 +460,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Central & Western",
+        "District_en": "Central & Western",
         "Name_en": "Forbes Street Temporary Playground",
         "Address_en": "J/O Forbes Street & Smithfield Road",
         "Ancillary facilities_en": "Toilet facilities (Showering facilities & toilet facilities for the people with disabilities are provided)\nDrinking fountain ",
@@ -469,7 +469,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Central & Western",
+        "District_en": "Central & Western",
         "Name_en": "Kennedy Town Service Reservoir Playground",
         "Address_en": "Kennedy Town Service Reservoir",
         "Ancillary facilities_en": "Toilet facilities",
@@ -478,7 +478,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Central & Western",
+        "District_en": "Central & Western",
         "Name_en": "Kennedy Town Temporary Recreation Ground",
         "Address_en": "Opposite at No. 33 Sai Ning Street",
         "Ancillary facilities_en": "Drinking fountain",
@@ -487,7 +487,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Central & Western",
+        "District_en": "Central & Western",
         "Name_en": "King George V Memorial Park, Hong Kong",
         "Address_en": "J/O High Street & Eastern Street",
         "Ancillary facilities_en": "Toilet facilities (Toilet facilities for the people with disabilities are provided)\nDrinking fountain ",
@@ -496,7 +496,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Central & Western",
+        "District_en": "Central & Western",
         "Name_en": "Pok Fu Lam Road Playground",
         "Address_en": "Opposite at No. 88 Pokfulam Road",
         "Ancillary facilities_en": "Toilet facilities (Toilet facilities for the people with disabilities are provided)\nDrinking fountain ",
@@ -505,7 +505,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Eastern",
+        "District_en": "Eastern",
         "Name_en": "Aldrich Bay Playground",
         "Address_en": "Nam On Street, Shau Kei Wan",
         "Ancillary facilities_en": "Toilets",
@@ -514,7 +514,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Eastern",
+        "District_en": "Eastern",
         "Name_en": "Chai Wan North Service Reservoir Playground",
         "Address_en": "Lok Man Road, Chai Wan",
         "Ancillary facilities_en": "",
@@ -523,7 +523,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Eastern",
+        "District_en": "Eastern",
         "Name_en": "Chai Wan Park",
         "Address_en": "Tsui Wan Street, Chai Wan \nYee Shing Street, Chai Wan (Soccer Pitch No. 1) Tsui Wan Street, Chai Wan (Soccer Pitch No. 2) ",
         "Ancillary facilities_en": "Toilets and changing rooms",
@@ -532,7 +532,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Eastern",
+        "District_en": "Eastern",
         "Name_en": "Cloud View Road Service Reservoir Playground",
         "Address_en": "Cloud View Road, North Point",
         "Ancillary facilities_en": "Sitting benches, toilets and fitness equipment",
@@ -541,7 +541,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Eastern",
+        "District_en": "Eastern",
         "Name_en": "Hang Fa Chuen Playground",
         "Address_en": "Shing Tai Road, Hang Fa Chuen",
         "Ancillary facilities_en": "Toilets and drinking fountains",
@@ -550,7 +550,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Eastern",
+        "District_en": "Eastern",
         "Name_en": "Hing Wah Estate Playground No. 1",
         "Address_en": "Chai Wan Road, Chai Wan",
         "Ancillary facilities_en": "",
@@ -559,7 +559,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Eastern",
+        "District_en": "Eastern",
         "Name_en": "North Point Service Reservoir Playground",
         "Address_en": "Tin Hau Temple Road, North Point",
         "Ancillary facilities_en": "Sitting benches, toilets and arbours",
@@ -568,7 +568,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Eastern",
+        "District_en": "Eastern",
         "Name_en": "Shau Kei Wan Service Reservoir Playground",
         "Address_en": "Yiu Hing Road, Shau Kei Wan",
         "Ancillary facilities_en": "․Toilets are provided in the playground\n․Other facilities include a basketball court, a jogging track, fitness and elderly fitness equipment, drinking fountain, rain shelters and garden benches",
@@ -577,7 +577,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Eastern",
+        "District_en": "Eastern",
         "Name_en": "Siu Sai Wan Promenade",
         "Address_en": "Siu Sai Wan Road",
         "Ancillary facilities_en": "Toilets, drinking fountains and shower cubicles",
@@ -586,7 +586,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Islands",
+        "District_en": "Islands",
         "Name_en": "Cheung Chau Sports Ground",
         "Address_en": "Fa Peng Road, Cheung Chau",
         "Ancillary facilities_en": "․1 spectator stand with 500 seats\n․Toilets and changing rooms ․Floodlight system ",
@@ -595,7 +595,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Islands",
+        "District_en": "Islands",
         "Name_en": "Mui Wo Playground",
         "Address_en": "5 Ngan Shek Street, Mui Wo, Lantau Island",
         "Ancillary facilities_en": "․Toilets and changing rooms\n․Floodlight system ",
@@ -604,7 +604,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Islands",
+        "District_en": "Islands",
         "Name_en": "Pak Tai Temple Playground, Cheung Chau",
         "Address_en": "Pak She Praya Road, Cheung Chau",
         "Ancillary facilities_en": "Floodlight system",
@@ -613,7 +613,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Islands",
+        "District_en": "Islands",
         "Name_en": "Peng Chau Mini Soccer Pitch",
         "Address_en": "Peng Chau Peak",
         "Ancillary facilities_en": "․1 spectator stand with 20 seats\n․Toilets and changing rooms ․Floodlight system ",
@@ -622,7 +622,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Islands",
+        "District_en": "Islands",
         "Name_en": "Pui O Playground, Lantau",
         "Address_en": "Chi Ma Wan Road, Pui O, Lantau Island",
         "Ancillary facilities_en": "․2 mobile toilets\n․2 mobile changing rooms ․Floodlight system ",
@@ -631,7 +631,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Islands",
+        "District_en": "Islands",
         "Name_en": "Sha Lo Wan Soccer Pitch, Lantau",
         "Address_en": "Sha Lo Wan, Lantau Island",
         "Ancillary facilities_en": "",
@@ -640,7 +640,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Islands",
+        "District_en": "Islands",
         "Name_en": "Sok Kwu Wan Playground",
         "Address_en": "Sok Kwu Wan, Lamma",
         "Ancillary facilities_en": "Floodlight system",
@@ -649,7 +649,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Islands",
+        "District_en": "Islands",
         "Name_en": "Tai O Recreation Ground, Lantau",
         "Address_en": "Tai O, Lantau Island",
         "Ancillary facilities_en": "․1 spectator stand with 100 seats\n․Toilet and changing room ․Floodlight system ",
@@ -658,7 +658,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Islands",
+        "District_en": "Islands",
         "Name_en": "Tung Chung North Park",
         "Address_en": "29 Man Tung Road, Tung Chung, Lantau Island (For Booking enquiry: 2852 4845)",
         "Ancillary facilities_en": "․1 spectator stand with 200 seats\n․Toilets ,bathing and changing rooms ․Floodlight system",
@@ -667,7 +667,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Islands",
+        "District_en": "Islands",
         "Name_en": "Tung Chung Playground",
         "Address_en": "Ngau Au Village, Tung Chung, Lantau Island",
         "Ancillary facilities_en": "․1 spectator stand with 100 seats \n․Floodlight system ",
@@ -676,7 +676,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Islands",
+        "District_en": "Islands",
         "Name_en": "Yim Tin Pok Temporary Playground",
         "Address_en": "Yim Tin Pok, Tai O, Lantau Island",
         "Ancillary facilities_en": "․3 running track\n․1 spectator stand with 400 seats ․2 mobile toilets ",
@@ -685,7 +685,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Islands",
+        "District_en": "Islands",
         "Name_en": "Yung Shue Wan Playground",
         "Address_en": "Yung Shue Wan, Lamma",
         "Ancillary facilities_en": "․Toilets and changing rooms\n․Floodlight system",
@@ -694,7 +694,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Kowloon City",
+        "District_en": "Kowloon City",
         "Name_en": "Argyle Street Playground",
         "Address_en": "Argyle Street, Kowloon.",
         "Ancillary facilities_en": "․Toilets are provided in the Playground.\n․Other facilities include a children's playground and elderly fitness equipment. ",
@@ -703,7 +703,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Kowloon City",
+        "District_en": "Kowloon City",
         "Name_en": "Carpenter Road Park",
         "Address_en": "Carpenter Road, Kowloon City, Kowloon.",
         "Ancillary facilities_en": "․Toilets are provided in the Park.\n․Other facilities include a jogging track with fitness stations, a cycling track, a children's playground, an elderly fitness station, 4 basketball courts and 2 volleyball courts. ",
@@ -712,7 +712,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Kowloon City",
+        "District_en": "Kowloon City",
         "Name_en": "Ho Man Tin Park",
         "Address_en": "No.1 Chung Yee Street, Ho Man Tin, Kowloon.",
         "Ancillary facilities_en": "․Other facilities include 2 basketball courts, a children's playground and a jogging track with 6 fitness stations.\n․This court can be used for playing 7-a-side soccer or handball. ․A spectator stand with 480 seats is provided. ",
@@ -721,7 +721,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Kowloon City",
+        "District_en": "Kowloon City",
         "Name_en": "Junction Road Park",
         "Address_en": "195 Junction Road, Kowloon City.",
         "Ancillary facilities_en": "․Toilets (including a toilet for persons with disabilities) and changing rooms with lockers are provided in the Park.\n․Other facilities include 6 tennis courts, 2 basketball courts, 2 sets of children's play equipment, 1 set of elderly fitness equipment and a jogging track of length 265 m with 4 fitness stations and a pebble walking trail. ․A spectator stand with around 800 seats is provided. ",
@@ -730,7 +730,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Kowloon City",
+        "District_en": "Kowloon City",
         "Name_en": "King's Park High Level Service Reservoir Playground",
         "Address_en": "Chung Hau Street, Ho Man Tin, Kowloon.",
         "Ancillary facilities_en": "Other facilities include a basketball court.",
@@ -739,7 +739,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Kowloon City",
+        "District_en": "Kowloon City",
         "Name_en": "Ko Shan Road Park",
         "Address_en": "No. 77, Ko Shan Road, Kowloon.",
         "Ancillary facilities_en": "․Toilets and changing rooms are provided in the park.\n․Other facilities include a children's playground and elderly fitness station. ",
@@ -748,7 +748,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Kowloon City",
+        "District_en": "Kowloon City",
         "Name_en": "Kowloon Tsai Park",
         "Address_en": "13 Inverness Road, Kowloon City, Kowloon.",
         "Ancillary facilities_en": "․Toilets and changing rooms are provided in the Park.\n․Other facilities include 2 artificial turf soccer pitches, a natural turf soccer pitch, 2 elderly fitness corners, a bauhinia garden, a jogging track of length 550m, a pebble path, 2 hard-surface 7-a-side soccer pitches, 2 hard-surface basketball courts, a children's playground and a dog garden.",
@@ -757,7 +757,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Kowloon City",
+        "District_en": "Kowloon City",
         "Name_en": "Ma Tau Wai Road Playground",
         "Address_en": "Ma Tau Wai Road,Tokwawan, Kowloon.",
         "Ancillary facilities_en": "․Toilets are provided in the Playground.\n․Other facilities include a basketball court. ․Spectator stands are provided in the Pitch. ",
@@ -766,7 +766,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Kowloon City",
+        "District_en": "Kowloon City",
         "Name_en": "Oxford Road Playground",
         "Address_en": "Oxford Road, Kowloon.",
         "Ancillary facilities_en": "․Toilets and changing rooms are provided in the Playground.\n․Other facilities include 3 basketball courts and a volleyball court. ",
@@ -775,7 +775,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Kowloon City",
+        "District_en": "Kowloon City",
         "Name_en": "Perth Street Sports Ground",
         "Address_en": "Shek Ku Street , Ho Man Tin, Kowloon.",
         "Ancillary facilities_en": "․Toilets, changing rooms and a light refreshment kiosk are provided in the Sports Ground.\n․Other facilities include an all-weather race course with 6 lanes, a natural turf pitch, a volleyball court and 2 basketball courts. ",
@@ -784,7 +784,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Kowloon City",
+        "District_en": "Kowloon City",
         "Name_en": "Tai Wan Shan Park",
         "Address_en": "Wan Hoi Street, Hung Hom, Kowloon.",
         "Ancillary facilities_en": "․This court is a multi-purpose court which can be used for playing soccer or netball.\n․Toilets and changing rooms are provided in the Park. ․Other facilities include 2 basketball courts and 1 children's playground. ․Spectator stands are provided in this pitch. ",
@@ -793,7 +793,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Kowloon City",
+        "District_en": "Kowloon City",
         "Name_en": "To Kwa Wan Recreation Ground",
         "Address_en": "66 Ha Heung Road, To Kwa Wan, Kowloon.",
         "Ancillary facilities_en": "․Toilets and changing rooms with lockers are provided in the Recreation Ground.\n․Other facilities include a jogging track of length 410 m, 2 basketball courts and a children's playground. ",
@@ -802,7 +802,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Kwai Tsing",
+        "District_en": "Kwai Tsing",
         "Name_en": "Ching Hong Road Playground",
         "Address_en": "Ching Hong Road, Tsing Yi",
         "Ancillary facilities_en": "Movable spectator stand (about 200 seats)\nToilet block (including accessible toilet) (Remark: The pitches can be converted into 2 Handball Courts)",
@@ -811,7 +811,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Kwai Tsing",
+        "District_en": "Kwai Tsing",
         "Name_en": "Hang Ping Street Playground",
         "Address_en": "Hang Ping Street, Kwai Chung, New Territories",
         "Ancillary facilities_en": "․1 Spectator Stand\n․Children's Play Area ․Elderly Fitness Area ․3 Rain Shelters ․1 Toilet Block cum Toilet for Persons with Disabilities",
@@ -820,7 +820,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Kwai Tsing",
+        "District_en": "Kwai Tsing",
         "Name_en": "Hing Fong Road Playground",
         "Address_en": "Hing Fong Road, Kwai Chung, New Territories",
         "Ancillary facilities_en": "․The pitches can be converted into 2 Handball Courts\n․Children's Play Area ․1 Pavilion ․1 Covered Spectator Stand ․2 Toilet Blocks cum Toilet for Persons with Disabilities (One of the Toilet Block provides Changing Facilities) ․A fee-charging car park (including 1 designated disabled parking space) ",
@@ -829,7 +829,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Kwai Tsing",
+        "District_en": "Kwai Tsing",
         "Name_en": "Kwai Chung Sports Ground",
         "Address_en": "93 Hing Shing Road, Kwai Chung, New Territories",
         "Ancillary facilities_en": "․Toilets are provided in the Park.\n․Other facilities include 2 hard-surface 5-a-side soccer, a children's playground and elderly fitness equipment.",
@@ -838,7 +838,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Kwai Tsing",
+        "District_en": "Kwai Tsing",
         "Name_en": "On Chit Street Soccer Pitch",
         "Address_en": "On Chit Street, Kwai Chung, New Territories",
         "Ancillary facilities_en": "․1 Pavilion\n․1 Spectator Stand ․1 Toilet Block cum Toilet for Persons with Disabilities",
@@ -847,7 +847,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Kwai Tsing",
+        "District_en": "Kwai Tsing",
         "Name_en": "Shek Pai Street Park",
         "Address_en": "Shek Pai Street, Kwai Chung, New Territories",
         "Ancillary facilities_en": "․The pitch can be converted into 1 Handball Court\n․2 Basketball Courts cum 2 Volleyball Courts ․Walking Tiles ․Children Play's Area ․5 Pavilions ․1 Covered Spectator Stand ․1 Toilet Block with Changing Facilities cum Toilet for Persons with Disabilities",
@@ -856,7 +856,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Kwai Tsing",
+        "District_en": "Kwai Tsing",
         "Name_en": "Tsing Yi Park",
         "Address_en": "Tsing Luk Street, Tsing Yi, New Territories.",
         "Ancillary facilities_en": "․The pitch can be converted into 1 Handball Court\n․7 Tennis Courts ․1 Basketball Court ․1 Amphitheatre ․1 Children's Play Area ․1 Toddlers' Play Area ․1 Elderly Fitness Corner ․1 Tai Chi Garden ․2 Pebble Walking Trails ․2 Quali-walk Paths ․1 Picnic Area ․1 Lookout Pavilion ․3 Ornamental Lakes ․1 Large Waterfall ․1 Prunus Garden ․1 Palm Garden ․1 Large Amenity Lawn ․1 Light Refreshment Restaurant ․1 Men's and 1 Ladies' Toilets cum Changing Rooms ․1 Toilet for Persons with Disabilities ․1 Service Building",
@@ -865,7 +865,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Kwai Tsing",
+        "District_en": "Kwai Tsing",
         "Name_en": "Yip Shing Street Playground",
         "Address_en": "Yip Shing Street, Kwai Chung, New Territories",
         "Ancillary facilities_en": "․Sitting-out area",
@@ -874,7 +874,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Kwun Tong",
+        "District_en": "Kwun Tong",
         "Name_en": "Hiu Ming Street Playgroung",
         "Address_en": "17, Hiu Ming Street, Kwun Tong, Kowloon",
         "Ancillary facilities_en": "․Toilets and changing rooms are provided in the Playground",
@@ -883,7 +883,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Kwun Tong",
+        "District_en": "Kwun Tong",
         "Name_en": "Hong Ning Road Recreation Ground",
         "Address_en": "Hong Ning Road, Kwun Tong, Kowloon",
         "Ancillary facilities_en": "․Toilets and changing rooms are provided in the Recreation Ground",
@@ -892,7 +892,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Kwun Tong",
+        "District_en": "Kwun Tong",
         "Name_en": "Kowloon Bay Playground",
         "Address_en": "Kai Lok Street, Kowloon Bay, Kowloon",
         "Ancillary facilities_en": "․Toilets are provided in the Playground.",
@@ -901,7 +901,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Kwun Tong",
+        "District_en": "Kwun Tong",
         "Name_en": "Kwun Tong Recreation Ground",
         "Address_en": "No.6, Tsui Ping Road, Kwun Tong",
         "Ancillary facilities_en": "․Toilets, changing rooms with lockers and outdoor storage cages are provided in the Recreation Ground.",
@@ -910,7 +910,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Kwun Tong",
+        "District_en": "Kwun Tong",
         "Name_en": "Lam Tin Service Reservoir Playground",
         "Address_en": "Tak Tin Street, Lam Tin, Kowloon",
         "Ancillary facilities_en": "․Outdoor storage cages are provided in Playground.\n․The court can be used for playing handball.",
@@ -919,7 +919,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Kwun Tong",
+        "District_en": "Kwun Tong",
         "Name_en": "Lei Yue Mun Road Playground",
         "Address_en": "Junction of Ko Chiu Road & Lei Yue Mun Road, \nYau Tong, Kowloon",
         "Ancillary facilities_en": "",
@@ -928,7 +928,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Kwun Tong",
+        "District_en": "Kwun Tong",
         "Name_en": "Lok Wah Playground",
         "Address_en": "Lok Wah South Estate, Ngau Tau Kok, Kowloon",
         "Ancillary facilities_en": "․Toilets and changing rooms are provided in the Playground.",
@@ -937,7 +937,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Kwun Tong",
+        "District_en": "Kwun Tong",
         "Name_en": "Ping Shek Playground",
         "Address_en": "Choi Shek Lane, Kowloon",
         "Ancillary facilities_en": "․Toilets and changing rooms with lockers are provided in the Playground.․A fee-charging car park with 33 parking spaces is provided (including 1 designated disabled parking space)",
@@ -946,7 +946,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Kwun Tong",
+        "District_en": "Kwun Tong",
         "Name_en": "Sam Ka Tsuen Recreation Ground",
         "Address_en": "Junction of Cha Kwo Ling Road & \nSze Shan Street, Sam Ka Tsuen, Kowloon",
         "Ancillary facilities_en": "․Toilets and changing rooms are provided in the Recreation Ground.",
@@ -955,7 +955,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Kwun Tong",
+        "District_en": "Kwun Tong",
         "Name_en": "Sau Ming Road Park",
         "Address_en": "20 Sau Ming Road, Sau Mau Ping, Kwun Tong, Kowloon",
         "Ancillary facilities_en": "․Toilets and changing rooms are provided in the Playground.",
@@ -964,7 +964,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Kwun Tong",
+        "District_en": "Kwun Tong",
         "Name_en": "Sau Nga Road Playground",
         "Address_en": "Junction of Hiu Kwong Street & \nSau Nga Road, Kwun Tong, Kowloon",
         "Ancillary facilities_en": "․Toilets and changing rooms are provided in the Playground.\n․No. 3 Soccer Pitch can be used for playing handball.",
@@ -973,7 +973,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Kwun Tong",
+        "District_en": "Kwun Tong",
         "Name_en": "Yau Tong Road Playground",
         "Address_en": "Yau Tong Road, Yau Tong, Kowloon",
         "Ancillary facilities_en": "․Toilets, changing rooms and outdoor storage cages are provided in the Playground.",
@@ -982,7 +982,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Kwun Tong",
+        "District_en": "Kwun Tong",
         "Name_en": "Yau Tong Service Reservoir Playground",
         "Address_en": "Pik Wan Road, \nLam Tin, Kowloon",
         "Ancillary facilities_en": "",
@@ -991,7 +991,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "North",
+        "District_en": "North",
         "Name_en": "Kat O Playground",
         "Address_en": "Kat O",
         "Ancillary facilities_en": "With Floodlight ",
@@ -1000,7 +1000,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "North",
+        "District_en": "North",
         "Name_en": "Luen Wo Hui Playground",
         "Address_en": "Luen Wo Road, Luen Wo Hui, Fanling, N.T.",
         "Ancillary facilities_en": "With Floodlight",
@@ -1009,8 +1009,8 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "North",
-        "Name_en": "North District Park",
+        "District_en": "North",
+        "Name_en": "North District_en Park",
         "Address_en": "Jockey Club Road, Sheung Shui, N.T.",
         "Ancillary facilities_en": "Men's and Ladies' Toilet\nToilet for Persons with a Disability With Floodlight",
         "OpeningHour_en": "7 am to 11 pm daily",
@@ -1018,7 +1018,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "North",
+        "District_en": "North",
         "Name_en": "On Lok Tsuen Playground",
         "Address_en": "On Lok Mun Street, On Lok Tsuen, Fanling, N.T.",
         "Ancillary facilities_en": "With Floodlight",
@@ -1027,7 +1027,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "North",
+        "District_en": "North",
         "Name_en": "Pak Wo Road Playground",
         "Address_en": "Pak Wo Road, Fanling, N.T.",
         "Ancillary facilities_en": "Men's and Ladies' Toilet \nMen's and Ladies' Changing Room (with shower) Toilet for Persons with a Disability With Floodlight ",
@@ -1036,7 +1036,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "North",
+        "District_en": "North",
         "Name_en": "Ping Che Mini Soccer Pitch",
         "Address_en": "Ping Che Village, Ping Che Road, Ta Kwu Ling, N.T.",
         "Ancillary facilities_en": "Without Floodlight ",
@@ -1045,7 +1045,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "North",
+        "District_en": "North",
         "Name_en": "Po Wing Road Playground",
         "Address_en": "Po Wing Road, Sheung Shui, N.T.",
         "Ancillary facilities_en": "Men's and Ladies' Changing Room & Toilet \nChanging Room & Toilet for Persons with a Disability Drinking fountain With Floodlight ",
@@ -1054,7 +1054,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "North",
+        "District_en": "North",
         "Name_en": "Sha Tau Kok Recreation Ground",
         "Address_en": "2, Shun Hing Street, Sha Tau Kok, N.T.",
         "Ancillary facilities_en": "With Floodlight ",
@@ -1063,7 +1063,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "North",
+        "District_en": "North",
         "Name_en": "Shek Wu Hui Playground",
         "Address_en": "Fu Hing Street, Sheung Shui",
         "Ancillary facilities_en": "Men's and Ladies' Toilet \nToilet for Persons with a Disability With Floodlight",
@@ -1072,7 +1072,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "North",
+        "District_en": "North",
         "Name_en": "Ta Kwu Ling Playground",
         "Address_en": "Tai Po Tin Village, Ping Che Road, Ta Kwu Ling, N.T.",
         "Ancillary facilities_en": "Without Floodlight ",
@@ -1081,7 +1081,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "North",
+        "District_en": "North",
         "Name_en": "Wo Muk Road Playground",
         "Address_en": "Wo Muk Road, Luen Wo Hui, Fanling, N.T.",
         "Ancillary facilities_en": "Drinking fountain\nWith Floodlight ",
@@ -1090,7 +1090,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Sai Kung",
+        "District_en": "Sai Kung",
         "Name_en": "Ho Chung Soccer Pitch",
         "Address_en": "Ho Chung, Sai Kung",
         "Ancillary facilities_en": "",
@@ -1099,7 +1099,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Sai Kung",
+        "District_en": "Sai Kung",
         "Name_en": "Mau Wu Tsai Soccer Pitch",
         "Address_en": "Mau Wu Tsai Village, Tseung Kwan O",
         "Ancillary facilities_en": "",
@@ -1108,7 +1108,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Sai Kung",
+        "District_en": "Sai Kung",
         "Name_en": "Pak Kong Soccer Pitch",
         "Address_en": "Pak Kong, Sai Kung",
         "Ancillary facilities_en": "",
@@ -1117,7 +1117,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Sai Kung",
+        "District_en": "Sai Kung",
         "Name_en": "Po Hong Park",
         "Address_en": "Wan Lung Road, Tseung Kwan O",
         "Ancillary facilities_en": "․Toilets and disabled toilet\n․Floodlights",
@@ -1126,7 +1126,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Sai Kung",
+        "District_en": "Sai Kung",
         "Name_en": "Po Tsui Park",
         "Address_en": "Yuk Nga Lane, Tseung Kwan O",
         "Ancillary facilities_en": "․Changing rooms, toilets and disabled toilets\n․Floodlights",
@@ -1135,7 +1135,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Sai Kung",
+        "District_en": "Sai Kung",
         "Name_en": "Sha Kok Mei Playground and Garden",
         "Address_en": "Sha Kok Mei Village, Sai Kung",
         "Ancillary facilities_en": "",
@@ -1144,7 +1144,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Sai Kung",
+        "District_en": "Sai Kung",
         "Name_en": "Wai Man Road Playground",
         "Address_en": "Wai Man Road, Sai Kung",
         "Ancillary facilities_en": "․Toilets and disabled toilets\n․Floodlights",
@@ -1153,7 +1153,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Sai Kung",
+        "District_en": "Sai Kung",
         "Name_en": "Yau Yue Wan Playground",
         "Address_en": "Yau Yue Wan Village Road, Tseung Kwan O",
         "Ancillary facilities_en": "․Disabled toilet \n․Floodlights",
@@ -1162,7 +1162,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Sha Tin",
+        "District_en": "Sha Tin",
         "Name_en": "Ma On Shan Recreation Ground",
         "Address_en": "No. 1 Hang Hong Street, Ma On Shan",
         "Ancillary facilities_en": "Toilets & Changing Rooms\nToilet for persons with disabilities (with Shower) Lockers First-aid Room Equip with Floodlights",
@@ -1171,7 +1171,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Sha Tin",
+        "District_en": "Sha Tin",
         "Name_en": "Ngau Pei Sha Street Playground",
         "Address_en": "Ngau Pei Sha Street, Sha Tin",
         "Ancillary facilities_en": "Male and Female toilets\n Toilets for persons with disabilites Equip with Floodlights",
@@ -1180,7 +1180,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Sha Tin",
+        "District_en": "Sha Tin",
         "Name_en": "Pai Tau Village Playground",
         "Address_en": "Pai Tau Street, Sha Tin",
         "Ancillary facilities_en": "Equip with Floodlights",
@@ -1189,7 +1189,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Sha Tin",
+        "District_en": "Sha Tin",
         "Name_en": "Sha Tin Wai Playground",
         "Address_en": "Shui Chuen Au Street, Sha Tin Wai, Sha Tin",
         "Ancillary facilities_en": "Spectator Stand\nEquip with Floodlights",
@@ -1198,7 +1198,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Sha Tin",
+        "District_en": "Sha Tin",
         "Name_en": "Tai Wai Playground",
         "Address_en": "Tsuen Nam Road, Tai Wai",
         "Ancillary facilities_en": "Lockers(Please bring along with own padlock)\nEquip with Floodlights",
@@ -1207,7 +1207,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Sha Tin",
+        "District_en": "Sha Tin",
         "Name_en": "Yuen Wo Playground",
         "Address_en": "No. 16, Yuen Wo Road, Sha Tin, New Territories.",
         "Ancillary facilities_en": "Male and female toilets\nToilets for persons with disabilities Male and female changing rooms Light refreshment kiosk Car park First-aid room",
@@ -1216,7 +1216,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Sham Shui Po",
+        "District_en": "Sham Shui Po",
         "Name_en": "Cheung Sha Wan Playground",
         "Address_en": "J/O Cheung Sha Wan Road and Cheung Shun Street, Sham Shui Po, Kowloon",
         "Ancillary facilities_en": "Toilet and changing facilities",
@@ -1225,7 +1225,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Sham Shui Po",
+        "District_en": "Sham Shui Po",
         "Name_en": "Fa Hui Park",
         "Address_en": "101 Boundary Street, Kowloon",
         "Ancillary facilities_en": "Toilet and changing facilities",
@@ -1234,7 +1234,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Sham Shui Po",
+        "District_en": "Sham Shui Po",
         "Name_en": "Hing Wah Street Playground",
         "Address_en": "Hing Wah Street, Sham Shui Po, Kowloon",
         "Ancillary facilities_en": "",
@@ -1243,7 +1243,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Sham Shui Po",
+        "District_en": "Sham Shui Po",
         "Name_en": "Lai Chi Kok Park (Stage I)",
         "Address_en": "Lai Wan Road, Lai Chi Kok, Kowloon",
         "Ancillary facilities_en": "Spectator stand (approx. 400 seats), toilet and changing facilities",
@@ -1252,7 +1252,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Sham Shui Po",
+        "District_en": "Sham Shui Po",
         "Name_en": "Lai Chi Kok Park (Stage III)",
         "Address_en": "Lai Wan Road, Lai Chi Kok, Kowloon.",
         "Ancillary facilities_en": "Spectator stand (approx. 400 seats), toilet and changing facilities",
@@ -1261,7 +1261,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Sham Shui Po",
+        "District_en": "Sham Shui Po",
         "Name_en": "Lei Cheng Uk Playground",
         "Address_en": "J/O Tonkin Street and Wai Wai Road, Sham Shui Po, Kowloon ",
         "Ancillary facilities_en": "Spectator stands (with approx. 400 seats), toilet facilities",
@@ -1270,7 +1270,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Sham Shui Po",
+        "District_en": "Sham Shui Po",
         "Name_en": "Maple Street Playground",
         "Address_en": "J/O Cheung Sha Wan Road and Maple Street, Sham Shui Po, Kowloon",
         "Ancillary facilities_en": "Spectator stand (approx. 800 seats), toilet and changing facilities",
@@ -1279,7 +1279,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Sham Shui Po",
+        "District_en": "Sham Shui Po",
         "Name_en": "Po On Road Playground ",
         "Address_en": "J/O Po On Road and Cheung Fat Street, Sham Shui Po, Kowloon",
         "Ancillary facilities_en": "Toilet facilities",
@@ -1288,7 +1288,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Sham Shui Po",
+        "District_en": "Sham Shui Po",
         "Name_en": "Sham Shui Po Sports Ground",
         "Address_en": "3 Hing Wah Street, Cheung Sha Wan, Kowloon",
         "Ancillary facilities_en": "Toilet facilities",
@@ -1297,7 +1297,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Sham Shui Po",
+        "District_en": "Sham Shui Po",
         "Name_en": "Shek Kip Mei Park (Phase III)",
         "Address_en": "270 Nam Cheong Street, Sham Shui Po, Kowloon",
         "Ancillary facilities_en": "Toilet and changing facilities",
@@ -1306,7 +1306,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Sham Shui Po",
+        "District_en": "Sham Shui Po",
         "Name_en": "Tai Hang Tung Estate Playground No. 1",
         "Address_en": "J/O Tai Hang Tung Road and Tong Yam Street, Sham Shui Po, Kowloon",
         "Ancillary facilities_en": "Toilet facilities",
@@ -1315,7 +1315,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Sham Shui Po",
+        "District_en": "Sham Shui Po",
         "Name_en": "Tung Chau Street Park",
         "Address_en": "Tung Chau Street, Sham Shui Po, Kowloon",
         "Ancillary facilities_en": "Spectator stands (with approx. 400 seats), toilet and changing facilities",
@@ -1324,7 +1324,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Sham Shui Po",
+        "District_en": "Sham Shui Po",
         "Name_en": "Wai Chi Street Playground",
         "Address_en": "Wai Chi Street, Sham Shui Po, Kowloon",
         "Ancillary facilities_en": "Toilet facilities",
@@ -1333,7 +1333,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Southern",
+        "District_en": "Southern",
         "Name_en": "Ap Lei Chau Bridge Road Playground",
         "Address_en": "Junction of Ap Lei Chau Bridge Road and Lee Nam Road, Hong Kong",
         "Ancillary facilities_en": "",
@@ -1342,7 +1342,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Southern",
+        "District_en": "Southern",
         "Name_en": "Ap Lei Chau Park",
         "Address_en": "Apleichau Main Street, Aberdeen, Hong Kong",
         "Ancillary facilities_en": "․Toilets, changing rooms and a toilet for persons with disabilities are provided in the Park.\n․Other facilities include 2 basketball courts or 2 volleyball courts, 2 gateball courts and a spectator stand. ",
@@ -1351,7 +1351,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Southern",
+        "District_en": "Southern",
         "Name_en": "Ap Lei Chau Service Reservoir Playground",
         "Address_en": "Roof Top, Ap Lei Chau Service Reservoir, Aberdeen, Hong Kong",
         "Ancillary facilities_en": "Elderly fitness equipment, a jogging track and a pebble walking trail are provided in the Playground.",
@@ -1360,7 +1360,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Southern",
+        "District_en": "Southern",
         "Name_en": "Hong Fu Playground",
         "Address_en": "Wah Fu Road, Wah Fu Estate, Aberdeen, Hong Kong",
         "Ancillary facilities_en": "Toilets and toilet for persons with disabilities are provided in the Playground.",
@@ -1369,7 +1369,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Southern",
+        "District_en": "Southern",
         "Name_en": "Shek Pai Wan Estate Playground No.1",
         "Address_en": "Yue Kwong Road, Aberdeen, Hong Kong",
         "Ancillary facilities_en": "A spectator stand is provided in the Playground.",
@@ -1378,7 +1378,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Southern",
+        "District_en": "Southern",
         "Name_en": "Tin Wan Estate Playground",
         "Address_en": "Tin Wan Estate, Tin Wan Street, Aberdeen, Hong Kong",
         "Ancillary facilities_en": "",
@@ -1387,7 +1387,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Southern",
+        "District_en": "Southern",
         "Name_en": "Wong Chuk Hang Recreation Ground",
         "Address_en": "No. 108 Wong Chuk Hang Road, Aberdeen, Hong Kong",
         "Ancillary facilities_en": "․One of the pitches can be converted into a handball court.\n․Two of the pitches can be converted into 8 netball courts or 2 5-a-side soccer pitches. ․Toilets, changing rooms and 10 spectator stands are provided in the Recreation Ground. ",
@@ -1396,7 +1396,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Tai Po",
+        "District_en": "Tai Po",
         "Name_en": "Plover Cove Road Mini-soccer Pitch",
         "Address_en": "Plover Cove Road, Tai Po, N.T.",
         "Ancillary facilities_en": "",
@@ -1405,7 +1405,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Tai Po",
+        "District_en": "Tai Po",
         "Name_en": "Tai Po Tau Playground",
         "Address_en": "Tai Po Tau Path",
         "Ancillary facilities_en": "․Toilets and disabled toilets\n․Spectator stand 3 no.s",
@@ -1414,7 +1414,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Tai Po",
+        "District_en": "Tai Po",
         "Name_en": "Tap Mun Playground",
         "Address_en": "Tap Mun, Tai Po, N.T.",
         "Ancillary facilities_en": "․Helicopter Landing Site",
@@ -1423,7 +1423,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Tai Po",
+        "District_en": "Tai Po",
         "Name_en": "Tin Hau Temple Fung Shui Square",
         "Address_en": "Tai Po Ting Kok Road",
         "Ancillary facilities_en": "․Spectator stand 2 no.s",
@@ -1432,7 +1432,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Tsuen Wan",
+        "District_en": "Tsuen Wan",
         "Name_en": "Sha Tsui Road Playground",
         "Address_en": "171-199 Sha Tsui Road, Tsuen Wan",
         "Ancillary facilities_en": "․Covered spectator stand (about 960 seats)\n ․Movable spectator stand (about 350 seats) ․Men's and ladies' changing rooms and toilets (including accessible toilets) ․First aid room ․Drinking fountain",
@@ -1441,7 +1441,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Tsuen Wan",
+        "District_en": "Tsuen Wan",
         "Name_en": "Sham Tseng Temporary Playground",
         "Address_en": "Sham Tseng Tsuen Road, Tsuen Wan",
         "Ancillary facilities_en": "․2 sets of spectator stands (about 100 seats)",
@@ -1450,7 +1450,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Tsuen Wan",
+        "District_en": "Tsuen Wan",
         "Name_en": "Shing Mun Valley Park",
         "Address_en": "21 Shing Mun Road , Tsuen Wan ",
         "Ancillary facilities_en": "․5 sets of Spectator stand (about 357seats)\n ․Men's and ladies' Toilets and Changing Rooms (including accessible toilets)",
@@ -1459,7 +1459,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Tuen Mun",
+        "District_en": "Tuen Mun",
         "Name_en": "Hang Kwai Street Playground",
         "Address_en": "5, Hang Kwai Street, Tuen Mun",
         "Ancillary facilities_en": "Male Toilet, Female Toilet, Toilet for Persons with a Disability, Changing Room, Baby Care Room, Spectator Stand with a capacity of 140 persons",
@@ -1468,7 +1468,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Tuen Mun",
+        "District_en": "Tuen Mun",
         "Name_en": "Nai Wai Soccer Pitch",
         "Address_en": "Nai Wai Tsuen, Tuen Mun ",
         "Ancillary facilities_en": "",
@@ -1477,7 +1477,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Tuen Mun",
+        "District_en": "Tuen Mun",
         "Name_en": "San Hui Playground",
         "Address_en": "Heung Sze Wui Road, Tuen Mun ",
         "Ancillary facilities_en": "Male Toilet, Female Toilet, Toilet for People With a Disability and Bathroom",
@@ -1486,7 +1486,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Tuen Mun",
+        "District_en": "Tuen Mun",
         "Name_en": "San Wo Lane Playground",
         "Address_en": "San Wo Lane, Tuen Mun",
         "Ancillary facilities_en": "Male Toilet, Female Toilet, Toilet for Persons with a Disability, Bathroom, Spectator Stand.",
@@ -1495,7 +1495,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Tuen Mun",
+        "District_en": "Tuen Mun",
         "Name_en": "Shek Pai Tau Playground",
         "Address_en": "Ho Tin Street, Tuen Mun ",
         "Ancillary facilities_en": "Spectator Stand",
@@ -1504,7 +1504,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Tuen Mun",
+        "District_en": "Tuen Mun",
         "Name_en": "Tin Ha Road Playground ",
         "Address_en": "Tin Ha Road, Tuen Mun",
         "Ancillary facilities_en": "Male Toilet, Female Toilet, Toilet for Persons with a Disability, Bathroom, Spectator Stand.",
@@ -1513,7 +1513,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Tuen Mun",
+        "District_en": "Tuen Mun",
         "Name_en": "Tsing Tin Playground",
         "Address_en": "Leung Wan Street, Tuen Mun",
         "Ancillary facilities_en": "Male Toilet, Female Toilet, Toilet for Persons with a Disability, Changing Room, Spectator Stand.",
@@ -1522,7 +1522,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Tuen Mun",
+        "District_en": "Tuen Mun",
         "Name_en": "Tsing Wah Soccer Pitch ",
         "Address_en": "Tsing Hoi Circuit, Tuen Mun ",
         "Ancillary facilities_en": "",
@@ -1531,7 +1531,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Tuen Mun",
+        "District_en": "Tuen Mun",
         "Name_en": "Yeung King Playground",
         "Address_en": "Yeung King Road, Tuen Mun",
         "Ancillary facilities_en": "Male Toilet, Female Toilet, Toilet for Persons with a Disability, Bathroom, Spectator Stand.",
@@ -1540,7 +1540,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Wan Chai",
+        "District_en": "Wan Chai",
         "Name_en": "Moreton Terrace Temporary Playground",
         "Address_en": "Moreton Terrace, Causeway Bay",
         "Ancillary facilities_en": "Floodlights",
@@ -1549,7 +1549,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Wan Chai",
+        "District_en": "Wan Chai",
         "Name_en": "Southorn Playground",
         "Address_en": "Hennessy Road, Wan Chai (adjacent to Southorn Centre)",
         "Ancillary facilities_en": "Toilets, Changing Rooms, Floodlights, Children's Play Area, 4 no. of Basketball Courts, Spectator Stand",
@@ -1558,7 +1558,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Wan Chai",
+        "District_en": "Wan Chai",
         "Name_en": "Victoria Park",
         "Address_en": "1 Hing Fat Street, Causeway Bay, Hong Kong",
         "Ancillary facilities_en": "Toilets, changing rooms and drinking fountains",
@@ -1567,7 +1567,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Wan Chai",
+        "District_en": "Wan Chai",
         "Name_en": "Wan Chai Park",
         "Address_en": "Bullock Lane, Wan Chai",
         "Ancillary facilities_en": "Toilets, Changing Rooms, Floodlights, Chess Tables, 1 no. of Model Boat Pool, Children's Play Area, Elderly Fitness Facilities",
@@ -1576,7 +1576,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Wong Tai Sin",
+        "District_en": "Wong Tai Sin",
         "Name_en": "Kai Tak East Playground ",
         "Address_en": "30 Luk Hop Street, San Po Kong, Kowloon",
         "Ancillary facilities_en": "Toilet\nChanging room Toilet for persons with a disability Drinking fountain Spectator stands",
@@ -1585,7 +1585,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Wong Tai Sin",
+        "District_en": "Wong Tai Sin",
         "Name_en": "Morse Park (Park No.3)",
         "Address_en": "40 Fung Mo Street, Wong Tai Sin, Kowloon",
         "Ancillary facilities_en": "Floodlight System\nSpectator Stand (about 300 seats) Light refreshment kiosk Men's and ladies' changing rooms and toilets (including accessible toilets)",
@@ -1594,7 +1594,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Wong Tai Sin",
+        "District_en": "Wong Tai Sin",
         "Name_en": "Muk Lun Street Playground",
         "Address_en": "7 Muk Lun Street, Wong Tai Sin, Kowloon",
         "Ancillary facilities_en": "Storage Cage\nToilet Changing Room Floodlight System",
@@ -1603,7 +1603,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Wong Tai Sin",
+        "District_en": "Wong Tai Sin",
         "Name_en": "Tsz Wan Shan Estate Central Playground",
         "Address_en": "1 Wan Wah Street, Tsz Wan Shan, Kowloon",
         "Ancillary facilities_en": "Storage Cages\nToilet Changing Room Floodlight System Refreshment Kiosk",
@@ -1612,7 +1612,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Wong Tai Sin",
+        "District_en": "Wong Tai Sin",
         "Name_en": "Tsz Wan Shan Estate Service Reservoir Playground",
         "Address_en": "Lok Wah Street, Tsz Wan Street, Kowloon",
         "Ancillary facilities_en": "Storage Cages",
@@ -1621,7 +1621,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Wong Tai Sin",
+        "District_en": "Wong Tai Sin",
         "Name_en": "Wong Tai Sin Service Reservoir Playground",
         "Address_en": "Sheung Fung Street, Tsz Wan Shan, Kowloon",
         "Ancillary facilities_en": "Toilet",
@@ -1630,7 +1630,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Yau Tsim Mong",
+        "District_en": "Yau Tsim Mong",
         "Name_en": "Anchor Street Playground",
         "Address_en": "55 Anchor Street, Mong Kok",
         "Ancillary facilities_en": "․A spectator stand and changing rooms with lockers are provided in the Playground.\n․Other facilities include a basketball/ volleyball court, a children's playground and elderly fitness stations.",
@@ -1639,7 +1639,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Yau Tsim Mong",
+        "District_en": "Yau Tsim Mong",
         "Name_en": "King George V Memorial Park, Kowloon",
         "Address_en": "Junction of Canton Road / Jordan Road, Kowloon",
         "Ancillary facilities_en": "․40 outdoor lockers are provided in the Soccer Pitch.\n․Other facilities include a basketball court, a children's play area, elderly fitness stations, pavilions and garden benches.",
@@ -1648,7 +1648,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Yau Tsim Mong",
+        "District_en": "Yau Tsim Mong",
         "Name_en": "Kowloon Park",
         "Address_en": "22 Austin Road, Tsim Sha Tsui, Kowloon",
         "Ancillary facilities_en": "․A spectator stand, toilets, a children playground, rain shelters and garden benches are provided in the Park.\n․A fee-paying car park with 18 parking spaces (including 2 parking spaces for persons with disabilities) is provided.",
@@ -1657,7 +1657,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Yau Tsim Mong",
+        "District_en": "Yau Tsim Mong",
         "Name_en": "MacPherson Playground",
         "Address_en": "59 Sai Yee Street, Mong Kok, Kowloon",
         "Ancillary facilities_en": "․A spectator stand, changing rooms, lockers, toilets and a toilet for persons with disabilities are provided in the Playground.",
@@ -1666,7 +1666,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Yau Tsim Mong",
+        "District_en": "Yau Tsim Mong",
         "Name_en": "Sycamore Playground",
         "Address_en": "12 Willow Street, Mong Kok, Kowloon",
         "Ancillary facilities_en": "․Changing rooms with lockers, toilets and a toilet for persons with disabilities are provided in the Playground.\n․Other facilities include a basketball court, elderly fitness stations and a children's playground.",
@@ -1675,7 +1675,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Yuen Long",
+        "District_en": "Yuen Long",
         "Name_en": "On Hing Playground",
         "Address_en": "On Hing Street, Yuen Long",
         "Ancillary facilities_en": "Spectator Stand (Capacity:300 person)",
@@ -1684,7 +1684,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Yuen Long",
+        "District_en": "Yuen Long",
         "Name_en": "Ping Pak Lane Park",
         "Address_en": "Ping Pak Lane, Ping Shan, Yuen Long",
         "Ancillary facilities_en": "Spectator Stand (Capacity: 100 person )\nToilet",
@@ -1693,7 +1693,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Yuen Long",
+        "District_en": "Yuen Long",
         "Name_en": "San Tin Soccer Pitch",
         "Address_en": "Mai Po Lung Road, San Tin, Yuen Long",
         "Ancillary facilities_en": "",
@@ -1702,7 +1702,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Yuen Long",
+        "District_en": "Yuen Long",
         "Name_en": "Shek Po Tsuen Playground",
         "Address_en": "Shek Po Tsuen, Ping Shan, Yuen Long",
         "Ancillary facilities_en": "",
@@ -1711,7 +1711,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Yuen Long",
+        "District_en": "Yuen Long",
         "Name_en": "Sheung Tsuen Park",
         "Address_en": "J/O Kam Sheung Road and Kam Tin Road, Sheung Tsuen, Pat Heung, Yuen Long",
         "Ancillary facilities_en": "Toilet",
@@ -1720,7 +1720,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Yuen Long",
+        "District_en": "Yuen Long",
         "Name_en": "Shui Pin Tsuen Playground",
         "Address_en": "Yuen Long Tai Yuk Road, Yuen Long",
         "Ancillary facilities_en": "Spectator Stand (Capacity : 144 person)\nToilet",
@@ -1729,7 +1729,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Yuen Long",
+        "District_en": "Yuen Long",
         "Name_en": "Tin Sau Road Park",
         "Address_en": "Tin Sau Road, Tin Shui Wai, Yuen Long",
         "Ancillary facilities_en": "Spectator Stand (Capacity: 80 person)\nToilet",
@@ -1738,7 +1738,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Yuen Long",
+        "District_en": "Yuen Long",
         "Name_en": "Tung Tau Industrial Area Playground",
         "Address_en": "Keung Yip Street, Tung Tau Industrial Area, Yuen Long",
         "Ancillary facilities_en": "Spectator stand (Capacity: 400 persons)\nToilet",
@@ -1747,7 +1747,7 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Yuen Long",
+        "District_en": "Yuen Long",
         "Name_en": "Wang Toi Shan Playground",
         "Address_en": "Wang Toi Shan, Fan Kam Road, Pat Heung, Yuen Long",
         "Ancillary facilities_en": "",
@@ -1756,11 +1756,533 @@
     },
     {
         "Category_en": "7-a-side Soccer Pitches",
-        "District": "Yuen Long",
+        "District_en": "Yuen Long",
         "Name_en": "Yuen Long Park",
         "Address_en": "Town Park Road North, Yuen Long, N.T.",
         "Ancillary facilities_en": "Spectator stand (Capacity: 500 persons)\nToilet",
         "OpeningHour_en": "7 am to 11 pm",
         "Phone": "2473 6511"
+    },
+    {
+        "Category_en": "11-a-side Soccer Pitches",
+        "District_en": "Kowloon City",
+        "Name_en": "Kowloon Tsai Park",
+        "Address_en": "13 Inverness Road, Kowloon City, Kowloon.",
+        "Ancillary facilities_en": "․Toilets and changing rooms are provided in the Park.\n․Other facilities include 2 artificial turf soccer pitches, a natural turf soccer pitch, 2 elderly fitness corners, a bauhinia garden, a jogging track of length 550m, a pebble path, 2 hard-surface 7-a-side soccer pitches, 2 hard-surface basketball courts, a children's playground and a dog garden.",
+        "OpeningHour_en": "8 am to 11 pm daily",
+        "Phone": "2336 7878"
+    },
+    {
+        "Category_en": "11-a-side Soccer Pitches",
+        "District_en": "Kwai Tsing",
+        "Name_en": "Tsing Yi Northeast Park",
+        "Address_en": "10 Tam Kon Shan Road, Tsing Yi",
+        "Ancillary facilities_en": "",
+        "OpeningHour_en": "8:00 am – 11:00 pm",
+        "Phone": "2436 3422"
+    },
+    {
+        "Category_en": "11-a-side Soccer Pitches",
+        "District_en": "Kwun Tong",
+        "Name_en": "Kowloon Bay Park",
+        "Address_en": "No.11, Kai Lai Road, Kowloon Bay",
+        "Ancillary facilities_en": "․Toilets and changing rooms with lockers are provided. \n․A fee-charging car park with 21 parking spaces is provided (including 1 designated disabled parking space)",
+        "OpeningHour_en": "8 am to 10:30 pm ( 1.5 hours per session)",
+        "Phone": "2750 0849"
+    },
+    {
+        "Category_en": "11-a-side Soccer Pitches",
+        "District_en": "Sai Kung",
+        "Name_en": "Po Tsui Park",
+        "Address_en": "Yuk Nga Lane, Tseung Kwan O",
+        "Ancillary facilities_en": "․Changing rooms, toilets and disabled toilets\n․Floodlights",
+        "OpeningHour_en": "8am– 11pm",
+        "Phone": "2703 7231"
+    },
+    {
+        "Category_en": "11-a-side Soccer Pitches",
+        "District_en": "Sha Tin",
+        "Name_en": "Ma On Shan Recreation Ground",
+        "Address_en": "No. 1 Hang Hong Street, Ma On Shan",
+        "Ancillary facilities_en": "Toilet & Changing Room\nToilet for persons with a disability (with Shower) Lockers First-aid Room Equip with Floodlights",
+        "OpeningHour_en": "8 am to 11 pm daily",
+        "Phone": "2631 4106"
+    },
+    {
+        "Category_en": "11-a-side Soccer Pitches",
+        "District_en": "Sha Tin",
+        "Name_en": "Tsang Tai Uk Recreation Ground",
+        "Address_en": "Sha Kok Street, Sha Tin",
+        "Ancillary facilities_en": "Male & Female Toilet \nMale & Female Changing Room Toilet for person with a disability (with Shower) Lockers Floodlights",
+        "OpeningHour_en": "8 am to 11 pm daily",
+        "Phone": "2698 2648"
+    },
+    {
+        "Category_en": "11-a-side Soccer Pitches",
+        "District_en": "Sham Shui Po",
+        "Name_en": "Shek Kip Mei Park (Phase III)",
+        "Address_en": "270 Nam Cheong Street, Sham Shui Po, Kowloon",
+        "Ancillary facilities_en": "Spectator stand (with approx. 1440 seats), toilet and changing room facilities",
+        "OpeningHour_en": "8 am to 11:00 pm daily\n(Closed from 8 am to 1:00 pm on Thursday for maintenance)",
+        "Phone": "2777 1540"
+    },
+    {
+        "Category_en": "11-a-side Soccer Pitches",
+        "District_en": "Southern",
+        "Name_en": "Wong Chuk Hang Recreation Ground",
+        "Address_en": "No. 108 Wong Chuk Hang Road, Aberdeen, Hong Kong",
+        "Ancillary facilities_en": "Toilets, changing rooms and 2 spectator stands are provided in the Recreation Ground.",
+        "OpeningHour_en": "8 am to 11 pm daily",
+        "Phone": "2555 0103"
+    },
+    {
+        "Category_en": "11-a-side Soccer Pitches",
+        "District_en": "Tai Po",
+        "Name_en": "Kwong Fuk Football Ground",
+        "Address_en": "Kwong Fuk Road, Tai Po, N.T.",
+        "Ancillary facilities_en": "․Changing rooms, toilets and disabled toilets",
+        "OpeningHour_en": "8:00am to 11:00pm ",
+        "Phone": "(852) 2653 3447 / (852) 3183 9020"
+    },
+    {
+        "Category_en": "11-a-side Soccer Pitches",
+        "District_en": "Tai Po",
+        "Name_en": "Kwong Fuk Park Football Pitch",
+        "Address_en": "Kwong Chun Street, Tai Po, N.T.",
+        "Ancillary facilities_en": "․1 no. of Car Park\n․Changing rooms, toilets and disabled toilets",
+        "OpeningHour_en": "8:00am to 11:00pm ",
+        "Phone": "(852) 2653 4074 / (852) 2653 3447 / (852) 3183 9020"
+    },
+    {
+        "Category_en": "11-a-side Soccer Pitches",
+        "District_en": "Tuen Mun",
+        "Name_en": "Wu Shan Recreation Playground",
+        "Address_en": "Wu Shan Road, Tuen Mun ",
+        "Ancillary facilities_en": "Spectator Stand, First Aid Room, Office, Light Refreshment Kiosk, Drinking Fountain, Ladies' and Men's Changing Room & Toilet, Toilet for Persons with a Disability ",
+        "OpeningHour_en": "8 am to 11 pm daily",
+        "Phone": "2463 7597"
+    },
+    {
+        "Category_en": "11-a-side Soccer Pitches",
+        "District_en": "Wan Chai",
+        "Name_en": "Happy Valley Recreation Ground",
+        "Address_en": "Sports Road, Happy Valley, Hong Kong",
+        "Ancillary facilities_en": "Changing Rooms and Toilets\nFloodlights",
+        "OpeningHour_en": "8 am – 11 pm daily",
+        "Phone": "2895 1523"
+    },
+    {
+        "Category_en": "11-a-side Soccer Pitches",
+        "District_en": "Wong Tai Sin",
+        "Name_en": "Lok Fu Recreation Ground",
+        "Address_en": "1 Heng Lam Street, Lok Fu, Kowloon.",
+        "Ancillary facilities_en": "A spectator stand with a capacity of 500 seats (including 72 seats with cover)\nA changing room A toilet A toilet for persons with a disabilities",
+        "OpeningHour_en": "7:30 am to 11 pm daily",
+        "Phone": "2338 0137"
+    },
+    {
+        "Category_en": "11-a-side Soccer Pitches",
+        "District_en": "Wong Tai Sin",
+        "Name_en": "Morse Park (Park No.3)",
+        "Address_en": "40 Fung Mo Street, Wong Tai Sin, Kowloon",
+        "Ancillary facilities_en": "Floodlight System\nLight refreshment kiosk Men's and ladies' changing rooms and toilets (including accessible toilets)",
+        "OpeningHour_en": "8 am to 11 pm daily",
+        "Phone": "2323 9665"
+    },
+    {
+        "Category_en": "11-a-side Soccer Pitches",
+        "District_en": "Wong Tai Sin",
+        "Name_en": "Po Kong Village Road Park",
+        "Address_en": "140 Po Kong Village Road, Diamond Hill, Kowloon",
+        "Ancillary facilities_en": "Floodlight System\nCovered Spectator Stand (about 1,000 seats) Men’s and ladies’ changing rooms and toilets (including accessible toilets)",
+        "OpeningHour_en": "7:30 a.m. - 10:00 p.m. daily",
+        "Phone": "2320 6140"
+    },
+    {
+        "Category_en": "11-a-side Soccer Pitches",
+        "District_en": "Yau Tsim Mong",
+        "Name_en": "Boundary Street Recreation Ground",
+        "Address_en": "200 Sai Yee Street, Mong Kok, Kowloon",
+        "Ancillary facilities_en": "․3 outdoor table tennis tables, toilets, changing rooms with lockers and changing rooms cum toilets for persons with disabilities are provided in the Recreation Ground.\n․The Recreation Ground is located adjacent to Boundary Street Sports Centre No. 1 and Boundary Street Sports Centre No. 2, which offer a booking office, 2 arenas, an activity room, 2 table tennis rooms and 2 squash courts cum activity rooms. ․This court can also be used for playing hockey.",
+        "OpeningHour_en": "8 am to 11 pm daily (1.5 hours per session)",
+        "Phone": "2380 9751"
+    },
+    {
+        "Category_en": "11-a-side Soccer Pitches",
+        "District_en": "Yuen Long",
+        "Name_en": "Tin Yip Road Park",
+        "Address_en": "Tin Yip Road, Tin Shui Wai",
+        "Ancillary facilities_en": "Toilet\nChanging Room Accessible Toilet Babycare Room",
+        "OpeningHour_en": "8:00am to 11:00pm daily",
+        "Phone": "2682 3197"
+    },
+    {
+        "Category_en": "11-a-side Soccer Pitches",
+        "District_en": "Eastern",
+        "Name_en": "Siu Sai Wan Sports Ground",
+        "Address_en": "8 Fu Hong Street, Siu Sai Wan, Hong Kong",
+        "Ancillary facilities_en": "․Covered spectator stand with 12,000 seating\n․Fee Paying Car park with 70 parking capacities (5 nos. for coaches, 10 nos. for motor cycles, 54 nos. for private cars and 1 designated disabled parking space) ․Fast food and light refreshment kiosks ․Changing room and toilet for male, female and people with a disability, conference room.",
+        "OpeningHour_en": "8am to 10pm (except 1st –3rd day of Lunar New Year) (Annual Turf Maintenance period is mid-July to August and mid-December to end of December)",
+        "Phone": "2505 1320"
+    },
+    {
+        "Category_en": "11-a-side Soccer Pitches",
+        "District_en": "Kowloon City",
+        "Name_en": "Ho Man Tin East Service Reservoir Playground",
+        "Address_en": "Fat Kwong Street, Kowloon.",
+        "Ancillary facilities_en": "Toilets (including a toilet for persons with disabilities) and changing rooms with lockers are provided in the Playground.",
+        "OpeningHour_en": "8 am to 6 pm daily",
+        "Phone": "2760 0782"
+    },
+    {
+        "Category_en": "11-a-side Soccer Pitches",
+        "District_en": "Kowloon City",
+        "Name_en": "Kowloon Tsai Park",
+        "Address_en": "13 Inverness Road, Kowloon City, Kowloon.",
+        "Ancillary facilities_en": "․Toilets and changing rooms are provided in the Park.\n․Other facilities include 2 artificial turf soccer pitches, a natural turf soccer pitch, 2 elderly fitness corners, a bauhinia garden, a jogging track of length 550m, a pebble path, 2 hard-surface 7-a-side soccer pitches, 2 hard-surface basketball courts, a children's playground and a dog garden.",
+        "OpeningHour_en": "8 am to 6 pm daily",
+        "Phone": "2336 7878"
+    },
+    {
+        "Category_en": "11-a-side Soccer Pitches",
+        "District_en": "Kowloon City",
+        "Name_en": "Kowloon Tsai Sports Ground",
+        "Address_en": "13 Inverness Road, Kowloon City",
+        "Ancillary facilities_en": "",
+        "OpeningHour_en": "6:30 am to 6:00 pm daily (November to April of following year)\n6:30 am to 6:30 pm daily (May to October)",
+        "Phone": "2337 2603"
+    },
+    {
+        "Category_en": "11-a-side Soccer Pitches",
+        "District_en": "Kwai Tsing",
+        "Name_en": "Kwai Chung Sports Ground",
+        "Address_en": "93 Hing Shing Road, Kwai Chung, New Territories",
+        "Ancillary facilities_en": "• Track and Field Facilities\n  8 lanes with 400 m Running Track 1 High Jump Area 1 Javelin Throw Area 1 Discus and Hammer Throw Area 1 Shot Put Area 1 Long Jump & 1 Triple Jump Areas • 1 11-a-side of Natural Turf Pitch • Covered Spectator Stand (with 261 VIP plastic seats & 1,239 concrete seats) • 1 Public Address_en System • 1 First Aid Room • 1 Men's and 1 Ladies' Toilet cum Changing Rooms • 1 Men's and 1 Ladies' Toilets for Persons with Disabilities • 1 Men's and 1 Ladies' Toilets • 1 Men's and 1 Ladies' Toilets (Hard-surfaced Soccer Pitches) • 1 Toilet for Persons with Disabilities (Hard-surfaced Soccer Pitches) • 159 Lockers • 2 7-a-side Hard-surfaced Soccer Pitches • 3 Basketball Courts • 1 Beach Volleyball cum Handball Court • 1 Gateball Court • 1 Rest Garden • 1 Light Refreshment Kiosk • 1 Service Building • A Fee-charging Car Park (including 1 designated disabled parking space)",
+        "OpeningHour_en": "8 am to 10:30 pm (Closed for maintenance on every Tuesday)",
+        "Phone": "2429 8039"
+    },
+    {
+        "Category_en": "11-a-side Soccer Pitches",
+        "District_en": "Kwai Tsing",
+        "Name_en": "Tsing Yi Sports Ground",
+        "Address_en": "Tsing King Road, Tsing Yi, New Territories",
+        "Ancillary facilities_en": "• Track and Field Facilities\n  8 lanes with 400 m Running Track 1 High Jump Area 1 Javelin Throw Area 1 Discus and Hammer Throw Area 1 Shot Put Area\n1 Long Jump & Triple Jump Area\n\n1 Long Jump & Pole Vault Area\n\n1 Steeplechase Water Jump Area\n• 1 11-a-side of Natural Turf Pitch • Covered Spectator Stand (with 430 VIP plastic seats & 1,070 concrete seats) • 1 Electronic Timing and Scoreboard System • 1 Public Address_en System • 1 First Aid Room • 1 Men's and 1 Ladies' Toilets cum Changing Rooms (G/F) • 1 Men's and 1 Ladies' Toilets for Persons with Disabilities (G/F) • 1 Men's and 1 Ladies' Referee Toilets cum Changing Rooms (G/F) • 2 Men's and 2 Ladies' Toilets (1/F) • 216 Lockers • 1 Service Building • 1 Public Fee-paying Car Park",
+        "OpeningHour_en": "8 am to 10:30 pm (Closed for Maintenance on every Wednesday)",
+        "Phone": "2495 7879"
+    },
+    {
+        "Category_en": "11-a-side Soccer Pitches",
+        "District_en": "Kwai Tsing",
+        "Name_en": "Wo Yi Hop Road Sports Ground",
+        "Address_en": "298 Wo Yi Hop Road, Kwai Chung, New Territories",
+        "Ancillary facilities_en": "• Track and Field Facilities\n  6 lanes with 300 m Running Track\n1 Sand pitch for long jump & triple jump\n\n1 Sand pitch for long jump\n• 1 Sub-standard 11-a-side Natural Turf Soccer Pitch • Golf Driving Range (15 Driving Bays with maximum range distance of 60 yards) • Covered Spectator Stand with 700 seats • 1 Public Address_en System • 1 Men's and 1 Ladies' Toilets cum Changing Rooms • 1 Men's and 1 Ladies' Toilets • 72 Lockers • 1 Service Building • A Fee-charging Car Park (including 1 designated disabled parking space)",
+        "OpeningHour_en": "․8 am to 10:30 pm (Closed for maintenance on every Thursday)",
+        "Phone": "2429 8196"
+    },
+    {
+        "Category_en": "11-a-side Soccer Pitches",
+        "District_en": "Kwun Tong",
+        "Name_en": "Kowloon Bay Sports Ground",
+        "Address_en": "1 Kai Lok Street, Kowloon Bay, Kowloon",
+        "Ancillary facilities_en": "․Toilets and changing rooms with lockers are provided.\n․A fee-charging car park with 35 parking spaces is provided (including 1 designated disabled parking space)",
+        "OpeningHour_en": "8 am to 10:30 pm ( 1.5 hours per session)",
+        "Phone": "2750 8512"
+    },
+    {
+        "Category_en": "11-a-side Soccer Pitches",
+        "District_en": "Kwun Tong",
+        "Name_en": "Sai Tso Wan Recreation Ground",
+        "Address_en": "90 Sin Fat Road, Lam Tin, Kowloon",
+        "Ancillary facilities_en": "․Toilets and changing rooms with lockers are provided.\n․A fee-charging car park with 27 parking spaces is provided (including 1 designated disabled parking space) ․The pitch can be used for playing baseball.",
+        "OpeningHour_en": "8 am to 10:30 pm ( 1.5 hours per session)",
+        "Phone": "2952 3011"
+    },
+    {
+        "Category_en": "11-a-side Soccer Pitches",
+        "District_en": "North",
+        "Name_en": "Fanling Recreation Ground",
+        "Address_en": "No. 55 San Wan Road, Fanling, N.T.",
+        "Ancillary facilities_en": "Men's and Ladies' Changing Room & Toilet \nChanging Room & Toilet for Persons with a Disability Drinking fountain With Floodlight Spectator Stand",
+        "OpeningHour_en": "8 am to 10:30 pm daily",
+        "Phone": "2675 6925"
+    },
+    {
+        "Category_en": "11-a-side Soccer Pitches",
+        "District_en": "North",
+        "Name_en": "Kwu Tung Grass Soccer Pitch",
+        "Address_en": "No. 3 Ho Sheung Heung Road, Sheung Shui, N.T.",
+        "Ancillary facilities_en": "Men's and Ladies' Changing Room & Toilet \nChanging Room & Toilet for Persons with a Disability With Floodlight Spectator Stand",
+        "OpeningHour_en": "8 am to 10:30 pm daily",
+        "Phone": "2670 3790"
+    },
+    {
+        "Category_en": "11-a-side Soccer Pitches",
+        "District_en": "North",
+        "Name_en": "North District_en Sports Ground",
+        "Address_en": "No. 26 Tin Ping Road, Sheung Shui, N.T.",
+        "Ancillary facilities_en": "Spectator Stand for 2 500 people\nLight Refreshment Kiosk Men's and Ladies' Changing Room & Toilet Changing Room & Toilet for Persons with a Disability With Floodlight Drinking fountain",
+        "OpeningHour_en": "8 am to 10:30 pm daily",
+        "Phone": "2679 4913"
+    },
+    {
+        "Category_en": "11-a-side Soccer Pitches",
+        "District_en": "Sha Tin",
+        "Name_en": "Hin Tin Playground",
+        "Address_en": "Che Kung Miu Road, Tai Wai, Shatin.",
+        "Ancillary facilities_en": "Male & Female Toilet \nMale & Female Changing Room Toilet for person with a disability (with Shower) Lockers Spectator stand with 200 capacity Equip with Floodlights",
+        "OpeningHour_en": "8 am to 10:30 pm daily",
+        "Phone": "2692 0460"
+    },
+    {
+        "Category_en": "11-a-side Soccer Pitches",
+        "District_en": "Sha Tin",
+        "Name_en": "Ma On Shan Sports Ground",
+        "Address_en": "No. 1 Hang Hong Street, Ma On Shan",
+        "Ancillary facilities_en": "Toilet & Changing Room\nToilet for persons with a disability (with Shower) Lockers First-aid Room Equip with Floodlights ",
+        "OpeningHour_en": "8 am to 10:30 pm daily",
+        "Phone": "2633 0647"
+    },
+    {
+        "Category_en": "11-a-side Soccer Pitches",
+        "District_en": "Sha Tin",
+        "Name_en": "Sha Tin Sports Ground",
+        "Address_en": "No. 18 Yuen Wo Road, Sha Tin",
+        "Ancillary facilities_en": "Toilets & Changing Room\nToilets for persons with disabilities (with Shower) Lockers First-aid Room Equip with Floodlights",
+        "OpeningHour_en": "8 am to 10:30 pm daily",
+        "Phone": "2698 1326"
+    },
+    {
+        "Category_en": "11-a-side Soccer Pitches",
+        "District_en": "Sham Shui Po",
+        "Name_en": "Sham Shui Po Sports Ground",
+        "Address_en": "3 Hing Wah Street, Cheung Sha Wan, Kowloon",
+        "Ancillary facilities_en": "Spectator stand (with approx. 2200 seats), toilet and changing facilities",
+        "OpeningHour_en": "8 am to 10:30 pm daily",
+        "Phone": "2742 9451"
+    },
+    {
+        "Category_en": "11-a-side Soccer Pitches",
+        "District_en": "Sham Shui Po",
+        "Name_en": "Tai Hang Tung Recreation Ground",
+        "Address_en": "63 Boundary Street, Sham Shui Po, Kowloon",
+        "Ancillary facilities_en": "Toilet and changing facilities, referee room, light refreshment kiosk",
+        "OpeningHour_en": "8 am to 6 pm daily",
+        "Phone": "2777 8946"
+    },
+    {
+        "Category_en": "11-a-side Soccer Pitches",
+        "District_en": "Southern",
+        "Name_en": "Aberdeen Sports Ground",
+        "Address_en": "No. 108 Wong Chuk Hang Road, Aberdeen, Hong Kong",
+        "Ancillary facilities_en": "․Toilets, changing rooms and shoes washing place are provided in the Sports Ground.\n․2 spectator stands are provided.",
+        "OpeningHour_en": "8 am to 6 pm daily",
+        "Phone": "2552 6043"
+    },
+    {
+        "Category_en": "11-a-side Soccer Pitches",
+        "District_en": "Tai Po",
+        "Name_en": "Tai Po Sports Ground",
+        "Address_en": "21, Tai Po Tau Road, Tai Po",
+        "Ancillary facilities_en": "8 nos. of Running Track (400 metres) \n1 no. of Scoreboard 1 no. of Light Refreshment Kiosk 1 no. of Car Park Changing Rooms, Toilets and Disable Toilets",
+        "OpeningHour_en": "8am to 10:30pm daily",
+        "Phone": "(852) 2666 0044 / (852) 2666 0344 "
+    },
+    {
+        "Category_en": "11-a-side Soccer Pitches",
+        "District_en": "Tsuen Wan",
+        "Name_en": "Shing Mun Valley Sports Ground",
+        "Address_en": "No. 21 Shing Mun Road, Tsuen Wan",
+        "Ancillary facilities_en": "․A all weather 8 lanes of 400M running track comply with international standard․Floodlight system\n ․2 Covered spectator stands (about 5 000 seats)․Men's and ladies' changing rooms and toilets (including accessible toilets)․Drinking fountain․Public Address_en System․Fee-paying car park with 46 car park spaces (including 1 designated disabled parking space)",
+        "OpeningHour_en": "All days (except 1st –3rd day of Lunar New Year) from 8 am to 10:30 pm daily and 1.5 hours for each session.\n(Except 12:30 pm to 1:30 pm)",
+        "Phone": "2411 2145"
+    },
+    {
+        "Category_en": "11-a-side Soccer Pitches",
+        "District_en": "Tsuen Wan",
+        "Name_en": "Tsuen Wan Riviera Park",
+        "Address_en": "No.2A, Yi Hong Street, Tsuen Wan",
+        "Ancillary facilities_en": "․Covered spectator stands (about 300 seats)․Men's and ladies' changing rooms and toilets (including accessible toilets)․Drinking fountain",
+        "OpeningHour_en": "8 am to 10:30 pm daily (except maintenance day)",
+        "Phone": "2406 9145"
+    },
+    {
+        "Category_en": "11-a-side Soccer Pitches",
+        "District_en": "Tuen Mun",
+        "Name_en": "Siu Lun Sports Ground",
+        "Address_en": "No.16, Siu Lun street, Tuen Mun, N.T.",
+        "Ancillary facilities_en": "․1 International Standard Natural Grass Pitch with lighting facility\n․Parking Facilities (Private Car / Light Goods Vehicle: 5 nos.) ․1 Covered Spectator Stand (1000 Concrete Seats ) ․Toilets, Changing Rooms",
+        "OpeningHour_en": "8 am to 10:30 pm daily",
+        "Phone": "2441 2609"
+    },
+    {
+        "Category_en": "11-a-side Soccer Pitches",
+        "District_en": "Tuen Mun",
+        "Name_en": "Tuen Mun Tang Shiu Kin Sports Ground",
+        "Address_en": "Tsing Chung Koon Road, Tuen Mun, N.T.",
+        "Ancillary facilities_en": "․1 International Standard Natural Grass Pitch with lighting facility\n․Parking Facilities (Private Car / Light Goods Vehicle: 10 nos.) ․2 Covered Spectator Stand with a total number of 2,200 seats (West Spectator Stand 1,200 Concrete Seats and East Spectator Stand 1,000 Aluminum Seats) ․Toilets, Changing Rooms",
+        "OpeningHour_en": "8 am to 10:30 pm daily",
+        "Phone": "2463 9633"
+    },
+    {
+        "Category_en": "11-a-side Soccer Pitches",
+        "District_en": "Wan Chai",
+        "Name_en": "Happy Valley Recreation Ground",
+        "Address_en": "Sports Road, Happy Valley, Hong Kong",
+        "Ancillary facilities_en": "Changing Rooms and Toilets",
+        "OpeningHour_en": "8 am – 6 pm daily",
+        "Phone": "2895 1523"
+    },
+    {
+        "Category_en": "11-a-side Soccer Pitches",
+        "District_en": "Wong Tai Sin",
+        "Name_en": "Hammer Hill Road Sports Ground",
+        "Address_en": "158 Hammer Hill Road, Diamond Hill, Kowloon",
+        "Ancillary facilities_en": "Covered Spectator Stand (about 2200 seats in total)\nFloodlight System Car Park with 7 parking spaces Changing Room Toilet Locker Drinking Fountain Light Refreshment Kiosk",
+        "OpeningHour_en": "8 am to 10:30 pm daily",
+        "Phone": "2350 2876"
+    },
+    {
+        "Category_en": "11-a-side Soccer Pitches",
+        "District_en": "Yuen Long",
+        "Name_en": "Tin Shui Wai Sports Ground",
+        "Address_en": "No.2, Tin Shui Road, Tin Shui Wai Sports Ground, Yuen Long",
+        "Ancillary facilities_en": "․A world standard all-weather running track with 8 lanes\n․A natural turf pitch with floodlight system ․Spectator Stand (Capacity: 2,500 nos.) ․A Car Park with 41 nos. of car parking spaces ․A Light Refreshment Kiosk",
+        "OpeningHour_en": "8:00 am to 10:30 pm\n(Except 12:30 pm to1:30 pm) ",
+        "Phone": "2617 3622"
+    },
+    {
+        "Category_en": "11-a-side Soccer Pitches",
+        "District_en": "Yuen Long",
+        "Name_en": "Yuen Long Stadium",
+        "Address_en": "No 6, Yuen Long Tai Yuk Road, Yuen Long, NT",
+        "Ancillary facilities_en": "․A world standard all-weather 400m running track with 8 lanes\n․A world standard natural turf pitch with flood light system ․Spectator stand (capacity: 4932) ․A Light refreshment kiosk",
+        "OpeningHour_en": "8:00 am to 10:30 pm\n(Except 12:30 pm to1:30 pm) ",
+        "Phone": "2476 1804"
+    },
+    {
+        "Category_en": "7-a-side Soccer Pitches",
+        "District_en": "Central & Western",
+        "Name_en": "Sun Yat Sen Memorial Park",
+        "Address_en": "Eastern Street North, Sai Ying Pun",
+        "Ancillary facilities_en": "Drinking fountains, toilets and changing rooms",
+        "OpeningHour_en": "8:00am - 11:00pm",
+        "Phone": "2540 9704"
+    },
+    {
+        "Category_en": "7-a-side Soccer Pitches",
+        "District_en": "Eastern",
+        "Name_en": "Quarry Bay Park",
+        "Address_en": "Near Hoi Tai Street, Quarry Bay \nNear Hoi Tai Street, Quarry Bay (Soccer Pitch No.1) Hoi Chak Street, Quarry Bay (Soccer Pitch No.2) ",
+        "Ancillary facilities_en": "Toilets and changing rooms",
+        "OpeningHour_en": "8am – 11pm daily",
+        "Phone": "2513 8499"
+    },
+    {
+        "Category_en": "7-a-side Soccer Pitches",
+        "District_en": "Islands",
+        "Name_en": "Man Tung Road Park",
+        "Address_en": "55 Man Tung Raod, Tung Chung, Lantau Island",
+        "Ancillary facilities_en": "․1 spectator stand with 101 seats\n․Toilet and changing room ․Floodlight system ",
+        "OpeningHour_en": "8 am to 11 pm daily",
+        "Phone": "2109 2546 / 2852 4845"
+    },
+    {
+        "Category_en": "7-a-side Soccer Pitches",
+        "District_en": "Kwun Tong",
+        "Name_en": "Kowloon Bay Park",
+        "Address_en": "No.11, Kai Lai Road, Kowloon Bay",
+        "Ancillary facilities_en": "․Toilets and changing rooms with lockers are provided in the Park.\n․A fee-charging car park with 21 parking spaces is provided (including 1 designated disabled parking space)",
+        "OpeningHour_en": "8 am to 11 pm (1.5 hours per session)",
+        "Phone": "2750 0849"
+    },
+    {
+        "Category_en": "7-a-side Soccer Pitches",
+        "District_en": "Kwun Tong",
+        "Name_en": "Kwun Tong Recreation Ground",
+        "Address_en": "No.6, Tsui Ping Road, Kwun Tong",
+        "Ancillary facilities_en": "․Toilets and changing rooms with lockers are provided in the Recreation Ground.",
+        "OpeningHour_en": "8 am to 11 pm (1.5 hours per session)",
+        "Phone": "2343 6123 / 2253 1559"
+    },
+    {
+        "Category_en": "7-a-side Soccer Pitches",
+        "District_en": "Kwun Tong",
+        "Name_en": "Shun Lee Tsuen Park",
+        "Address_en": "Shun Lee Tsuen Road, Kwun Tong, Kowloon",
+        "Ancillary facilities_en": "․Toilets and changing rooms with lockers are provided in the Park.\n․A fee-charging car park with 53 parking spaces is provided (including 1 designated disabled parking space)",
+        "OpeningHour_en": "8 am to 11 pm (1.5 hours per session)",
+        "Phone": "2951 4136"
+    },
+    {
+        "Category_en": "7-a-side Soccer Pitches",
+        "District_en": "North",
+        "Name_en": "Pak Fuk Tin Sum Playground",
+        "Address_en": "Area 42, Yat Ming Road, Fanling, N.T.",
+        "Ancillary facilities_en": "Men's and Ladies' Changing Room & Toilet \nChanging Room & Toilet for Persons with a Disability Drinking fountain With Floodlight Spectator Stand",
+        "OpeningHour_en": "8 am to 11 pm daily",
+        "Phone": "2677 5564"
+    },
+    {
+        "Category_en": "7-a-side Soccer Pitches",
+        "District_en": "Wan Chai",
+        "Name_en": "Happy Valley Recreation Ground",
+        "Address_en": "Sports Road, Happy Valley, Hong Kong",
+        "Ancillary facilities_en": "Changing Rooms and Toilets\nFloodlights ",
+        "OpeningHour_en": "8 am – 11 pm daily",
+        "Phone": "2895 1523"
+    },
+    {
+        "Category_en": "7-a-side Soccer Pitches",
+        "District_en": "Wong Tai Sin",
+        "Name_en": "Morse Park (Park No.3)",
+        "Address_en": "40 Fung Mo Street, Wong Tai Sin, Kowloon",
+        "Ancillary facilities_en": "Light refreshment kiosk\nMen's and ladies' changing rooms and toilets (including accessible toilets)",
+        "OpeningHour_en": "8 am to 11 pm daily",
+        "Phone": "2323 9665"
+    },
+    {
+        "Category_en": "7-a-side Soccer Pitches",
+        "District_en": "Yau Tsim Mong",
+        "Name_en": "Cherry Street Park",
+        "Address_en": "9 Hoi Ting Road, Mong Kok, Kowloon",
+        "Ancillary facilities_en": "․A booking office, toilets, changing rooms, lockers and changing rooms cum toilets for persons with disabilities are provided in the Park.\n․Other facilities include a piazza, 4 tennis courts, 2 basketball/volleyball courts, a jogging track, a children's playground and elderly fitness stations ",
+        "OpeningHour_en": "8 am to 11 pm daily (1.5 hours per session)",
+        "Phone": "2625 4584"
+    },
+    {
+        "Category_en": "7-a-side Soccer Pitches",
+        "District_en": "Kwun Tong",
+        "Name_en": "Wai Lok Street Temporary Soccer Pitch",
+        "Address_en": "Wai Yip Street and Wai Lok Street junction, Kwun Tong, Kowloon (near Laguna Park)",
+        "Ancillary facilities_en": "․Changing facilities（showering facilities are not provided）\n․Portable toilets",
+        "OpeningHour_en": "8 am to 6 pm daily (except Monday)",
+        "Phone": "2343 6123 / 2717 5705"
+    },
+    {
+        "Category_en": "7-a-side Soccer Pitches",
+        "District_en": "Sham Shui Po",
+        "Name_en": "Tai Hang Tung Recreation Ground",
+        "Address_en": "63 Boundary Street, Sham Shui Po, Kowloon",
+        "Ancillary facilities_en": "Toilet and changing facilities",
+        "OpeningHour_en": "8 am to 6 pm daily",
+        "Phone": "2777 8946"
+    },
+    {
+        "Category_en": "7-a-side Soccer Pitches",
+        "District_en": "Wan Chai",
+        "Name_en": "Happy Valley Recreation Ground",
+        "Address_en": "Sports Road, Happy Valley, Hong Kong",
+        "Ancillary facilities_en": "Changing Rooms and Toilets",
+        "OpeningHour_en": "8 am – 6 pm daily",
+        "Phone": "2895 1523"
+    },
+    {
+        "Category_en": "7-a-side Soccer Pitches",
+        "District_en": "Wong Tai Sin",
+        "Name_en": "Hammer Hill Road Sports Ground",
+        "Address_en": "158 Hammer Hill Road, Diamond Hill, Kowloon",
+        "Ancillary facilities_en": "Covered Spectator Stand (about 2200 seats in total)\nFloodlight System Car Park with 7 parking spaces Changing Room Toilet Locker Drinking Fountain Light Refreshment Kiosk",
+        "OpeningHour_en": "8 am to 10:30 pm daily",
+        "Phone": "2350 2876"
     }
 ]

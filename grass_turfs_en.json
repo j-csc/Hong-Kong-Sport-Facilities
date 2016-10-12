@@ -1,0 +1,732 @@
+[
+  {
+    "Turf Type": "Artificial Turf Pitches",
+    "Facility Types": "11-a-side Soccer Pitches",
+    "District": "Kowloon City",
+    "Venue": "Kowloon Tsai Park",
+    "Address": "13 Inverness Road, Kowloon City, Kowloon.",
+    "Ancillary facilities": "․Toilets and changing rooms are provided in the Park.\n․Other facilities include 2 artificial turf soccer pitches, a natural turf soccer pitch, 2 elderly fitness corners, a bauhinia garden, a jogging track of length 550m, a pebble path, 2 hard-surface 7-a-side soccer pitches, 2 hard-surface basketball courts, a children's playground and a dog garden.",
+    "Opening hours": "8 am to 11 pm daily",
+    "Telephone": "2336 7878"
+  },
+  {
+    "Turf Type": "Artificial Turf Pitches",
+    "Facility Types": "11-a-side Soccer Pitches",
+    "District": "Kwai Tsing",
+    "Venue": "Tsing Yi Northeast Park",
+    "Address": "10 Tam Kon Shan Road, Tsing Yi",
+    "Ancillary facilities": "",
+    "Opening hours": "8:00 am – 11:00 pm",
+    "Telephone": "2436 3422"
+  },
+  {
+    "Turf Type": "Artificial Turf Pitches",
+    "Facility Types": "11-a-side Soccer Pitches",
+    "District": "Kwun Tong",
+    "Venue": "Kowloon Bay Park",
+    "Address": "No.11, Kai Lai Road, Kowloon Bay",
+    "Ancillary facilities": "․Toilets and changing rooms with lockers are provided. \n․A fee-charging car park with 21 parking spaces is provided (including 1 designated disabled parking space)",
+    "Opening hours": "8 am to 10:30 pm ( 1.5 hours per session)",
+    "Telephone": "2750 0849"
+  },
+  {
+    "Turf Type": "Artificial Turf Pitches",
+    "Facility Types": "11-a-side Soccer Pitches",
+    "District": "Sai Kung",
+    "Venue": "Po Tsui Park",
+    "Address": "Yuk Nga Lane, Tseung Kwan O",
+    "Ancillary facilities": "․Changing rooms, toilets and disabled toilets\n․Floodlights",
+    "Opening hours": "8am– 11pm",
+    "Telephone": "2703 7231"
+  },
+  {
+    "Turf Type": "Artificial Turf Pitches",
+    "Facility Types": "11-a-side Soccer Pitches",
+    "District": "Sha Tin",
+    "Venue": "Ma On Shan Recreation Ground",
+    "Address": "No. 1 Hang Hong Street, Ma On Shan",
+    "Ancillary facilities": "Toilet & Changing Room\nToilet for persons with a disability (with Shower) Lockers First-aid Room Equip with Floodlights",
+    "Opening hours": "8 am to 11 pm daily",
+    "Telephone": "2631 4106"
+  },
+  {
+    "Turf Type": "Artificial Turf Pitches",
+    "Facility Types": "11-a-side Soccer Pitches",
+    "District": "Sha Tin",
+    "Venue": "Tsang Tai Uk Recreation Ground",
+    "Address": "Sha Kok Street, Sha Tin",
+    "Ancillary facilities": "Male & Female Toilet \nMale & Female Changing Room Toilet for person with a disability (with Shower) Lockers Floodlights",
+    "Opening hours": "8 am to 11 pm daily",
+    "Telephone": "2698 2648"
+  },
+  {
+    "Turf Type": "Artificial Turf Pitches",
+    "Facility Types": "11-a-side Soccer Pitches",
+    "District": "Sham Shui Po",
+    "Venue": "Shek Kip Mei Park (Phase III)",
+    "Address": "270 Nam Cheong Street, Sham Shui Po, Kowloon",
+    "Ancillary facilities": "Spectator stand (with approx. 1440 seats), toilet and changing room facilities",
+    "Opening hours": "8 am to 11:00 pm daily\n(Closed from 8 am to 1:00 pm on Thursday for maintenance)",
+    "Telephone": "2777 1540"
+  },
+  {
+    "Turf Type": "Artificial Turf Pitches",
+    "Facility Types": "11-a-side Soccer Pitches",
+    "District": "Southern",
+    "Venue": "Wong Chuk Hang Recreation Ground",
+    "Address": "No. 108 Wong Chuk Hang Road, Aberdeen, Hong Kong",
+    "Ancillary facilities": "Toilets, changing rooms and 2 spectator stands are provided in the Recreation Ground.",
+    "Opening hours": "8 am to 11 pm daily",
+    "Telephone": "2555 0103"
+  },
+  {
+    "Turf Type": "Artificial Turf Pitches",
+    "Facility Types": "11-a-side Soccer Pitches",
+    "District": "Tai Po",
+    "Venue": "Kwong Fuk Football Ground",
+    "Address": "Kwong Fuk Road, Tai Po, N.T.",
+    "Ancillary facilities": "․Changing rooms, toilets and disabled toilets",
+    "Opening hours": "8:00am to 11:00pm ",
+    "Telephone": "(852) 2653 3447 / (852) 3183 9020"
+  },
+  {
+    "Turf Type": "Artificial Turf Pitches",
+    "Facility Types": "11-a-side Soccer Pitches",
+    "District": "Tai Po",
+    "Venue": "Kwong Fuk Park Football Pitch",
+    "Address": "Kwong Chun Street, Tai Po, N.T.",
+    "Ancillary facilities": "․1 no. of Car Park\n․Changing rooms, toilets and disabled toilets",
+    "Opening hours": "8:00am to 11:00pm ",
+    "Telephone": "(852) 2653 4074 / (852) 2653 3447 / (852) 3183 9020"
+  },
+  {
+    "Turf Type": "Artificial Turf Pitches",
+    "Facility Types": "11-a-side Soccer Pitches",
+    "District": "Tuen Mun",
+    "Venue": "Wu Shan Recreation Playground",
+    "Address": "Wu Shan Road, Tuen Mun ",
+    "Ancillary facilities": "Spectator Stand, First Aid Room, Office, Light Refreshment Kiosk, Drinking Fountain, Ladies' and Men's Changing Room & Toilet, Toilet for Persons with a Disability ",
+    "Opening hours": "8 am to 11 pm daily",
+    "Telephone": "2463 7597"
+  },
+  {
+    "Turf Type": "Artificial Turf Pitches",
+    "Facility Types": "11-a-side Soccer Pitches",
+    "District": "Wan Chai",
+    "Venue": "Happy Valley Recreation Ground",
+    "Address": "Sports Road, Happy Valley, Hong Kong",
+    "Ancillary facilities": "Changing Rooms and Toilets\nFloodlights",
+    "Opening hours": "8 am – 11 pm daily",
+    "Telephone": "2895 1523"
+  },
+  {
+    "Turf Type": "Artificial Turf Pitches",
+    "Facility Types": "11-a-side Soccer Pitches",
+    "District": "Wong Tai Sin",
+    "Venue": "Lok Fu Recreation Ground",
+    "Address": "1 Heng Lam Street, Lok Fu, Kowloon.",
+    "Ancillary facilities": "A spectator stand with a capacity of 500 seats (including 72 seats with cover)\nA changing room A toilet A toilet for persons with a disabilities",
+    "Opening hours": "7:30 am to 11 pm daily",
+    "Telephone": "2338 0137"
+  },
+  {
+    "Turf Type": "Artificial Turf Pitches",
+    "Facility Types": "11-a-side Soccer Pitches",
+    "District": "Wong Tai Sin",
+    "Venue": "Morse Park (Park No.3)",
+    "Address": "40 Fung Mo Street, Wong Tai Sin, Kowloon",
+    "Ancillary facilities": "Floodlight System\nLight refreshment kiosk Men's and ladies' changing rooms and toilets (including accessible toilets)",
+    "Opening hours": "8 am to 11 pm daily",
+    "Telephone": "2323 9665"
+  },
+  {
+    "Turf Type": "Artificial Turf Pitches",
+    "Facility Types": "11-a-side Soccer Pitches",
+    "District": "Wong Tai Sin",
+    "Venue": "Po Kong Village Road Park",
+    "Address": "140 Po Kong Village Road, Diamond Hill, Kowloon",
+    "Ancillary facilities": "Floodlight System\nCovered Spectator Stand (about 1,000 seats) Men’s and ladies’ changing rooms and toilets (including accessible toilets)",
+    "Opening hours": "7:30 a.m. - 10:00 p.m. daily",
+    "Telephone": "2320 6140"
+  },
+  {
+    "Turf Type": "Artificial Turf Pitches",
+    "Facility Types": "11-a-side Soccer Pitches",
+    "District": "Yau Tsim Mong",
+    "Venue": "Boundary Street Recreation Ground",
+    "Address": "200 Sai Yee Street, Mong Kok, Kowloon",
+    "Ancillary facilities": "․3 outdoor table tennis tables, toilets, changing rooms with lockers and changing rooms cum toilets for persons with disabilities are provided in the Recreation Ground.\n․The Recreation Ground is located adjacent to Boundary Street Sports Centre No. 1 and Boundary Street Sports Centre No. 2, which offer a booking office, 2 arenas, an activity room, 2 table tennis rooms and 2 squash courts cum activity rooms. ․This court can also be used for playing hockey.",
+    "Opening hours": "8 am to 11 pm daily (1.5 hours per session)",
+    "Telephone": "2380 9751"
+  },
+  {
+    "Turf Type": "Artificial Turf Pitches",
+    "Facility Types": "11-a-side Soccer Pitches",
+    "District": "Yuen Long",
+    "Venue": "Tin Yip Road Park",
+    "Address": "Tin Yip Road, Tin Shui Wai",
+    "Ancillary facilities": "Toilet\nChanging Room Accessible Toilet Babycare Room",
+    "Opening hours": "8:00am to 11:00pm daily",
+    "Telephone": "2682 3197"
+  },
+  {
+    "Turf Type": "Natural Turf Pitches",
+    "Facility Types": "11-a-side Soccer Pitches",
+    "District": "Eastern",
+    "Venue": "Siu Sai Wan Sports Ground",
+    "Address": "8 Fu Hong Street, Siu Sai Wan, Hong Kong",
+    "Ancillary facilities": "․Covered spectator stand with 12,000 seating\n․Fee Paying Car park with 70 parking capacities (5 nos. for coaches, 10 nos. for motor cycles, 54 nos. for private cars and 1 designated disabled parking space) ․Fast food and light refreshment kiosks ․Changing room and toilet for male, female and people with a disability, conference room.",
+    "Opening hours": "8am to 10pm (except 1st –3rd day of Lunar New Year) (Annual Turf Maintenance period is mid-July to August and mid-December to end of December)",
+    "Telephone": "2505 1320"
+  },
+  {
+    "Turf Type": "Natural Turf Pitches",
+    "Facility Types": "11-a-side Soccer Pitches",
+    "District": "Kowloon City",
+    "Venue": "Ho Man Tin East Service Reservoir Playground",
+    "Address": "Fat Kwong Street, Kowloon.",
+    "Ancillary facilities": "Toilets (including a toilet for persons with disabilities) and changing rooms with lockers are provided in the Playground.",
+    "Opening hours": "8 am to 6 pm daily",
+    "Telephone": "2760 0782"
+  },
+  {
+    "Turf Type": "Natural Turf Pitches",
+    "Facility Types": "11-a-side Soccer Pitches",
+    "District": "Kowloon City",
+    "Venue": "Kowloon Tsai Park",
+    "Address": "13 Inverness Road, Kowloon City, Kowloon.",
+    "Ancillary facilities": "․Toilets and changing rooms are provided in the Park.\n․Other facilities include 2 artificial turf soccer pitches, a natural turf soccer pitch, 2 elderly fitness corners, a bauhinia garden, a jogging track of length 550m, a pebble path, 2 hard-surface 7-a-side soccer pitches, 2 hard-surface basketball courts, a children's playground and a dog garden.",
+    "Opening hours": "8 am to 6 pm daily",
+    "Telephone": "2336 7878"
+  },
+  {
+    "Turf Type": "Natural Turf Pitches",
+    "Facility Types": "11-a-side Soccer Pitches",
+    "District": "Kowloon City",
+    "Venue": "Kowloon Tsai Sports Ground",
+    "Address": "13 Inverness Road, Kowloon City",
+    "Ancillary facilities": "",
+    "Opening hours": "6:30 am to 6:00 pm daily (November to April of following year)\n6:30 am to 6:30 pm daily (May to October)",
+    "Telephone": "2337 2603"
+  },
+  {
+    "Turf Type": "Natural Turf Pitches",
+    "Facility Types": "11-a-side Soccer Pitches",
+    "District": "Kwai Tsing",
+    "Venue": "Kwai Chung Sports Ground",
+    "Address": "93 Hing Shing Road, Kwai Chung, New Territories",
+    "Ancillary facilities": "• Track and Field Facilities\n  8 lanes with 400 m Running Track 1 High Jump Area 1 Javelin Throw Area 1 Discus and Hammer Throw Area 1 Shot Put Area 1 Long Jump & 1 Triple Jump Areas • 1 11-a-side of Natural Turf Pitch • Covered Spectator Stand (with 261 VIP plastic seats & 1,239 concrete seats) • 1 Public Address System • 1 First Aid Room • 1 Men's and 1 Ladies' Toilet cum Changing Rooms • 1 Men's and 1 Ladies' Toilets for Persons with Disabilities • 1 Men's and 1 Ladies' Toilets • 1 Men's and 1 Ladies' Toilets (Hard-surfaced Soccer Pitches) • 1 Toilet for Persons with Disabilities (Hard-surfaced Soccer Pitches) • 159 Lockers • 2 7-a-side Hard-surfaced Soccer Pitches • 3 Basketball Courts • 1 Beach Volleyball cum Handball Court • 1 Gateball Court • 1 Rest Garden • 1 Light Refreshment Kiosk • 1 Service Building • A Fee-charging Car Park (including 1 designated disabled parking space)",
+    "Opening hours": "8 am to 10:30 pm (Closed for maintenance on every Tuesday)",
+    "Telephone": "2429 8039"
+  },
+  {
+    "Turf Type": "Natural Turf Pitches",
+    "Facility Types": "11-a-side Soccer Pitches",
+    "District": "Kwai Tsing",
+    "Venue": "Tsing Yi Sports Ground",
+    "Address": "Tsing King Road, Tsing Yi, New Territories",
+    "Ancillary facilities": "• Track and Field Facilities\n  8 lanes with 400 m Running Track 1 High Jump Area 1 Javelin Throw Area 1 Discus and Hammer Throw Area 1 Shot Put Area\n1 Long Jump & Triple Jump Area\n\n1 Long Jump & Pole Vault Area\n\n1 Steeplechase Water Jump Area\n• 1 11-a-side of Natural Turf Pitch • Covered Spectator Stand (with 430 VIP plastic seats & 1,070 concrete seats) • 1 Electronic Timing and Scoreboard System • 1 Public Address System • 1 First Aid Room • 1 Men's and 1 Ladies' Toilets cum Changing Rooms (G/F) • 1 Men's and 1 Ladies' Toilets for Persons with Disabilities (G/F) • 1 Men's and 1 Ladies' Referee Toilets cum Changing Rooms (G/F) • 2 Men's and 2 Ladies' Toilets (1/F) • 216 Lockers • 1 Service Building • 1 Public Fee-paying Car Park",
+    "Opening hours": "8 am to 10:30 pm (Closed for Maintenance on every Wednesday)",
+    "Telephone": "2495 7879"
+  },
+  {
+    "Turf Type": "Natural Turf Pitches",
+    "Facility Types": "11-a-side Soccer Pitches",
+    "District": "Kwai Tsing",
+    "Venue": "Wo Yi Hop Road Sports Ground",
+    "Address": "298 Wo Yi Hop Road, Kwai Chung, New Territories",
+    "Ancillary facilities": "• Track and Field Facilities\n  6 lanes with 300 m Running Track\n1 Sand pitch for long jump & triple jump\n\n1 Sand pitch for long jump\n• 1 Sub-standard 11-a-side Natural Turf Soccer Pitch • Golf Driving Range (15 Driving Bays with maximum range distance of 60 yards) • Covered Spectator Stand with 700 seats • 1 Public Address System • 1 Men's and 1 Ladies' Toilets cum Changing Rooms • 1 Men's and 1 Ladies' Toilets • 72 Lockers • 1 Service Building • A Fee-charging Car Park (including 1 designated disabled parking space)",
+    "Opening hours": "․8 am to 10:30 pm (Closed for maintenance on every Thursday)",
+    "Telephone": "2429 8196"
+  },
+  {
+    "Turf Type": "Natural Turf Pitches",
+    "Facility Types": "11-a-side Soccer Pitches",
+    "District": "Kwun Tong",
+    "Venue": "Kowloon Bay Sports Ground",
+    "Address": "1 Kai Lok Street, Kowloon Bay, Kowloon",
+    "Ancillary facilities": "․Toilets and changing rooms with lockers are provided.\n․A fee-charging car park with 35 parking spaces is provided (including 1 designated disabled parking space)",
+    "Opening hours": "8 am to 10:30 pm ( 1.5 hours per session)",
+    "Telephone": "2750 8512"
+  },
+  {
+    "Turf Type": "Natural Turf Pitches",
+    "Facility Types": "11-a-side Soccer Pitches",
+    "District": "Kwun Tong",
+    "Venue": "Sai Tso Wan Recreation Ground",
+    "Address": "90 Sin Fat Road, Lam Tin, Kowloon",
+    "Ancillary facilities": "․Toilets and changing rooms with lockers are provided.\n․A fee-charging car park with 27 parking spaces is provided (including 1 designated disabled parking space) ․The pitch can be used for playing baseball.",
+    "Opening hours": "8 am to 10:30 pm ( 1.5 hours per session)",
+    "Telephone": "2952 3011"
+  },
+  {
+    "Turf Type": "Natural Turf Pitches",
+    "Facility Types": "11-a-side Soccer Pitches",
+    "District": "North",
+    "Venue": "Fanling Recreation Ground",
+    "Address": "No. 55 San Wan Road, Fanling, N.T.",
+    "Ancillary facilities": "Men's and Ladies' Changing Room & Toilet \nChanging Room & Toilet for Persons with a Disability Drinking fountain With Floodlight Spectator Stand",
+    "Opening hours": "8 am to 10:30 pm daily",
+    "Telephone": "2675 6925"
+  },
+  {
+    "Turf Type": "Natural Turf Pitches",
+    "Facility Types": "11-a-side Soccer Pitches",
+    "District": "North",
+    "Venue": "Kwu Tung Grass Soccer Pitch",
+    "Address": "No. 3 Ho Sheung Heung Road, Sheung Shui, N.T.",
+    "Ancillary facilities": "Men's and Ladies' Changing Room & Toilet \nChanging Room & Toilet for Persons with a Disability With Floodlight Spectator Stand",
+    "Opening hours": "8 am to 10:30 pm daily",
+    "Telephone": "2670 3790"
+  },
+  {
+    "Turf Type": "Natural Turf Pitches",
+    "Facility Types": "11-a-side Soccer Pitches",
+    "District": "North",
+    "Venue": "North District Sports Ground",
+    "Address": "No. 26 Tin Ping Road, Sheung Shui, N.T.",
+    "Ancillary facilities": "Spectator Stand for 2 500 people\nLight Refreshment Kiosk Men's and Ladies' Changing Room & Toilet Changing Room & Toilet for Persons with a Disability With Floodlight Drinking fountain",
+    "Opening hours": "8 am to 10:30 pm daily",
+    "Telephone": "2679 4913"
+  },
+  {
+    "Turf Type": "Natural Turf Pitches",
+    "Facility Types": "11-a-side Soccer Pitches",
+    "District": "Sha Tin",
+    "Venue": "Hin Tin Playground",
+    "Address": "Che Kung Miu Road, Tai Wai, Shatin.",
+    "Ancillary facilities": "Male & Female Toilet \nMale & Female Changing Room Toilet for person with a disability (with Shower) Lockers Spectator stand with 200 capacity Equip with Floodlights",
+    "Opening hours": "8 am to 10:30 pm daily",
+    "Telephone": "2692 0460"
+  },
+  {
+    "Turf Type": "Natural Turf Pitches",
+    "Facility Types": "11-a-side Soccer Pitches",
+    "District": "Sha Tin",
+    "Venue": "Ma On Shan Sports Ground",
+    "Address": "No. 1 Hang Hong Street, Ma On Shan",
+    "Ancillary facilities": "Toilet & Changing Room\nToilet for persons with a disability (with Shower) Lockers First-aid Room Equip with Floodlights ",
+    "Opening hours": "8 am to 10:30 pm daily",
+    "Telephone": "2633 0647"
+  },
+  {
+    "Turf Type": "Natural Turf Pitches",
+    "Facility Types": "11-a-side Soccer Pitches",
+    "District": "Sha Tin",
+    "Venue": "Sha Tin Sports Ground",
+    "Address": "No. 18 Yuen Wo Road, Sha Tin",
+    "Ancillary facilities": "Toilets & Changing Room\nToilets for persons with disabilities (with Shower) Lockers First-aid Room Equip with Floodlights",
+    "Opening hours": "8 am to 10:30 pm daily",
+    "Telephone": "2698 1326"
+  },
+  {
+    "Turf Type": "Natural Turf Pitches",
+    "Facility Types": "11-a-side Soccer Pitches",
+    "District": "Sham Shui Po",
+    "Venue": "Sham Shui Po Sports Ground",
+    "Address": "3 Hing Wah Street, Cheung Sha Wan, Kowloon",
+    "Ancillary facilities": "Spectator stand (with approx. 2200 seats), toilet and changing facilities",
+    "Opening hours": "8 am to 10:30 pm daily",
+    "Telephone": "2742 9451"
+  },
+  {
+    "Turf Type": "Natural Turf Pitches",
+    "Facility Types": "11-a-side Soccer Pitches",
+    "District": "Sham Shui Po",
+    "Venue": "Tai Hang Tung Recreation Ground",
+    "Address": "63 Boundary Street, Sham Shui Po, Kowloon",
+    "Ancillary facilities": "Toilet and changing facilities, referee room, light refreshment kiosk",
+    "Opening hours": "8 am to 6 pm daily",
+    "Telephone": "2777 8946"
+  },
+  {
+    "Turf Type": "Natural Turf Pitches",
+    "Facility Types": "11-a-side Soccer Pitches",
+    "District": "Southern",
+    "Venue": "Aberdeen Sports Ground",
+    "Address": "No. 108 Wong Chuk Hang Road, Aberdeen, Hong Kong",
+    "Ancillary facilities": "․Toilets, changing rooms and shoes washing place are provided in the Sports Ground.\n․2 spectator stands are provided.",
+    "Opening hours": "8 am to 6 pm daily",
+    "Telephone": "2552 6043"
+  },
+  {
+    "Turf Type": "Natural Turf Pitches",
+    "Facility Types": "11-a-side Soccer Pitches",
+    "District": "Tai Po",
+    "Venue": "Tai Po Sports Ground",
+    "Address": "21, Tai Po Tau Road, Tai Po",
+    "Ancillary facilities": "8 nos. of Running Track (400 metres) \n1 no. of Scoreboard 1 no. of Light Refreshment Kiosk 1 no. of Car Park Changing Rooms, Toilets and Disable Toilets",
+    "Opening hours": "8am to 10:30pm daily",
+    "Telephone": "(852) 2666 0044 / (852) 2666 0344 "
+  },
+  {
+    "Turf Type": "Natural Turf Pitches",
+    "Facility Types": "11-a-side Soccer Pitches",
+    "District": "Tsuen Wan",
+    "Venue": "Shing Mun Valley Sports Ground",
+    "Address": "No. 21 Shing Mun Road, Tsuen Wan",
+    "Ancillary facilities": "․A all weather 8 lanes of 400M running track comply with international standard․Floodlight system\n ․2 Covered spectator stands (about 5 000 seats)․Men's and ladies' changing rooms and toilets (including accessible toilets)․Drinking fountain․Public Address System․Fee-paying car park with 46 car park spaces (including 1 designated disabled parking space)",
+    "Opening hours": "All days (except 1st –3rd day of Lunar New Year) from 8 am to 10:30 pm daily and 1.5 hours for each session.\n(Except 12:30 pm to 1:30 pm)",
+    "Telephone": "2411 2145"
+  },
+  {
+    "Turf Type": "Natural Turf Pitches",
+    "Facility Types": "11-a-side Soccer Pitches",
+    "District": "Tsuen Wan",
+    "Venue": "Tsuen Wan Riviera Park",
+    "Address": "No.2A, Yi Hong Street, Tsuen Wan",
+    "Ancillary facilities": "․Covered spectator stands (about 300 seats)․Men's and ladies' changing rooms and toilets (including accessible toilets)․Drinking fountain",
+    "Opening hours": "8 am to 10:30 pm daily (except maintenance day)",
+    "Telephone": "2406 9145"
+  },
+  {
+    "Turf Type": "Natural Turf Pitches",
+    "Facility Types": "11-a-side Soccer Pitches",
+    "District": "Tuen Mun",
+    "Venue": "Siu Lun Sports Ground",
+    "Address": "No.16, Siu Lun street, Tuen Mun, N.T.",
+    "Ancillary facilities": "․1 International Standard Natural Grass Pitch with lighting facility\n․Parking Facilities (Private Car / Light Goods Vehicle: 5 nos.) ․1 Covered Spectator Stand (1000 Concrete Seats ) ․Toilets, Changing Rooms",
+    "Opening hours": "8 am to 10:30 pm daily",
+    "Telephone": "2441 2609"
+  },
+  {
+    "Turf Type": "Natural Turf Pitches",
+    "Facility Types": "11-a-side Soccer Pitches",
+    "District": "Tuen Mun",
+    "Venue": "Tuen Mun Tang Shiu Kin Sports Ground",
+    "Address": "Tsing Chung Koon Road, Tuen Mun, N.T.",
+    "Ancillary facilities": "․1 International Standard Natural Grass Pitch with lighting facility\n․Parking Facilities (Private Car / Light Goods Vehicle: 10 nos.) ․2 Covered Spectator Stand with a total number of 2,200 seats (West Spectator Stand 1,200 Concrete Seats and East Spectator Stand 1,000 Aluminum Seats) ․Toilets, Changing Rooms",
+    "Opening hours": "8 am to 10:30 pm daily",
+    "Telephone": "2463 9633"
+  },
+  {
+    "Turf Type": "Natural Turf Pitches",
+    "Facility Types": "11-a-side Soccer Pitches",
+    "District": "Wan Chai",
+    "Venue": "Happy Valley Recreation Ground",
+    "Address": "Sports Road, Happy Valley, Hong Kong",
+    "Ancillary facilities": "Changing Rooms and Toilets",
+    "Opening hours": "8 am – 6 pm daily",
+    "Telephone": "2895 1523"
+  },
+  {
+    "Turf Type": "Natural Turf Pitches",
+    "Facility Types": "11-a-side Soccer Pitches",
+    "District": "Wong Tai Sin",
+    "Venue": "Hammer Hill Road Sports Ground",
+    "Address": "158 Hammer Hill Road, Diamond Hill, Kowloon",
+    "Ancillary facilities": "Covered Spectator Stand (about 2200 seats in total)\nFloodlight System Car Park with 7 parking spaces Changing Room Toilet Locker Drinking Fountain Light Refreshment Kiosk",
+    "Opening hours": "8 am to 10:30 pm daily",
+    "Telephone": "2350 2876"
+  },
+  {
+    "Turf Type": "Natural Turf Pitches",
+    "Facility Types": "11-a-side Soccer Pitches",
+    "District": "Yuen Long",
+    "Venue": "Tin Shui Wai Sports Ground",
+    "Address": "No.2, Tin Shui Road, Tin Shui Wai Sports Ground, Yuen Long",
+    "Ancillary facilities": "․A world standard all-weather running track with 8 lanes\n․A natural turf pitch with floodlight system ․Spectator Stand (Capacity: 2,500 nos.) ․A Car Park with 41 nos. of car parking spaces ․A Light Refreshment Kiosk",
+    "Opening hours": "8:00 am to 10:30 pm\n(Except 12:30 pm to1:30 pm) ",
+    "Telephone": "2617 3622"
+  },
+  {
+    "Turf Type": "Natural Turf Pitches",
+    "Facility Types": "11-a-side Soccer Pitches",
+    "District": "Yuen Long",
+    "Venue": "Yuen Long Stadium",
+    "Address": "No 6, Yuen Long Tai Yuk Road, Yuen Long, NT",
+    "Ancillary facilities": "․A world standard all-weather 400m running track with 8 lanes\n․A world standard natural turf pitch with flood light system ․Spectator stand (capacity: 4932) ․A Light refreshment kiosk",
+    "Opening hours": "8:00 am to 10:30 pm\n(Except 12:30 pm to1:30 pm) ",
+    "Telephone": "2476 1804"
+  },
+  {
+    "Turf Type": "Artificial Turf Pitches",
+    "Facility Types": "7-a-side Soccer Pitches",
+    "District": "Central & Western",
+    "Venue": "Sun Yat Sen Memorial Park",
+    "Address": "Eastern Street North, Sai Ying Pun",
+    "Ancillary facilities": "Drinking fountains, toilets and changing rooms",
+    "Opening hours": "8:00am - 11:00pm",
+    "Telephone": "2540 9704"
+  },
+  {
+    "Turf Type": "Artificial Turf Pitches",
+    "Facility Types": "7-a-side Soccer Pitches",
+    "District": "Eastern",
+    "Venue": "Quarry Bay Park",
+    "Address": "Near Hoi Tai Street, Quarry Bay \nNear Hoi Tai Street, Quarry Bay (Soccer Pitch No.1) Hoi Chak Street, Quarry Bay (Soccer Pitch No.2) ",
+    "Ancillary facilities": "Toilets and changing rooms",
+    "Opening hours": "8am – 11pm daily",
+    "Telephone": "2513 8499"
+  },
+  {
+    "Turf Type": "Artificial Turf Pitches",
+    "Facility Types": "7-a-side Soccer Pitches",
+    "District": "Islands",
+    "Venue": "Man Tung Road Park",
+    "Address": "55 Man Tung Raod, Tung Chung, Lantau Island",
+    "Ancillary facilities": "․1 spectator stand with 101 seats\n․Toilet and changing room ․Floodlight system ",
+    "Opening hours": "8 am to 11 pm daily",
+    "Telephone": "2109 2546 / 2852 4845"
+  },
+  {
+    "Turf Type": "Artificial Turf Pitches",
+    "Facility Types": "7-a-side Soccer Pitches",
+    "District": "Kwun Tong",
+    "Venue": "Kowloon Bay Park",
+    "Address": "No.11, Kai Lai Road, Kowloon Bay",
+    "Ancillary facilities": "․Toilets and changing rooms with lockers are provided in the Park.\n․A fee-charging car park with 21 parking spaces is provided (including 1 designated disabled parking space)",
+    "Opening hours": "8 am to 11 pm (1.5 hours per session)",
+    "Telephone": "2750 0849"
+  },
+  {
+    "Turf Type": "Artificial Turf Pitches",
+    "Facility Types": "7-a-side Soccer Pitches",
+    "District": "Kwun Tong",
+    "Venue": "Kwun Tong Recreation Ground",
+    "Address": "No.6, Tsui Ping Road, Kwun Tong",
+    "Ancillary facilities": "․Toilets and changing rooms with lockers are provided in the Recreation Ground.",
+    "Opening hours": "8 am to 11 pm (1.5 hours per session)",
+    "Telephone": "2343 6123 / 2253 1559"
+  },
+  {
+    "Turf Type": "Artificial Turf Pitches",
+    "Facility Types": "7-a-side Soccer Pitches",
+    "District": "Kwun Tong",
+    "Venue": "Shun Lee Tsuen Park",
+    "Address": "Shun Lee Tsuen Road, Kwun Tong, Kowloon",
+    "Ancillary facilities": "․Toilets and changing rooms with lockers are provided in the Park.\n․A fee-charging car park with 53 parking spaces is provided (including 1 designated disabled parking space)",
+    "Opening hours": "8 am to 11 pm (1.5 hours per session)",
+    "Telephone": "2951 4136"
+  },
+  {
+    "Turf Type": "Artificial Turf Pitches",
+    "Facility Types": "7-a-side Soccer Pitches",
+    "District": "North",
+    "Venue": "Pak Fuk Tin Sum Playground",
+    "Address": "Area 42, Yat Ming Road, Fanling, N.T.",
+    "Ancillary facilities": "Men's and Ladies' Changing Room & Toilet \nChanging Room & Toilet for Persons with a Disability Drinking fountain With Floodlight Spectator Stand",
+    "Opening hours": "8 am to 11 pm daily",
+    "Telephone": "2677 5564"
+  },
+  {
+    "Turf Type": "Artificial Turf Pitches",
+    "Facility Types": "7-a-side Soccer Pitches",
+    "District": "Wan Chai",
+    "Venue": "Happy Valley Recreation Ground",
+    "Address": "Sports Road, Happy Valley, Hong Kong",
+    "Ancillary facilities": "Changing Rooms and Toilets\nFloodlights ",
+    "Opening hours": "8 am – 11 pm daily",
+    "Telephone": "2895 1523"
+  },
+  {
+    "Turf Type": "Artificial Turf Pitches",
+    "Facility Types": "7-a-side Soccer Pitches",
+    "District": "Wong Tai Sin",
+    "Venue": "Morse Park (Park No.3)",
+    "Address": "40 Fung Mo Street, Wong Tai Sin, Kowloon",
+    "Ancillary facilities": "Light refreshment kiosk\nMen's and ladies' changing rooms and toilets (including accessible toilets)",
+    "Opening hours": "8 am to 11 pm daily",
+    "Telephone": "2323 9665"
+  },
+  {
+    "Turf Type": "Artificial Turf Pitches",
+    "Facility Types": "7-a-side Soccer Pitches",
+    "District": "Yau Tsim Mong",
+    "Venue": "Cherry Street Park",
+    "Address": "9 Hoi Ting Road, Mong Kok, Kowloon",
+    "Ancillary facilities": "․A booking office, toilets, changing rooms, lockers and changing rooms cum toilets for persons with disabilities are provided in the Park.\n․Other facilities include a piazza, 4 tennis courts, 2 basketball/volleyball courts, a jogging track, a children's playground and elderly fitness stations ",
+    "Opening hours": "8 am to 11 pm daily (1.5 hours per session)",
+    "Telephone": "2625 4584"
+  },
+  {
+    "Turf Type": "Natural Turf Pitches",
+    "Facility Types": "7-a-side Soccer Pitches",
+    "District": "Kwun Tong",
+    "Venue": "Wai Lok Street Temporary Soccer Pitch",
+    "Address": "Wai Yip Street and Wai Lok Street junction, Kwun Tong, Kowloon (near Laguna Park)",
+    "Ancillary facilities": "․Changing facilities（showering facilities are not provided）\n․Portable toilets",
+    "Opening hours": "8 am to 6 pm daily (except Monday)",
+    "Telephone": "2343 6123 / 2717 5705"
+  },
+  {
+    "Turf Type": "Natural Turf Pitches",
+    "Facility Types": "7-a-side Soccer Pitches",
+    "District": "Sham Shui Po",
+    "Venue": "Tai Hang Tung Recreation Ground",
+    "Address": "63 Boundary Street, Sham Shui Po, Kowloon",
+    "Ancillary facilities": "Toilet and changing facilities",
+    "Opening hours": "8 am to 6 pm daily",
+    "Telephone": "2777 8946"
+  },
+  {
+    "Turf Type": "Natural Turf Pitches",
+    "Facility Types": "7-a-side Soccer Pitches",
+    "District": "Wan Chai",
+    "Venue": "Happy Valley Recreation Ground",
+    "Address": "Sports Road, Happy Valley, Hong Kong",
+    "Ancillary facilities": "Changing Rooms and Toilets",
+    "Opening hours": "8 am – 6 pm daily",
+    "Telephone": "2895 1523"
+  },
+  {
+    "Turf Type": "Natural Turf Pitches",
+    "Facility Types": "7-a-side Soccer Pitches",
+    "District": "Wong Tai Sin",
+    "Venue": "Hammer Hill Road Sports Ground",
+    "Address": "158 Hammer Hill Road, Diamond Hill, Kowloon",
+    "Ancillary facilities": "Covered Spectator Stand (about 2200 seats in total)\nFloodlight System Car Park with 7 parking spaces Changing Room Toilet Locker Drinking Fountain Light Refreshment Kiosk",
+    "Opening hours": "8 am to 10:30 pm daily",
+    "Telephone": "2350 2876"
+  },
+  {
+    "Turf Type": "Natural Turf Pitches",
+    "Facility Types": "Baseball Pitches",
+    "District": "Kwun Tong",
+    "Venue": "Sai Tso Wan Recreation Ground",
+    "Address": "Sin Fat Road, Lam Tin, Kowloon",
+    "Ancillary facilities": "․Toilets and changing rooms with lockers are provided.\n․2 nos. of fee-paying batting cage. ․A fee-paying car park with 25 parking spaces for private car and 2 parking spaces for coach is provided. ․The pitch can be used for playing soccer.",
+    "Opening hours": "8 am to 10:30 pm ( 1.5 hours per session)",
+    "Telephone": "2341 4755"
+  },
+  {
+    "Turf Type": "Artificial Turf Pitches",
+    "Facility Types": "Cricket Ground",
+    "District": "Islands",
+    "Venue": "Man Tung Road Park",
+    "Address": "55 Man Tung Road, Tung Chung, Lantau Island",
+    "Ancillary facilities": "․1 spectator stand with 96 seats\n․Toilet and changing room ․Floodlight system ",
+    "Opening hours": "8 am to 11 pm daily",
+    "Telephone": "2109 2546 / 2852 4845"
+  },
+  {
+    "Turf Type": "Artificial Turf Pitches",
+    "Facility Types": "Cricket Ground",
+    "District": "Tai Po",
+    "Venue": "Kwong Fuk Football Ground",
+    "Address": "Kwong Fuk Road, Tai Po, N.T.",
+    "Ancillary facilities": "․Changing rooms, toilets and disabled toilets",
+    "Opening hours": "8:00am to 11:00pm ",
+    "Telephone": "(852) 2653 3447 / (852) 3183 9020"
+  },
+  {
+    "Turf Type": "Artificial Turf Pitches",
+    "Facility Types": "Cricket Ground",
+    "District": "Wong Tai Sin",
+    "Venue": "Po Kong Village Road Park",
+    "Address": "140 Po Kong Village Road, Diamond Hill, Kowloon",
+    "Ancillary facilities": "Floodlight System\nCovered Spectator Stand (about 1,000 seats) Men’s and ladies’ changing rooms and toilets (including accessible toilets)",
+    "Opening hours": "7:30 a.m. - 10:00 p.m. daily",
+    "Telephone": "2320 6140"
+  },
+  {
+    "Turf Type": "Natural Turf Pitches",
+    "Facility Types": "Cricket Ground",
+    "District": "Kowloon City",
+    "Venue": "Tin Kwong Road Recreation Ground",
+    "Address": "17 Tin Kwong Road Kowloon",
+    "Ancillary facilities": "․Temporary toilets and changing rooms are provided\n․1 no. of fee-paying cricket practice net ․The pitch can be used for playing mini-soccer (2 nos. of mini-soccer pitches)",
+    "Opening hours": "8:00 am to 12:30 pm and 1:30 pm to 6:00 pm (1.5 hours per session)",
+    "Telephone": "2711 1532"
+  },
+  {
+    "Turf Type": "Natural Turf Pitches",
+    "Facility Types": "Cricket Ground",
+    "District": "Kwai Tsing",
+    "Venue": "Wo Yi Hop Road Sports Ground",
+    "Address": "298 Wo Yi Hop Road, Kwai Chung, New Territories",
+    "Ancillary facilities": "․Covered Spectator Stand with 700 seats\n․Public Address System ․Toilets and Changing Rooms ․Lockers ․A Fee-charging Car Park (including 1 designated disabled parking space) ",
+    "Opening hours": "8 am to 10:30 pm (Turf pitch closed for maintenance on every Thursday)",
+    "Telephone": "2429 8196"
+  },
+  {
+    "Turf Type": "Artificial Turf Pitches",
+    "Facility Types": "Hockey Ground",
+    "District": "Sai Kung",
+    "Venue": "Po Tsui Park",
+    "Address": "Yuk Nga Lane, Tseung Kwan O",
+    "Ancillary facilities": "․Changing rooms, toilets and disabled toilets\n․Floodlights",
+    "Opening hours": "8am– 11pm",
+    "Telephone": "2703 7231"
+  },
+  {
+    "Turf Type": "Artificial Turf Pitches",
+    "Facility Types": "Hockey Ground",
+    "District": "Wan Chai",
+    "Venue": "Happy Valley Recreation Ground",
+    "Address": "Sports Road, Happy Valley, Hong Kong",
+    "Ancillary facilities": "Changing Rooms and Toilets\nFloodlights",
+    "Opening hours": "8 am – 11 pm daily",
+    "Telephone": "2895 1523"
+  },
+  {
+    "Turf Type": "Artificial Turf Pitches",
+    "Facility Types": "Hockey Ground",
+    "District": "Wong Tai Sin",
+    "Venue": "Lok Fu Recreation Ground",
+    "Address": "1 Heng Lam Street, Lok Fu, Kowloon.",
+    "Ancillary facilities": "A spectator stand with a capacity of 500 seats (including 72 seats with cover)\nA changing room A toilet A toilet for persons with a disability",
+    "Opening hours": "7:30 am to 11 pm daily",
+    "Telephone": "2338 0137"
+  },
+  {
+    "Turf Type": "Artificial Turf Pitches",
+    "Facility Types": "Hockey Ground",
+    "District": "Yau Tsim Mong",
+    "Venue": "Boundary Street Recreation Ground",
+    "Address": "200 Sai Yee Street, Mong Kok, Kowloon",
+    "Ancillary facilities": "․3 outdoor table tennis tables, toilets, changing rooms with lockers and changing rooms cum toilets for persons with disabilities are provided in the Recreation Ground.\n․The Recreation Ground is located adjacent to Boundary Street Sports Centre No. 1 and Boundary Street Sports Centre No. 2, which offer a booking office, 2 arenas, an activity room, 2 table tennis rooms and 2 squash courts cum activity rooms. ․This court can also be used for playing soccer.",
+    "Opening hours": "8 am to 11 pm daily (1.5 hours per session)",
+    "Telephone": "2380 9751"
+  },
+  {
+    "Turf Type": "Artificial Turf Pitches",
+    "Facility Types": "Hockey Ground",
+    "District": "Yau Tsim Mong",
+    "Venue": "King's Park Hockey Ground",
+    "Address": "2-6 Wylie Road, Kowloon.",
+    "Ancillary facilities": "A spectator stand with capacity of 762, toilets, changing rooms, toilets for persons with disabilities, a baby care room, a meeting room, a first-aid room, a PA System, floodlights and an irrigation system are provided in the Hockey Ground.",
+    "Opening hours": "8:30am to 10pm daily (1.5 hours per session)",
+    "Telephone": "2359 9004"
+  },
+  {
+    "Turf Type": "Artificial Turf Pitches",
+    "Facility Types": "Rugby Pitches",
+    "District": "Sham Shui Po",
+    "Venue": "Shek Kip Mei Park (Phase III)",
+    "Address": "270 Nam Cheong Street, Sham Shui Po, Kowloon",
+    "Ancillary facilities": "Spectator stand (with approx. 1440 seats), toilet and changing room facilities",
+    "Opening hours": "8 am to 11:00 pm daily\n(Closed from 8 am to 1:00 pm on Thursday for maintenance)",
+    "Telephone": "2777 1540"
+  },
+  {
+    "Turf Type": "Artificial Turf Pitches",
+    "Facility Types": "Rugby Pitches",
+    "District": "Wan Chai",
+    "Venue": "Happy Valley Recreation Ground",
+    "Address": "Sports Road, Happy Valley, Hong Kong",
+    "Ancillary facilities": "Changing Rooms and Toilets\nFloodlights",
+    "Opening hours": "8 am – 11 pm daily",
+    "Telephone": "2895 1523"
+  },
+  {
+    "Turf Type": "Artificial Turf Pitches",
+    "Facility Types": "Rugby Pitches",
+    "District": "Yuen Long",
+    "Venue": "Tin Yip Road Park",
+    "Address": "Tin Yip Road, Tin Shui Wai",
+    "Ancillary facilities": "Toilet\nChanging Room Accessible Toilet Babycare Room",
+    "Opening hours": "8:00am to 11:00pm daily",
+    "Telephone": "2682 3197"
+  },
+  {
+    "Turf Type": "Natural Turf Pitches",
+    "Facility Types": "Rugby Pitches",
+    "District": "Sham Shui Po",
+    "Venue": "Tai Hang Tung Recreation Ground",
+    "Address": "63 Boundary Street, Sham Shui Po, Kowloon",
+    "Ancillary facilities": "Toilet and changing facilities, referee room, light refreshment kiosk",
+    "Opening hours": "8 am to 10:30 pm daily",
+    "Telephone": "2777 8946"
+  }
+]

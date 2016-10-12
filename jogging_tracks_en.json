@@ -1,0 +1,963 @@
+[
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Central & Western",
+        "Name_en": "Belcher Bay Park",
+        "Address_en": "Opposite at No.38 Kennedy Town Praya",
+        "Facilities_en": "A jogging track/fitness trail with a length about 450 m",
+        "Ancillary Facilities_en": "Drinking fountain, fitness stations and toilets (including toilets for persons with a disability) are provided in the Park",
+        "OpeningHours_en": "24 hours daily",
+        "Phone": "2853 2575"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Central & Western",
+        "Name_en": "Harlech Road Fitness Trail",
+        "Address_en": "Harlech Road, The Peak\n",
+        "Facilities_en": "A jogging track/fitness trail with a length about 250 m",
+        "Ancillary Facilities_en": "Fitness stations and garden benches",
+        "OpeningHours_en": "24 hours daily ",
+        "Phone": "2853 2566"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Central & Western",
+        "Name_en": "Hong Kong Park Sports Centre",
+        "Address_en": "29, Cotton Tree Drive, Central, Hong Kong.",
+        "Facilities_en": "",
+        "Ancillary Facilities_en": "",
+        "OpeningHours_en": "7 am to 11 pm daily. (Except maintenance day)",
+        "Phone": "2521 5072"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Central & Western",
+        "Name_en": "Magazine Gap Service Reservoir Playground",
+        "Address_en": "Opposite at Magazine Gap Towers & Magazine Gap Road ",
+        "Facilities_en": "A jogging track/fitness trail with a length about 150 m",
+        "Ancillary Facilities_en": "Fitness stations, rain shelters and garden benches",
+        "OpeningHours_en": "24 hours daily",
+        "Phone": "2853 2566"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Eastern",
+        "Name_en": "Aldrich Bay Park",
+        "Address_en": "10 Oi Tak Street, Sai Wan Ho",
+        "Facilities_en": "A jogging track/fitness trail with a length of 450m",
+        "Ancillary Facilities_en": "Toilets, babycare room, elderly fitness station and children's play equipment",
+        "OpeningHours_en": "7am – 11pm daily",
+        "Phone": "2967 6975"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Eastern",
+        "Name_en": "Aldrich Bay Playground",
+        "Address_en": "Nam On Street, Shau Kei Wan",
+        "Facilities_en": "A jogging track/fitness trail with a length about 100 m",
+        "Ancillary Facilities_en": "Toilets, elderly fitness stations and fitness stations",
+        "OpeningHours_en": "24 hours daily",
+        "Phone": "2562 2137"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Eastern",
+        "Name_en": "Aldrich Bay Promenade",
+        "Address_en": "Oi Lai Street, Shau Kei Wan",
+        "Facilities_en": "A jogging track/fitness trail with a length about 100m",
+        "Ancillary Facilities_en": "4 fitness stations, toilets and drinking fountains",
+        "OpeningHours_en": "24 hours daily",
+        "Phone": "2562 2137"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Eastern",
+        "Name_en": "Chai Wan Park",
+        "Address_en": "Tsui Wan Street, Chai Wan",
+        "Facilities_en": "A jogging track/fitness trail with a length of 300m",
+        "Ancillary Facilities_en": "1 fitness station, toilets and changing rooms",
+        "OpeningHours_en": "24 hours daily",
+        "Phone": "2898 7560"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Eastern",
+        "Name_en": "Fu Hong Street Sitting-out Area",
+        "Address_en": "Fu Hong Street, Chai Wan",
+        "Facilities_en": "A jogging track/fitness trail with a length of 185m",
+        "Ancillary Facilities_en": "Pavilion, garden benches and arbour",
+        "OpeningHours_en": "24 hours daily",
+        "Phone": "2562 2137"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Eastern",
+        "Name_en": "Quarry Bay Park",
+        "Address_en": "Quarry Bay near Hoi Tai Street",
+        "Facilities_en": "A jogging track/fitness trail with a length of 640m",
+        "Ancillary Facilities_en": "3 fitness stations, toilets and changing rooms",
+        "OpeningHours_en": "7am – 11pm daily",
+        "Phone": "2513 8499"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Eastern",
+        "Name_en": "Shau Kei Wan Service Reservoir Playground",
+        "Address_en": "Yiu Hing Road, Shau Kei Wan",
+        "Facilities_en": "A jogging track/fitness trail with a length of 208m",
+        "Ancillary Facilities_en": "Toilets, elderly fitness station and hard-surface soccer pitch",
+        "OpeningHours_en": "7am – 7pm daily",
+        "Phone": "2562 2137"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Eastern",
+        "Name_en": "Siu Sai Wan Road Garden",
+        "Address_en": "Siu Sai Wan Road, Chai Wan ",
+        "Facilities_en": "A jogging track/fitness trail with a length of 270m",
+        "Ancillary Facilities_en": "2 fitness stations",
+        "OpeningHours_en": "24 hours daily",
+        "Phone": "2562 2137"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Islands",
+        "Name_en": "Tung Chung North Park",
+        "Address_en": "29 Man Tung Road, Tung Chung, Lantau Island",
+        "Facilities_en": "1 no. of 200-metre jogging track",
+        "Ancillary Facilities_en": "․Toilets and changing rooms with lockers are provided in the Park.\n․Drinking fountain",
+        "OpeningHours_en": "24 hours daily",
+        "Phone": "2109 3423"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Kowloon City",
+        "Name_en": "Carpenter Road Park",
+        "Address_en": "Carpenter Road, Kowloon City, Kowloon.",
+        "Facilities_en": "",
+        "Ancillary Facilities_en": "․Toilets are provided in the Park.\n․Other Facilities_en include a cycling track, a children's playground, an elderly fitness station, a 7-a-side hard-surface soccer pitch, 4 basketball courts and 2 volleyball courts.",
+        "OpeningHours_en": "24 hours daily",
+        "Phone": "2716 9962"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Kowloon City",
+        "Name_en": "Ho Man Tin Park",
+        "Address_en": "No.1 Chung Yee Street, Ho Man Tin, Kowloon.",
+        "Facilities_en": "A jogging track of length 263 m and 6 fitness stations",
+        "Ancillary Facilities_en": "Other Facilities_en include a hard-surface 7-a-side soccer pitch cum handball court, 2 basketball courts and a children's playground.",
+        "OpeningHours_en": "7 am to 11 pm daily",
+        "Phone": "2762 7837"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Kowloon City",
+        "Name_en": "Hutchison Park",
+        "Address_en": "Dyer AName_en, Hung Hom, Kowloon.",
+        "Facilities_en": "",
+        "Ancillary Facilities_en": "․Toilets and changing rooms are provided in the Park.\n․Other Facilities_en include a children's playground and elderly fitness equipment.",
+        "OpeningHours_en": "24 hours daily",
+        "Phone": "2330 1708 / 2762 2083"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Kowloon City",
+        "Name_en": "Junction Road Park",
+        "Address_en": "195 Junction Road, Kowloon City.",
+        "Facilities_en": "A jogging track of length 265 m",
+        "Ancillary Facilities_en": "․Toilets (including a toilet for persons with disabilities) and changing rooms with lockers are provided in the Park.\n․Other Facilities_en include 6 tennis courts, a 7-a-side soccer pitch, 2 basketball courts, 2 sets of children's play equipment, 1 set of elderly fitness equipment, 4 fitness stations and a pebble walking trail. ",
+        "OpeningHours_en": "24 hours daily",
+        "Phone": "2336 4638"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Kowloon City",
+        "Name_en": "Kowloon Tsai Park",
+        "Address_en": "13 Inverness Road, Kowloon City, Kowloon.",
+        "Facilities_en": "Jogging Track",
+        "Ancillary Facilities_en": "․Toilets and changing rooms are provided in the Park.\n․Other Facilities_en include 2 artificial turf soccer pitches, a natural turf soccer pitch, 2 elderly fitness corners, a bauhinia garden, a jogging track of length 550m, a pebble path, 2 hard-surface 7-a-side soccer pitches, 2 hard-surface basketball courts, a children's playground and a dog garden.",
+        "OpeningHours_en": "24 hours daily",
+        "Phone": "2336 7878"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Kowloon City",
+        "Name_en": "To Kwa Wan Recreation Ground",
+        "Address_en": "66 Ha Heung Road, To Kwa Wan, Kowloon.",
+        "Facilities_en": "Jogging Track",
+        "Ancillary Facilities_en": "․Toilets and changing rooms with lockers are provided in the recreation ground.\n․Other Facilities_en include 2 basketball courts, 2 hard-surface 7-a-side soccer pitches and a children's playground. ",
+        "OpeningHours_en": "24 hours daily",
+        "Phone": "2364 9285"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Kwai Tsing",
+        "Name_en": "Central Kwai Chung Park",
+        "Address_en": "San Kwai Street, Kwai Chung",
+        "Facilities_en": "1 no.",
+        "Ancillary Facilities_en": "․2 Basketball courts cum Volleyball courts\n․2 5-a-side Soccer Pitches ․1 Roller skating rink ․Picnic area ․Children's play area ․Fitness area ․Elderly fitness area ․Walking tiles ․6 Pavilions ․5 Rain shelters ․1 Arbour ․1 Toilet block with changing rooms ",
+        "OpeningHours_en": "24 hours",
+        "Phone": "2619 9200"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Kwai Tsing",
+        "Name_en": "Shek Yam Lei Muk Road Park",
+        "Address_en": "Lei Muk Road, Kwai Chung, NT",
+        "Facilities_en": "1 no.",
+        "Ancillary Facilities_en": "․1 Multi-use Natural Turf Pitch\n․Children's Play Area ․Elderly Fitness Area ․Walking Tiles ․3 Pavilions ․8 Rain Shelters ․1 Large Amenity Lawn ․1 Toilet Block cum Toilet for Persons with Disabilities",
+        "OpeningHours_en": "24 hours",
+        "Phone": "2619 9200"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Kwai Tsing",
+        "Name_en": "Tai Wo Hau Road South Playground",
+        "Address_en": "Tai Wo Hau Road South, Kwai Chung, New Territories",
+        "Facilities_en": "1 Jogging Track",
+        "Ancillary Facilities_en": "․1 Children's Play Area\n․1 Fitness Area ․2 Pavilions ․6 Rain Shelters ․3 Arbours ․1 Toilet Block ․1 5-a-side Soccer Pitch ",
+        "OpeningHours_en": "24 hours",
+        "Phone": "2619 9200"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Kwai Tsing",
+        "Name_en": "Tsing Yi Northeast Park",
+        "Address_en": "10 Tam Kon Shan Road, Tsing Yi",
+        "Facilities_en": "1 Jogging Trail with Fitness Stations",
+        "Ancillary Facilities_en": "․1 11-a-side Artificial Turf Soccer Pitch․2 Basketball cum Volleyball Courts․1 Piazza․1 Skateboard Arena․1 Cycling Track․1 Children’s Cycling Track․1 Gateball Court․1 Waterfront Promenade․1 Elderly Fitness Corner․2 Children’s Play Area․1 Walking Tile․1 Landscaped Area",
+        "OpeningHours_en": "5:30 am to 11:30 pm daily",
+        "Phone": "2436 3422"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Kwai Tsing",
+        "Name_en": "Tsing Yi Promenade",
+        "Address_en": "Nga Ying Chau Street, Tsing Yi ",
+        "Facilities_en": "2 Jogging Tracks",
+        "Ancillary Facilities_en": "․Children's Play Area\n․Elderly Fitness Area ․Fitness Area ․Pebble Walking Trail ․1 Large Amenity Lawn ․1 Piazza with Spectator Stand",
+        "OpeningHours_en": "24 hours",
+        "Phone": "2619 9200"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Kwun Tong",
+        "Name_en": "Hong Ning Road Park",
+        "Address_en": "Junction Hong Ning Road and Wo Hong Path and Kwun Tong, Kowloon",
+        "Facilities_en": "4 nos. of Fitness Station and 1 no. Jogging Track",
+        "Ancillary Facilities_en": "․Toilets and changing rooms with lockers are provided in the Park.\n․A fee-charging car park with 21 parking spaces is provided (including 1 designated disabled parking space)",
+        "OpeningHours_en": "24 hours daily",
+        "Phone": "2341 2602"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Kwun Tong",
+        "Name_en": "Jordan Valley Park",
+        "Address_en": "No.71, New Clear Water Bay Road",
+        "Facilities_en": "4 Jogging Tracks with 1,115m length and Fitness Stations",
+        "Ancillary Facilities_en": "․Toilets are provided in the Park.\n․A fee-charging car park with 42 parking spaces is provided (including 1 designated disabled parking space)",
+        "OpeningHours_en": "5:00 am to 11:00 pm",
+        "Phone": "2342 2241"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Kwun Tong",
+        "Name_en": "Jordan Valley Playground",
+        "Address_en": "Choi Ha Road, Ngau Tau Kok, Kowloon",
+        "Facilities_en": "7 nos. of Fitness Station and 1 no. of Jogging Track",
+        "Ancillary Facilities_en": "․Toilets and changing rooms with lockers are provided in the Playground.․A fee-charging car park with 16 parking spaces is provided (including 1 designated disabled parking space)",
+        "OpeningHours_en": "6am-11:30pm",
+        "Phone": "2758 3465"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Kwun Tong",
+        "Name_en": "Kwun Tong High Level Service Reservoir Garden",
+        "Address_en": "Jordon Valley, Kwun Tong, Kowloon",
+        "Facilities_en": "4 nos. of Fitness Station and１no. of Jogging Track",
+        "Ancillary Facilities_en": "",
+        "OpeningHours_en": "24 hours daily",
+        "Phone": "2341 4755"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Kwun Tong",
+        "Name_en": "Kwun Tong Recreation Ground",
+        "Address_en": "No.6, Tsui Ping Road, Kwun Tong",
+        "Facilities_en": "Jogging Track",
+        "Ancillary Facilities_en": "․Toilets and changing rooms with lockers are provided in the Recreation Ground.",
+        "OpeningHours_en": "24 hours daily",
+        "Phone": "2253 1559"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Kwun Tong",
+        "Name_en": "Laguna Park",
+        "Address_en": "Cha Kwo Ling Road, Kwun Tong, Kowloon",
+        "Facilities_en": "8 nos. of Fitness Station and 1 no. of Jogging Track",
+        "Ancillary Facilities_en": "․Toilets are provided in the Park.",
+        "OpeningHours_en": "24 hours daily",
+        "Phone": "2341 4755"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Kwun Tong",
+        "Name_en": "Lam Tin Park",
+        "Address_en": "Pik Wan Road, Lam Tin, Kowloon",
+        "Facilities_en": "6 nos. of Fitness Station",
+        "Ancillary Facilities_en": "․Toilets are provided in the Park.",
+        "OpeningHours_en": "24 hours daily",
+        "Phone": "2341 4755"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Kwun Tong",
+        "Name_en": "Lam Tin Service Reservoir Playground",
+        "Address_en": "Junction of Leung Tin Lane & Tak Tin Street, \nLam Tin, Kowloon",
+        "Facilities_en": "1 no. of Jogging Track",
+        "Ancillary Facilities_en": "․Outdoor storage cages are provided in the Playground.",
+        "OpeningHours_en": "24 hours daily",
+        "Phone": "2341 4755"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Kwun Tong",
+        "Name_en": "Ping Shek Playground",
+        "Address_en": "Choi Shek Lane, Kowloon",
+        "Facilities_en": "14 nos. of Fitness Station and 1 no. of Jogging Track",
+        "Ancillary Facilities_en": "․Toilets and changing rooms with lockers are provided in the Playground.․A fee-charging car park with 33 parking spaces is provided (including 1 designated disabled parking space)",
+        "OpeningHours_en": "6 am to 11:30 pm",
+        "Phone": "2324 4302"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Kwun Tong",
+        "Name_en": "Sai Tso Wan Recreation Ground",
+        "Address_en": "Sin Fat Road, Lam Tin, Kowloon",
+        "Facilities_en": "Jogging Track",
+        "Ancillary Facilities_en": "․Toilets and changing rooms with lockers are provided in the Recreation Ground.\n․A fee-charging car park with 27 parking spaces is provided (including 1 designated disabled parking space)",
+        "OpeningHours_en": "7 am to 11 pm",
+        "Phone": "2341 4755"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Kwun Tong",
+        "Name_en": "Shun Lee Tsuen Park",
+        "Address_en": "Shun Lee Tsuen Road, Kwun Tong, Kowloon",
+        "Facilities_en": "6 nos. of Fitness Station and 1 no. of Jogging Tracks",
+        "Ancillary Facilities_en": "․Toilets and changing rooms with lockers are provided in the Park.\n․A fee-charging car park with 53 parking spaces is provided (including 1 designated disabled parking space)",
+        "OpeningHours_en": "24 hours daily",
+        "Phone": "2951 4136"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Kwun Tong",
+        "Name_en": "Shun Lee Tsuen Playground",
+        "Address_en": "Junction of Lee On Road & \nShun Lee Tsuen Road, Kwun Tong",
+        "Facilities_en": "1 no. of Fitness Station and 1 no. of Jogging Track",
+        "Ancillary Facilities_en": "․Toilets are provided in the Playground.",
+        "OpeningHours_en": "24 hours daily",
+        "Phone": "2341 4755"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Kwun Tong",
+        "Name_en": "Yau Tong Service Reservoir Playground",
+        "Address_en": "Pik Wan Road, \nLam Tin, Kowloon",
+        "Facilities_en": "Jogging Track",
+        "Ancillary Facilities_en": "",
+        "OpeningHours_en": "24 hours daily",
+        "Phone": "2341 4755"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "North",
+        "Name_en": "Fan Leng Lau Road Playground",
+        "Address_en": "Fan Leng Lau Road, Luen Wo Hui, Fanling, N.T.",
+        "Facilities_en": "Jogging track (320M in length)",
+        "Ancillary Facilities_en": "Men's and Ladies' Toilet \nToilet for Persons with a Disability Drinking fountain",
+        "OpeningHours_en": "7 am to 11 am daily and\n2 pm to 6 pm daily",
+        "Phone": "2679 2818"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "North",
+        "Name_en": "Luen Hing Street Sitting-out Area",
+        "Address_en": "J/O Luen Hing Street & Wo Muk Road, Fanling, N.T.",
+        "Facilities_en": "Jogging Tracks (60M in length)",
+        "Ancillary Facilities_en": "",
+        "OpeningHours_en": "24 hours daily",
+        "Phone": "2679 2818"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "North",
+        "Category_en": "Jogging Tracks","Name_en": "North
+         District_en Park",
+        "Address_en": "Jockey Club Road, Sheung Shui, N.T.",
+        "Facilities_en": "Fitness Trail (333M in length)",
+        "Ancillary Facilities_en": "Men's and Ladies' Toilet\n Toilet for Persons with Disabilities Drinking fountain Fitness Equipment ",
+        "OpeningHours_en": "24 hours daily",
+        "Phone": "2670 6155"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "North",
+        "Name_en": "Pak Fuk Tin Sum Playground",
+        "Address_en": "Area 42, Yat Ming Road, Fanling, N.T.",
+        "Facilities_en": "3 Jogging Tracks (total 3150M in length)",
+        "Ancillary Facilities_en": "Men's and Ladies' Changing Room & Toilet\n Changing Room & Toilet for Persons with a Disability Drinking fountain Fitness Equipment",
+        "OpeningHours_en": "7 am to 11 pm daily",
+        "Phone": "2677 5564"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "North",
+        "Name_en": "Po Wing Road Sports Centre",
+        "Address_en": "19 Pak Wo Road, Sheung Shui, New Territories",
+        "Facilities_en": "1 indoor jogging track (with 2 lanes)",
+        "Ancillary Facilities_en": "",
+        "OpeningHours_en": "7 am to 11 pm daily. (Except maintenance day)",
+        "Phone": "2639 2979"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "North",
+        "Name_en": "Wai Ming Street Garden",
+        "Address_en": "Area 46, Wai Ming Street, Fanling, N.T.",
+        "Facilities_en": "Jogging Tracks (350M in length)",
+        "Ancillary Facilities_en": "",
+        "OpeningHours_en": "24 hours daily",
+        "Phone": "2679 2818"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Sai Kung",
+        "Name_en": "Hang Hau Sports Centre",
+        "Address_en": "1-3/F, Sai Kung Tseung Kwan O Government Complex, 38 Pui Shing Road, Tseung Kwan O",
+        "Facilities_en": "An indoor jogging track with approx. 150m in length",
+        "Ancillary Facilities_en": "",
+        "OpeningHours_en": "7am – 11 pm daily (except maintenance day)",
+        "Phone": "2623 5928"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Sai Kung",
+        "Name_en": "Hong Kong Velodrome Park",
+        "Address_en": "105-107 Po Hong Road, Tseung Kwan O",
+        "Facilities_en": "Jogging Track (286M in length)",
+        "Ancillary Facilities_en": "Changing rooms, toilets and disabled toilets\nFitness Equipment",
+        "OpeningHours_en": "8am - 10pm daily",
+        "Phone": "2878 8621"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Sai Kung",
+        "Name_en": "Po Hong Park",
+        "Address_en": "Wan Lung Road, Tseung Kwan O",
+        "Facilities_en": "Jogging Tracks (250M in length)",
+        "Ancillary Facilities_en": "Toilets and Disabled Toilet\nFitness Equipment",
+        "OpeningHours_en": "24 hours daily",
+        "Phone": "2791 3100"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Sai Kung",
+        "Name_en": "Po Tsui Park",
+        "Address_en": "Yuk Nga Lane, Tseung Kwan O",
+        "Facilities_en": "Jogging Tracks (540M in length)",
+        "Ancillary Facilities_en": "Changing rooms, toilets and disabled toilets\nFitness Equipment",
+        "OpeningHours_en": "24 hours daily",
+        "Phone": "2703 7231"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Sai Kung",
+        "Name_en": "Tiu Keng Leng Sports Centre",
+        "Address_en": "2 Chui Ling Road, Tseung Kwan O",
+        "Facilities_en": "An indoor jogging track of about 150 m in length",
+        "Ancillary Facilities_en": "",
+        "OpeningHours_en": "7am – 11pm daily (except maintenance day)",
+        "Phone": "2481 5033"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Sai Kung",
+        "Name_en": "Sheung Ning Playground",
+        "Address_en": "Sheung Ning Road, Tseung Kwan O",
+        "Facilities_en": "Jogging Track (500M in length)",
+        "Ancillary Facilities_en": "Changing rooms, toilets and disabled toilet\nFitness Equipment",
+        "OpeningHours_en": "24 hours daily",
+        "Phone": "2791 3100"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Sha Tin",
+        "Name_en": "Che Kung Miu Road Playground",
+        "Address_en": "Che Kung Miu Road, Tai Wai, Shatin.",
+        "Facilities_en": "Fitness Stations",
+        "Ancillary Facilities_en": "Male and Female Toilets\n Toilet for persons with disabilities",
+        "OpeningHours_en": "24 hours",
+        "Phone": "2634 0119"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Sha Tin",
+        "Name_en": "Hin Tin Playground",
+        "Address_en": "Che Kung Miu Road, Tai Wai, Shatin.",
+        "Facilities_en": "2 Fitness Stations",
+        "Ancillary Facilities_en": "Male and FemaleToilet cum Changing Room,\n Toilet for persons with disabilities ",
+        "OpeningHours_en": "7 am to 11 pm daily",
+        "Phone": "2692 0460"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Sha Tin",
+        "Name_en": "Ma On Shan Park",
+        "Address_en": "No. 12, On Chun Street, Ma On Shan",
+        "Facilities_en": "Fitness Station",
+        "Ancillary Facilities_en": "",
+        "OpeningHours_en": "6:30am – 11:00pm",
+        "Phone": "2643 5320"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Sha Tin",
+        "Name_en": "Ma On Shan Promenade",
+        "Address_en": "Ning Tai Road, Ma On Shan",
+        "Facilities_en": "․Male and Female Toilet․Toilet for persons with disabilities․Fitness Station",
+        "Ancillary Facilities_en": "",
+        "OpeningHours_en": "24 Hours",
+        "Phone": "2643 5320"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Sha Tin",
+        "Name_en": "On Luk Street Park",
+        "Address_en": "On Luk Street, Ma On Shan",
+        "Facilities_en": "Fitness Stations",
+        "Ancillary Facilities_en": "Male and Female Toilets\n Toilet for persons with disabilities ",
+        "OpeningHours_en": "24 hours",
+        "Phone": "2634 0143"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Sha Tin",
+        "Name_en": "Yuen Wo Playground",
+        "Address_en": "No. 16, Yuen Wo Road, Sha Tin, New Territories",
+        "Facilities_en": "Fitness Stations, a Pebble Walking Path",
+        "Ancillary Facilities_en": "Male and female toilets and disable toilets\nMale and female changing rooms Light refreshment kiosk Car park First-aid room",
+        "OpeningHours_en": "0700 – 2300 hrs.",
+        "Phone": "2605 3622"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Sham Shui Po",
+        "Name_en": "Cornwall Street Park",
+        "Address_en": "17 Cornwall Street, Kowloon Tong.",
+        "Facilities_en": "1 no. of 258-metre jogging track",
+        "Ancillary Facilities_en": "4 fitness stations, toilet Facilities_en",
+        "OpeningHours_en": "(24 hours daily)",
+        "Phone": "2337 4392"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Sham Shui Po",
+        "Name_en": "Lai Chi Kok Park (Stage III)",
+        "Address_en": "Lai Wan Road, Lai Chi Kok, Kowloon.",
+        "Facilities_en": "1 no. of 600-metre jogging track; 1 no. of 1000-metre jogging track",
+        "Ancillary Facilities_en": "6 fitness stations, toilet Facilities_en",
+        "OpeningHours_en": "(24 hours daily)",
+        "Phone": "2307 0429"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Sham Shui Po",
+        "Name_en": "Po On Road Playground ",
+        "Address_en": "J/O Po On Road and Cheung Fat Street, Sham Shui Po, Kowloon",
+        "Facilities_en": "1 no. of 180-metre jogging track",
+        "Ancillary Facilities_en": "4 fitness stations, toilet Facilities_en",
+        "OpeningHours_en": "(24 hours daily)",
+        "Phone": "2360 2287"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Sham Shui Po",
+        "Name_en": "Sham Shui Po Park (Stage II)",
+        "Address_en": "Tung Chau Street, Sham Shui Po, Kowloon",
+        "Facilities_en": "1 no. of 400-metre jogging track",
+        "Ancillary Facilities_en": "Toilet Facilities_en",
+        "OpeningHours_en": "(24 hours daily)",
+        "Phone": "2720 5723"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Sham Shui Po",
+        "Name_en": "Shek Kip Mei Park (Phase III)",
+        "Address_en": "270 Nam Cheong Street, Sham Shui Po, Kowloon",
+        "Facilities_en": "1 no. of 588-metre jogging track",
+        "Ancillary Facilities_en": "5 fitness stations, toilet and changing Facilities_en",
+        "OpeningHours_en": "(24 hours daily)",
+        "Phone": "2777 1540"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Sham Shui Po",
+        "Name_en": "Shek Kip Mei Service Reservoir Playground",
+        "Address_en": "J/O Lung Cheung Road and Nam Cheong Street, Sham Shui Po, Kowloon",
+        "Facilities_en": "1 no. of 600-metre jogging track",
+        "Ancillary Facilities_en": "Toilet and changing Facilities_en",
+        "OpeningHours_en": "(24 hours daily)",
+        "Phone": "2741 4044"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Sham Shui Po",
+        "Name_en": "Tai Hang Tung Recreation Ground",
+        "Address_en": "63 Boundary Street, Sham Shui Po, Kowloon",
+        "Facilities_en": "A jogging track of length 480 m",
+        "Ancillary Facilities_en": "Toilet and changing Facilities_en",
+        "OpeningHours_en": "7 am to 6 pm daily",
+        "Phone": "2777 8946"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Sham Shui Po",
+        "Name_en": "To Yuen Street Playground",
+        "Address_en": "J/O To Yuen Street and Tat Chee AName_en, Kowloon",
+        "Facilities_en": "1 no. of 95-metre jogging track",
+        "Ancillary Facilities_en": "7 fitness stations, toilet Facilities_en",
+        "OpeningHours_en": "7 am to 9 pm daily",
+        "Phone": "2741 4044"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Southern",
+        "Name_en": "Ap Lei Chau Service Reservoir Playground",
+        "Address_en": "Roof Top, Ap Lei Chau Service Reservoir, Aberdeen, Hong Kong",
+        "Facilities_en": "A jogging track",
+        "Ancillary Facilities_en": "Elderly fitness equipment, a 7-a-side soccer pitch and a pebble walking trail are provided in the Playground.",
+        "OpeningHours_en": "24 hours daily",
+        "Phone": "2555 0103"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Southern",
+        "Name_en": "Ap Lei Chau Wind Tower Park",
+        "Address_en": "Lei Chi Road, Ap Lei Chau, Hong Kong",
+        "Facilities_en": "A jogging track",
+        "Ancillary Facilities_en": "Toilets, toilet for persons with disabilities, babycare room and elderly fitness equipment are provided in the Park.",
+        "OpeningHours_en": "24 hours daily",
+        "Phone": "2555 0103"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Southern",
+        "Name_en": "Shum Wan Road Sitting-out Area",
+        "Address_en": "Shum Wan Road, Wong Chuk Hang, Aberdeen, Hong Kong",
+        "Facilities_en": "A jogging track",
+        "Ancillary Facilities_en": "Elderly fitness equipment is provided in the Area.",
+        "OpeningHours_en": "24 hours daily",
+        "Phone": "2555 0103"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Southern",
+        "Name_en": "Wah Chui Street Sitting-out Area",
+        "Address_en": "Wah Chui Street, Wah Fu Estate, Hong Kong",
+        "Facilities_en": "A jogging track",
+        "Ancillary Facilities_en": "Elderly fitness equipment is provided in the Area.",
+        "OpeningHours_en": "24 hours daily",
+        "Phone": "2555 0103"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Southern",
+        "Name_en": "Wong Chuk Hang Service Reservoir Rest Garden",
+        "Address_en": "Roof Top, Wong Chuk Hang Service Reservoir, Aberdeen, Hong Kong",
+        "Facilities_en": "A jogging track",
+        "Ancillary Facilities_en": "Elderly fitness equipment is provided in the Garden.",
+        "OpeningHours_en": "24 hours daily",
+        "Phone": "2555 0103"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Southern",
+        "Name_en": "Wong Nai Chung Reservoir Park Fitness Trail",
+        "Address_en": "Tai Tam Reservoir Road, Wong Nai Chung, Hong Kong",
+        "Facilities_en": "A fitness trail",
+        "Ancillary Facilities_en": "Elderly fitness equipment is provided in the Park.",
+        "OpeningHours_en": "24 hours daily",
+        "Phone": "2555 0103"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Southern",
+        "Name_en": "Yuk Kwai Shan Service Reservoir Sitting-out Area",
+        "Address_en": "Roof Top, Ap Lei Chau No.2 Fresh Water Service Reservoir, Yuk Kwai Shan, Aberdeen, Hong Kong",
+        "Facilities_en": "A jogging track",
+        "Ancillary Facilities_en": "Elderly fitness equipment and a pebble walking trail are provided in the Area.",
+        "OpeningHours_en": "24 hours daily",
+        "Phone": "2555 0103"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Tai Po",
+        "Name_en": "Mui Shue Hang Playground",
+        "Address_en": "Tai Po Mui Shue Hang Road",
+        "Facilities_en": "1",
+        "Ancillary Facilities_en": "Toilets and disabled toilets",
+        "OpeningHours_en": "24 hrs",
+        "Phone": "3183 9049"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Tai Po",
+        "Name_en": "Tai Po Waterfront Park",
+        "Address_en": "Tai Po Waterfront Park, Dai Fat Street, Tai Po",
+        "Facilities_en": "1 Jogging Track",
+        "Ancillary Facilities_en": "Toilets and disabled toilets",
+        "OpeningHours_en": "24 hours",
+        "Phone": "2664 2107"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Tai Po",
+        "Name_en": "Yuen Chau Tsai Park",
+        "Address_en": "Tai Po Island House Lane",
+        "Facilities_en": "1",
+        "Ancillary Facilities_en": "Changing rooms, toilets and disabled toilets",
+        "OpeningHours_en": "24 hrs",
+        "Phone": "3183 9049"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Tsuen Wan",
+        "Name_en": "Tsuen Wan Park ( Phase II)",
+        "Address_en": "59 Wing Shun Street, Tsuen Wan, N.T.",
+        "Facilities_en": "1 Jogging track with 1 300 M long",
+        "Ancillary Facilities_en": "․Men's and ladies' changing rooms and toilets",
+        "OpeningHours_en": "24 hours",
+        "Phone": "2408 9592"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Tuen Mun",
+        "Name_en": "Tsing Tin Playground",
+        "Address_en": "Leung Wan Street, Tuen Mun",
+        "Facilities_en": "1",
+        "Ancillary Facilities_en": "Male Toilet, Female Toilet, Toilet for Persons with a Disability, Changing Room, Spectator Stand.",
+        "OpeningHours_en": "24 hours",
+        "Phone": "2451 3012 "
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Tuen Mun",
+        "Name_en": "Wu Shan Riverside Park",
+        "Address_en": "Nullah from Sun Tuen Mun Centre to Lung Mun Oasis, Area 18, Lung Mun Road, Tuen Mun, N.T.",
+        "Facilities_en": "Jogging Tracks Length: 600 M",
+        "Ancillary Facilities_en": "Outdoor Fitness Equipment",
+        "OpeningHours_en": "24 hours",
+        "Phone": "2451 3110"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Tuen Mun",
+        "Name_en": "Yeung King Playground",
+        "Address_en": "Yeung King Road, Tuen Mun",
+        "Facilities_en": "",
+        "Ancillary Facilities_en": "Male Toilet, Female Toilet, Toilet for Persons with a Disability, Bathroom, Spectator Stand.",
+        "OpeningHours_en": "24 hours",
+        "Phone": "2451 3012"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Wan Chai",
+        "Name_en": "Bowen Road Fitness Trail",
+        "Address_en": "Bowen Road, Wan Chai, Hong Kong",
+        "Facilities_en": "A fitness trail with a length of 3,000 m, 8 nos. of Fitness Stations",
+        "Ancillary Facilities_en": "",
+        "OpeningHours_en": "24 hours",
+        "Phone": "2528 2983"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Wan Chai",
+        "Name_en": "Green Lane Service Reservoir Sitting-out Area",
+        "Address_en": "Green Lane, Happy Valley, Hong Kong",
+        "Facilities_en": "A jogging track/fitness trail with a length of 255 m",
+        "Ancillary Facilities_en": "",
+        "OpeningHours_en": "September to April: 7 am – 6 pm daily\n May to August: 6:45am to 6:45pm daily",
+        "Phone": "2879 5617"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Wan Chai",
+        "Name_en": "Victoria Park",
+        "Address_en": "1 Hing Fat Street, Causeway Bay, Hong Kong",
+        "Facilities_en": "A jogging track/fitness trail with a length of 625m",
+        "Ancillary Facilities_en": "6 fitness stations and changing rooms",
+        "OpeningHours_en": "24 hours daily",
+        "Phone": "2890 5824"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Wong Tai Sin",
+        "Name_en": "Choi Hung Road Playground",
+        "Address_en": "150 Choi Hung Road, San Po Kong",
+        "Facilities_en": "1 Jogging Track (about 410m)",
+        "Ancillary Facilities_en": "Men's and ladies' changing rooms and toilets (including accessible toilets)\nDrinking Fountain",
+        "OpeningHours_en": "7 am to 11 pm daily",
+        "Phone": "2326 2517"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Wong Tai Sin",
+        "Name_en": "Ma Chai Hang Recreation Ground",
+        "Address_en": "30 Ma Chai Hang Road, Wong Tai Sin, Kowloon",
+        "Facilities_en": "1 Jogging Track (about 220m)",
+        "Ancillary Facilities_en": "5 sets of Fitness Equipment\nToilet Lighting System",
+        "OpeningHours_en": "24 hours daily",
+        "Phone": "2321 0126"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Wong Tai Sin",
+        "Name_en": "Morse Park (Park No.1)",
+        "Address_en": "Tai Tung Street, Wong Tai Sin, Kowloon",
+        "Facilities_en": "A jogging track",
+        "Ancillary Facilities_en": "A toilet\nA toilet for persons with a disability",
+        "OpeningHours_en": "24 hours daily",
+        "Phone": "2323 9665"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Wong Tai Sin",
+        "Name_en": "Tsz Wan Shan Estate Service Reservoir Playground",
+        "Address_en": "Lok Wah Street, Tsz Wan Shan, Kowloon",
+        "Facilities_en": "1 Jogging Track (about 440m)",
+        "Ancillary Facilities_en": "10 sets of Fitness Equipment",
+        "OpeningHours_en": "24 hours daily",
+        "Phone": "2321 1022"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Yau Tsim Mong",
+        "Name_en": "Cherry Street Park",
+        "Address_en": "9 Hoi Ting Road, Mong Kok, Kowloon",
+        "Facilities_en": "Jogging Track (160m)",
+        "Ancillary Facilities_en": "A booking office, a piazza, 4 tennis courts, 2 basketball /volleyball courts, an artificial turf 7-a-side soccer pitch, a children's playground, elderly fitness stations, toilets, changing rooms with lockers and changing rooms cum toilet for persons with disabilities are provided in the Park.",
+        "OpeningHours_en": "6:30 am - 11 pm daily",
+        "Phone": "2625 4584"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Yau Tsim Mong",
+        "Name_en": "King's Park Rest Garden",
+        "Address_en": "King's Park Rise, Yau Ma Tei, Kowloon",
+        "Facilities_en": "Fitness Trail:\n․Parallel-bar ․Balance Beam ․Sit-up ․Step up ․2-way chin bar",
+        "Ancillary Facilities_en": "Rain shelters and garden benches are provided in the Garden",
+        "OpeningHours_en": "24 hours daily",
+        "Phone": "2385 8985"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Yau Tsim Mong",
+        "Name_en": "Kowloon Park",
+        "Address_en": "22 Austin Road, Tsim Sha Tsui, Kowloon",
+        "Facilities_en": "Fitness Trail:\n․Maze ․Pushups ․Balance Beam ․Parallel Bars ․Sit Ups ․Horizontal Ladder ․Chinning Bars ․Squat-Stretch Bench",
+        "Ancillary Facilities_en": "․Toilets, a children playground, rain shelters and garden benches are provided in the Park.\n․A fee-paying car park with 18 parking spaces (including 2 parking spaces for persons with disabilities) is provided.",
+        "OpeningHours_en": "5 am to midnight daily",
+        "Phone": "2724 3344"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Yau Tsim Mong",
+        "Name_en": "Lok Kwan Street Park",
+        "Address_en": "Lok Kwan Street, Mong Kok, Kowloon",
+        "Facilities_en": "Jogging Track (300m)",
+        "Ancillary Facilities_en": "․Toilets and toilets for persons with disabilities are provided in the Park.\n․Other Facilities_en include a children's play area and elderly fitness stations.",
+        "OpeningHours_en": "24 hours daily",
+        "Phone": "2302 1785"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Yau Tsim Mong",
+        "Name_en": "Sai Yee Street Garden",
+        "Address_en": "32 Sai Yee Street, Mong Kok, Kowloon",
+        "Facilities_en": "Jogging Track (156m)",
+        "Ancillary Facilities_en": "A children's playground and elderly fitness stations are provided in the Garden",
+        "OpeningHours_en": "24 hours daily",
+        "Phone": "2928 8182"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Yau Tsim Mong",
+        "Name_en": "Yau Ma Tei Service Reservoir Rest Garden",
+        "Address_en": "King's Park Rise, Yau Ma Tei, Kowloon",
+        "Facilities_en": "Jogging track (270m)",
+        "Ancillary Facilities_en": "․Rain shelters and garden benches are provided in the Garden\n․Other Facilities_en include elderly fitness stations with bench steppers, upper body warm-up, upper body stretch and strengthening, single leg balance, back strengthening, calf stretch, partial lunge and hamstring stretch",
+        "OpeningHours_en": "24 hours daily",
+        "Phone": "2385 8985"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Yuen Long",
+        "Name_en": "Dragon Park",
+        "Address_en": "Tin Lung Road, Tin Shui Wai, Yuen Long",
+        "Facilities_en": "1 Fitness Trail (350 meter)",
+        "Ancillary Facilities_en": "Toilet",
+        "OpeningHours_en": "24 hours daily",
+        "Phone": "2478 4342"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Yuen Long",
+        "Name_en": "Tin Fai Road Sports Centre",
+        "Address_en": "63 Tin Shui Road, Tin Shui Wai",
+        "Facilities_en": "Indoor Jogging Track (130 meter)",
+        "Ancillary Facilities_en": "",
+        "OpeningHours_en": "7 am to 11 pm daily. (Except maintenance day)",
+        "Phone": "2473 0229"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Yuen Long",
+        "Name_en": "Tin Sau Road Park",
+        "Address_en": "Tin Sau Road, Tin Shui Wai, Yuen Long",
+        "Facilities_en": "1 Fitness Trail (245 meters)",
+        "Ancillary Facilities_en": "Toilet",
+        "OpeningHours_en": "24 hours daily",
+        "Phone": "2478 4342"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Yuen Long",
+        "Name_en": "Tin Shui Wai Park",
+        "Address_en": "No.6, Tin Shui Road, Tin Shui Wai, N.T",
+        "Facilities_en": "1 Fitness Trail (800 meters)",
+        "Ancillary Facilities_en": "Toilet cum changing Room",
+        "OpeningHours_en": "24 hours daily",
+        "Phone": "2445 5805"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Yuen Long",
+        "Name_en": "Tin Yip Road Park",
+        "Address_en": "Tin Yip Road, Tin Shui Wai, Yuen Long",
+        "Facilities_en": "1 Jogging Track (250 meters)",
+        "Ancillary Facilities_en": "Toilet\nChanging Room Accessible Toilet Babycare Room",
+        "OpeningHours_en": "24 hours daily",
+        "Phone": "2682 3197"
+    },
+    {
+        "Category_en": "Jogging Tracks",
+        "District_en": "Yuen Long",
+        "Name_en": "Yuen Long Park",
+        "Address_en": "Town Park Road North, Yuen Long, N.T.",
+        "Facilities_en": "1 Fitness Trail (870 meters)",
+        "Ancillary Facilities_en": "Toilet",
+        "OpeningHours_en": "24 hours daily",
+        "Phone": "2473 6511"
+    }
+]
